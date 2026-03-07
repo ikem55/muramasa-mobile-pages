@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603070601",
     "target_date": "2026-03-07",
-    "generated_at": "2026-03-07T20:20:44+09:00",
-    "stage": "entry",
+    "generated_at": "2026-03-07T21:36:29+09:00",
+    "stage": "chokuzen",
     "version": 1
   },
   "race": {
@@ -182,7 +182,154 @@
       }
     ]
   },
-  "chokuzen": null,
+  "chokuzen": {
+    "horses": [
+      {
+        "umaban": 1,
+        "horse_name": "アイムインディ",
+        "odds": 4.1,
+        "popularity": 3,
+        "score": 24.2,
+        "mark": "○",
+        "win_probability": 0.24205805497084545
+      },
+      {
+        "umaban": 2,
+        "horse_name": "メビウスロマンス",
+        "odds": 2.9,
+        "popularity": 2,
+        "score": 22.8,
+        "mark": "▲",
+        "win_probability": 0.22790106551085587
+      },
+      {
+        "umaban": 3,
+        "horse_name": "マーゴットオーメン",
+        "odds": 69.6,
+        "popularity": 8,
+        "score": 0.8,
+        "mark": "-",
+        "win_probability": 0.007790557297176304
+      },
+      {
+        "umaban": 4,
+        "horse_name": "テンハートビート",
+        "odds": 21.9,
+        "popularity": 6,
+        "score": 4.7,
+        "mark": "☆",
+        "win_probability": 0.046800837149330546
+      },
+      {
+        "umaban": 5,
+        "horse_name": "ブルーノザビーチ",
+        "odds": 210.0,
+        "popularity": 13,
+        "score": 2.1,
+        "mark": "-",
+        "win_probability": 0.020808336176031554
+      },
+      {
+        "umaban": 6,
+        "horse_name": "ロマンスドール",
+        "odds": 386.7,
+        "popularity": 14,
+        "score": 0.2,
+        "mark": "-",
+        "win_probability": 0.0017746847532571573
+      },
+      {
+        "umaban": 7,
+        "horse_name": "マオノサルート",
+        "odds": 190.4,
+        "popularity": 12,
+        "score": 0.5,
+        "mark": "-",
+        "win_probability": 0.004707696602193418
+      },
+      {
+        "umaban": 8,
+        "horse_name": "ララムーティエ",
+        "odds": 397.5,
+        "popularity": 15,
+        "score": 0.0,
+        "mark": "-",
+        "win_probability": 0.00039733584734335354
+      },
+      {
+        "umaban": 9,
+        "horse_name": "ティアップシャイン",
+        "odds": 18.5,
+        "popularity": 5,
+        "score": 2.8,
+        "mark": "-",
+        "win_probability": 0.028259238522201333
+      },
+      {
+        "umaban": 10,
+        "horse_name": "マリノステアハート",
+        "odds": 39.4,
+        "popularity": 7,
+        "score": 3.4,
+        "mark": "-",
+        "win_probability": 0.03435418785072363
+      },
+      {
+        "umaban": 11,
+        "horse_name": "ジャメビュ",
+        "odds": 9.0,
+        "popularity": 4,
+        "score": 9.3,
+        "mark": "△",
+        "win_probability": 0.09274710401236796
+      },
+      {
+        "umaban": 12,
+        "horse_name": "ロジザボード",
+        "odds": 97.9,
+        "popularity": 10,
+        "score": 2.6,
+        "mark": "-",
+        "win_probability": 0.025720891837243205
+      },
+      {
+        "umaban": 13,
+        "horse_name": "ニシノギャルズ",
+        "odds": 78.1,
+        "popularity": 9,
+        "score": 0.4,
+        "mark": "-",
+        "win_probability": 0.004179164277487485
+      },
+      {
+        "umaban": 14,
+        "horse_name": "ウインディナナコ",
+        "odds": 100.6,
+        "popularity": 11,
+        "score": 1.8,
+        "mark": "-",
+        "win_probability": 0.017710677730740317
+      },
+      {
+        "umaban": 15,
+        "horse_name": "アリアーネ",
+        "odds": 441.4,
+        "popularity": 16,
+        "score": 0.1,
+        "mark": "-",
+        "win_probability": 0.0010131090599853692
+      },
+      {
+        "umaban": 16,
+        "horse_name": "トモジャオーリー",
+        "odds": 2.6,
+        "popularity": 1,
+        "score": 24.4,
+        "mark": "◎",
+        "win_probability": 0.24377705840221703
+      }
+    ]
+  },
   "final": null,
   "result": null
 }
