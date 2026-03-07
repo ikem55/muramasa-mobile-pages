@@ -1,0 +1,529 @@
+{
+  "meta": {
+    "race_id": "202603070901",
+    "target_date": "2026-03-07",
+    "generated_at": "2026-03-07T20:36:27+09:00",
+    "stage": "result",
+    "version": 1
+  },
+  "race": {
+    "race_id": "202603070901",
+    "keibajo_name": "阪神",
+    "race_number": 1,
+    "race_name": "未勝利",
+    "post_time": "09:50",
+    "course": "ダート1800",
+    "track": "ダート",
+    "distance": 1800,
+    "condition": "良",
+    "weather": "曇"
+  },
+  "entry": {
+    "horses": [
+      {
+        "umaban": 1,
+        "wakuban": 1,
+        "horse_name": "アクシュラ",
+        "sex_age": "牝3",
+        "jockey_name": "小沢大仁",
+        "weight_carried": 55.0,
+        "trainer_name": "橋口慎介",
+        "note": null
+      },
+      {
+        "umaban": 2,
+        "wakuban": 2,
+        "horse_name": "セラサイト",
+        "sex_age": "牝3",
+        "jockey_name": "吉村誠之",
+        "weight_carried": 55.0,
+        "trainer_name": "茶木太樹",
+        "note": null
+      },
+      {
+        "umaban": 3,
+        "wakuban": 3,
+        "horse_name": "シャンドラテ",
+        "sex_age": "牝3",
+        "jockey_name": "酒井学",
+        "weight_carried": 55.0,
+        "trainer_name": "高橋康之",
+        "note": null
+      },
+      {
+        "umaban": 4,
+        "wakuban": 3,
+        "horse_name": "ミリアリア",
+        "sex_age": "牝3",
+        "jockey_name": "川又賢治",
+        "weight_carried": 55.0,
+        "trainer_name": "杉山佳明",
+        "note": null
+      },
+      {
+        "umaban": 5,
+        "wakuban": 4,
+        "horse_name": "コイバナ",
+        "sex_age": "牝3",
+        "jockey_name": "幸英明",
+        "weight_carried": 55.0,
+        "trainer_name": "渡辺薫彦",
+        "note": null
+      },
+      {
+        "umaban": 6,
+        "wakuban": 4,
+        "horse_name": "ニキータ",
+        "sex_age": "牝3",
+        "jockey_name": "富田暁",
+        "weight_carried": 55.0,
+        "trainer_name": "千田輝彦",
+        "note": null
+      },
+      {
+        "umaban": 7,
+        "wakuban": 5,
+        "horse_name": "テイエムカミカゼ",
+        "sex_age": "牝3",
+        "jockey_name": "和田陽希",
+        "weight_carried": 52.0,
+        "trainer_name": "鈴木孝志",
+        "note": null
+      },
+      {
+        "umaban": 8,
+        "wakuban": 5,
+        "horse_name": "ウンナターシャ",
+        "sex_age": "牝3",
+        "jockey_name": "坂井瑠星",
+        "weight_carried": 55.0,
+        "trainer_name": "高柳大輔",
+        "note": null
+      },
+      {
+        "umaban": 9,
+        "wakuban": 6,
+        "horse_name": "サンタカリス",
+        "sex_age": "牝3",
+        "jockey_name": "柴田裕一",
+        "weight_carried": 53.0,
+        "trainer_name": "秋山真一",
+        "note": null
+      },
+      {
+        "umaban": 10,
+        "wakuban": 6,
+        "horse_name": "ショコラ",
+        "sex_age": "牝3",
+        "jockey_name": "松山弘平",
+        "weight_carried": 55.0,
+        "trainer_name": "上村洋行",
+        "note": null
+      },
+      {
+        "umaban": 11,
+        "wakuban": 7,
+        "horse_name": "ゴナビーオーライト",
+        "sex_age": "牝3",
+        "jockey_name": "藤懸貴志",
+        "weight_carried": 55.0,
+        "trainer_name": "梅田智之",
+        "note": null
+      },
+      {
+        "umaban": 12,
+        "wakuban": 7,
+        "horse_name": "オルビスケリー",
+        "sex_age": "牝3",
+        "jockey_name": "松若風馬",
+        "weight_carried": 55.0,
+        "trainer_name": "東田明士",
+        "note": null
+      },
+      {
+        "umaban": 13,
+        "wakuban": 8,
+        "horse_name": "ストラーダ",
+        "sex_age": "牝3",
+        "jockey_name": "北村友一",
+        "weight_carried": 55.0,
+        "trainer_name": "安田翔伍",
+        "note": null
+      },
+      {
+        "umaban": 14,
+        "wakuban": 8,
+        "horse_name": "ミルボナー",
+        "sex_age": "牝3",
+        "jockey_name": "西村淳也",
+        "weight_carried": 55.0,
+        "trainer_name": "高野友和",
+        "note": null
+      }
+    ]
+  },
+  "chokuzen": {
+    "horses": [
+      {
+        "umaban": 1,
+        "horse_name": "アクシュラ",
+        "odds": 67.2,
+        "popularity": 10,
+        "score": 1.3,
+        "mark": "-",
+        "win_probability": 0.013209084680052214
+      },
+      {
+        "umaban": 2,
+        "horse_name": "セラサイト",
+        "odds": 9.3,
+        "popularity": 3,
+        "score": 7.7,
+        "mark": "△",
+        "win_probability": 0.0774995652588834
+      },
+      {
+        "umaban": 3,
+        "horse_name": "シャンドラテ",
+        "odds": 25.9,
+        "popularity": 8,
+        "score": 4.5,
+        "mark": "-",
+        "win_probability": 0.044520878516451534
+      },
+      {
+        "umaban": 4,
+        "horse_name": "ミリアリア",
+        "odds": 490.0,
+        "popularity": 14,
+        "score": 0.1,
+        "mark": "-",
+        "win_probability": 0.0007169012576669045
+      },
+      {
+        "umaban": 5,
+        "horse_name": "コイバナ",
+        "odds": 13.4,
+        "popularity": 5,
+        "score": 7.9,
+        "mark": "▲",
+        "win_probability": 0.079448903851873
+      },
+      {
+        "umaban": 6,
+        "horse_name": "ニキータ",
+        "odds": 155.7,
+        "popularity": 13,
+        "score": 0.8,
+        "mark": "-",
+        "win_probability": 0.007924254038631765
+      },
+      {
+        "umaban": 7,
+        "horse_name": "テイエムカミカゼ",
+        "odds": 150.3,
+        "popularity": 12,
+        "score": 0.6,
+        "mark": "-",
+        "win_probability": 0.006381133320998439
+      },
+      {
+        "umaban": 8,
+        "horse_name": "ウンナターシャ",
+        "odds": 1.6,
+        "popularity": 1,
+        "score": 47.0,
+        "mark": "◎",
+        "win_probability": 0.470316764759517
+      },
+      {
+        "umaban": 9,
+        "horse_name": "サンタカリス",
+        "odds": 55.8,
+        "popularity": 9,
+        "score": 3.7,
+        "mark": "-",
+        "win_probability": 0.03729765145550522
+      },
+      {
+        "umaban": 10,
+        "horse_name": "ショコラ",
+        "odds": 18.6,
+        "popularity": 7,
+        "score": 9.4,
+        "mark": "○",
+        "win_probability": 0.09444935089601417
+      },
+      {
+        "umaban": 11,
+        "horse_name": "ゴナビーオーライト",
+        "odds": 89.1,
+        "popularity": 11,
+        "score": 0.5,
+        "mark": "-",
+        "win_probability": 0.005066485956391203
+      },
+      {
+        "umaban": 12,
+        "horse_name": "オルビスケリー",
+        "odds": 18.3,
+        "popularity": 6,
+        "score": 4.8,
+        "mark": "-",
+        "win_probability": 0.04760236694297752
+      },
+      {
+        "umaban": 13,
+        "horse_name": "ストラーダ",
+        "odds": 6.5,
+        "popularity": 2,
+        "score": 7.2,
+        "mark": "☆",
+        "win_probability": 0.0722744321637134
+      },
+      {
+        "umaban": 14,
+        "horse_name": "ミルボナー",
+        "odds": 9.8,
+        "popularity": 4,
+        "score": 4.3,
+        "mark": "-",
+        "win_probability": 0.043292226901324
+      }
+    ]
+  },
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "08-09",
+        "strategy": "fractional_kelly",
+        "stake": 100,
+        "odds": 33.0,
+        "predicted_prob": 0.0621,
+        "expected_value": 2.0493,
+        "kelly_fraction": 0.032790625000000004,
+        "created_at": "2026-03-07 09:48:03.365928"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "08-12",
+        "strategy": "fractional_kelly",
+        "stake": 600,
+        "odds": 9.6,
+        "predicted_prob": 0.1487,
+        "expected_value": 1.42752,
+        "kelly_fraction": 0.04971162790697674,
+        "created_at": "2026-03-07 09:48:03.365928"
+      }
+    ]
+  },
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 13,
+        "horse_name": "ストラーダ",
+        "time": "1:56.7",
+        "last3f": 38.6,
+        "passing_order": "1-1-1-1",
+        "jockey_name": "北村友一"
+      },
+      {
+        "rank": 2,
+        "umaban": 14,
+        "horse_name": "ミルボナー",
+        "time": "1:57.1",
+        "last3f": 38.7,
+        "passing_order": "7-5-2-2",
+        "jockey_name": "西村淳也"
+      },
+      {
+        "rank": 3,
+        "umaban": 1,
+        "horse_name": "アクシュラ",
+        "time": "1:57.2",
+        "last3f": 38.3,
+        "passing_order": "9-9-8-7",
+        "jockey_name": "小沢大仁"
+      },
+      {
+        "rank": 4,
+        "umaban": 3,
+        "horse_name": "シャンドラテ",
+        "time": "1:57.2",
+        "last3f": 38.8,
+        "passing_order": "2-2-5-3",
+        "jockey_name": "酒井学"
+      },
+      {
+        "rank": 5,
+        "umaban": 8,
+        "horse_name": "ウンナターシャ",
+        "time": "1:57.2",
+        "last3f": 38.5,
+        "passing_order": "7-7-6-6",
+        "jockey_name": "坂井瑠星"
+      },
+      {
+        "rank": 6,
+        "umaban": 2,
+        "horse_name": "セラサイト",
+        "time": "1:57.3",
+        "last3f": 38.7,
+        "passing_order": "4-7-6-3",
+        "jockey_name": "吉村誠之"
+      },
+      {
+        "rank": 7,
+        "umaban": 5,
+        "horse_name": "コイバナ",
+        "time": "1:57.9",
+        "last3f": 39.0,
+        "passing_order": "9-9-8-7",
+        "jockey_name": "幸英明"
+      },
+      {
+        "rank": 8,
+        "umaban": 9,
+        "horse_name": "サンタカリス",
+        "time": "1:58.2",
+        "last3f": 39.0,
+        "passing_order": "11-11-11-10",
+        "jockey_name": "柴田裕一"
+      },
+      {
+        "rank": 9,
+        "umaban": 11,
+        "horse_name": "ゴナビーオーライト",
+        "time": "1:58.7",
+        "last3f": 39.2,
+        "passing_order": "14-13-13-12",
+        "jockey_name": "藤懸貴志"
+      },
+      {
+        "rank": 10,
+        "umaban": 7,
+        "horse_name": "テイエムカミカゼ",
+        "time": "1:58.9",
+        "last3f": 40.6,
+        "passing_order": "2-2-2-3",
+        "jockey_name": "和田陽希"
+      },
+      {
+        "rank": 11,
+        "umaban": 10,
+        "horse_name": "ショコラ",
+        "time": "1:59.1",
+        "last3f": 39.3,
+        "passing_order": "13-13-13-14",
+        "jockey_name": "松山弘平"
+      },
+      {
+        "rank": 12,
+        "umaban": 6,
+        "horse_name": "ニキータ",
+        "time": "1:59.3",
+        "last3f": 40.1,
+        "passing_order": "4-5-8-10",
+        "jockey_name": "富田暁"
+      },
+      {
+        "rank": 13,
+        "umaban": 4,
+        "horse_name": "ミリアリア",
+        "time": "1:59.5",
+        "last3f": 40.4,
+        "passing_order": "11-11-11-9",
+        "jockey_name": "川又賢治"
+      },
+      {
+        "rank": 14,
+        "umaban": 12,
+        "horse_name": "オルビスケリー",
+        "time": "2:06.5",
+        "last3f": 48.0,
+        "passing_order": "4-2-2-12",
+        "jockey_name": "松若風馬"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "13",
+          "amount": 400
+        },
+        {
+          "combination": "14",
+          "amount": 650
+        },
+        {
+          "combination": "01",
+          "amount": 1640
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "01-13-14",
+          "amount": 54300
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "13-14-01",
+          "amount": 202870
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "13",
+          "amount": 650
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "13-14",
+          "amount": 3360
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "13-14",
+          "amount": 6750
+        }
+      ],
+      "wakuren": [
+        {
+          "combination": "8-8",
+          "amount": 3270
+        }
+      ],
+      "wide": [
+        {
+          "combination": "13-14",
+          "amount": 950
+        },
+        {
+          "combination": "01-13",
+          "amount": 3190
+        },
+        {
+          "combination": "01-14",
+          "amount": 7200
+        }
+      ]
+    },
+    "laps": [
+      "13.0",
+      "11.4",
+      "14.6",
+      "13.4",
+      "12.9",
+      "12.8",
+      "12.8",
+      "12.8",
+      "13.0"
+    ],
+    "comment": null
+  }
+}
