@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603080909",
     "target_date": "2026-03-08",
-    "generated_at": "2026-03-08T11:57+09:00",
-    "stage": "entry",
+    "generated_at": "2026-03-08T14:07+09:00",
+    "stage": "chokuzen",
     "version": 1
   },
   "race": {
@@ -119,7 +119,107 @@
       "winner_time_residual": null
     }
   },
-  "chokuzen": null,
+  "chokuzen": {
+    "horses": [
+      {
+        "umaban": 1,
+        "horse_name": "カレントゥルーシー",
+        "odds": 12.5,
+        "popularity": 5,
+        "jockey_name": "藤懸貴志",
+        "weight_carried": 57.0,
+        "win_flag": 0.11459125375395422,
+        "place_flag": 0.20679130287444533,
+        "show_flag": 0.3529208091776407,
+        "corner4_class": 0.3130999888211161,
+        "position_volatility": 0.48852893300686395,
+        "dash_index": 0.7907381880715011,
+        "fastest_l3f_flag": 0.05857781911930805
+      },
+      {
+        "umaban": 2,
+        "horse_name": "サントルドパリ",
+        "odds": 5.0,
+        "popularity": 4,
+        "jockey_name": "鮫島克駿",
+        "weight_carried": 57.0,
+        "win_flag": 0.11376712760278113,
+        "place_flag": 0.1682802791415273,
+        "show_flag": 0.3351280652696892,
+        "corner4_class": 0.5230622222529226,
+        "position_volatility": 0.29811616231424265,
+        "dash_index": 0.5696578108243682,
+        "fastest_l3f_flag": 0.11859526292822488
+      },
+      {
+        "umaban": 3,
+        "horse_name": "カフジエメンタール",
+        "odds": 4.6,
+        "popularity": 3,
+        "jockey_name": "武豊",
+        "weight_carried": 57.0,
+        "win_flag": 0.27887595409261723,
+        "place_flag": 0.3421513579050245,
+        "show_flag": 0.5982998553361993,
+        "corner4_class": 0.2780091928672497,
+        "position_volatility": 0.2482933105512658,
+        "dash_index": 0.7933047521955334,
+        "fastest_l3f_flag": 0.10142622776615291
+      },
+      {
+        "umaban": 4,
+        "horse_name": "テーオーアルアイン",
+        "odds": 2.3,
+        "popularity": 1,
+        "jockey_name": "松山弘平",
+        "weight_carried": 57.0,
+        "win_flag": 0.6233342734040382,
+        "place_flag": 0.7007230528202474,
+        "show_flag": 0.8837517913682432,
+        "corner4_class": 0.2950943489294785,
+        "position_volatility": 0.4162076920360253,
+        "dash_index": 0.7207335713570373,
+        "fastest_l3f_flag": 0.27754767495095706
+      },
+      {
+        "umaban": 5,
+        "horse_name": "キーンセンス",
+        "odds": 18.4,
+        "popularity": 6,
+        "jockey_name": "西村淳也",
+        "weight_carried": 57.0,
+        "win_flag": 0.054155869413953554,
+        "place_flag": 0.12140871222615013,
+        "show_flag": 0.19973024069941758,
+        "corner4_class": 0.39853567392886396,
+        "position_volatility": 0.5631114067189079,
+        "dash_index": 0.6641102481351422,
+        "fastest_l3f_flag": 0.02320545622762537
+      },
+      {
+        "umaban": 6,
+        "horse_name": "ダノンセフィーロ",
+        "odds": 3.6,
+        "popularity": 2,
+        "jockey_name": "岩田望来",
+        "weight_carried": 57.0,
+        "win_flag": 0.342759188794166,
+        "place_flag": 0.6184115598053878,
+        "show_flag": 0.774227904926813,
+        "corner4_class": 0.6235144665484519,
+        "position_volatility": 0.299810723852661,
+        "dash_index": 0.4640449714804727,
+        "fastest_l3f_flag": 0.48004121640594516
+      }
+    ],
+    "race_metrics": {
+      "chaos_entropy": 0.8700942794350136,
+      "fav_top3_lock": 0.6336704959635631,
+      "pace_bias_index": 0.01795275349253478,
+      "upset_probability": 0.47547061650509787,
+      "winner_time_residual": null
+    }
+  },
   "final": null,
   "result": null
 }
