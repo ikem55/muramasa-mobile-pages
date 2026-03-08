@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "race_id": "202603080909",
+    "target_date": "2026-03-08",
+    "generated_at": "2026-03-08T11:57+09:00",
+    "stage": "entry",
+    "version": 1
+  },
+  "race": {
+    "race_id": "202603080909",
+    "keibajo_name": "阪神",
+    "race_number": 9,
+    "race_name": "アルメリア賞",
+    "post_time": "14:15",
+    "course": "芝1800",
+    "track": "芝",
+    "distance": 1800,
+    "condition": "良",
+    "weather": "晴"
+  },
+  "entry": {
+    "horses": [
+      {
+        "umaban": 1,
+        "wakuban": 1,
+        "horse_name": "カレントゥルーシー",
+        "sex_age": "牡3",
+        "jockey_name": "藤懸貴志",
+        "weight_carried": 57.0,
+        "win_flag": 0.10850235498679572,
+        "place_flag": 0.20950711082841594,
+        "show_flag": 0.44161384236799767,
+        "corner4_class": 0.33306269659538784,
+        "position_volatility": null,
+        "dash_index": 0.8071875025991408,
+        "fastest_l3f_flag": 0.05882314368061869
+      },
+      {
+        "umaban": 2,
+        "wakuban": 2,
+        "horse_name": "サントルドパリ",
+        "sex_age": "牡3",
+        "jockey_name": "鮫島克駿",
+        "weight_carried": 57.0,
+        "win_flag": 0.04979500367507549,
+        "place_flag": 0.11249166246010597,
+        "show_flag": 0.31710683914040244,
+        "corner4_class": 0.4954765082368042,
+        "position_volatility": null,
+        "dash_index": 0.6151457726709032,
+        "fastest_l3f_flag": 0.13534186792300798
+      },
+      {
+        "umaban": 3,
+        "wakuban": 3,
+        "horse_name": "カフジエメンタール",
+        "sex_age": "牡3",
+        "jockey_name": "武豊",
+        "weight_carried": 57.0,
+        "win_flag": 0.14773699683867303,
+        "place_flag": 0.43425523157166673,
+        "show_flag": 0.6681805573728508,
+        "corner4_class": 0.28263893036268645,
+        "position_volatility": null,
+        "dash_index": 0.8638570179841,
+        "fastest_l3f_flag": 0.26342254646604674
+      },
+      {
+        "umaban": 4,
+        "wakuban": 4,
+        "horse_name": "テーオーアルアイン",
+        "sex_age": "牡3",
+        "jockey_name": "松山弘平",
+        "weight_carried": 57.0,
+        "win_flag": 0.4636653892320049,
+        "place_flag": 0.6739004333508749,
+        "show_flag": 0.7995797891677239,
+        "corner4_class": 0.31636233547819625,
+        "position_volatility": null,
+        "dash_index": 0.8303669949365289,
+        "fastest_l3f_flag": 0.31207722543437594
+      },
+      {
+        "umaban": 5,
+        "wakuban": 5,
+        "horse_name": "キーンセンス",
+        "sex_age": "牡3",
+        "jockey_name": "西村淳也",
+        "weight_carried": 57.0,
+        "win_flag": 0.04614942817662691,
+        "place_flag": 0.08825931771862065,
+        "show_flag": 0.19146857858437413,
+        "corner4_class": 0.4951696907171759,
+        "position_volatility": null,
+        "dash_index": 0.7226368436976089,
+        "fastest_l3f_flag": 0.018176331144951194
+      },
+      {
+        "umaban": 6,
+        "wakuban": 6,
+        "horse_name": "ダノンセフィーロ",
+        "sex_age": "牡3",
+        "jockey_name": "岩田望来",
+        "weight_carried": 57.0,
+        "win_flag": 0.46371999863213414,
+        "place_flag": 0.5253127610465805,
+        "show_flag": 0.7518757875937048,
+        "corner4_class": 0.6322445744271808,
+        "position_volatility": null,
+        "dash_index": 0.38220714174733783,
+        "fastest_l3f_flag": 0.449384528572458
+      }
+    ],
+    "race_metrics": {
+      "chaos_entropy": 0.7333620284268113,
+      "fav_top3_lock": null,
+      "pace_bias_index": 0.015150045526924005,
+      "upset_probability": 0.4409733163144782,
+      "winner_time_residual": null
+    }
+  },
+  "chokuzen": null,
+  "final": null,
+  "result": null
+}
