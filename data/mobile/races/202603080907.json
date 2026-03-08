@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603080907",
     "target_date": "2026-03-08",
-    "generated_at": "2026-03-08T11:57+09:00",
-    "stage": "entry",
+    "generated_at": "2026-03-08T13:08+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -164,7 +164,173 @@
       "winner_time_residual": null
     }
   },
-  "chokuzen": null,
-  "final": null,
+  "chokuzen": {
+    "horses": [
+      {
+        "umaban": 1,
+        "horse_name": "エレガンシア",
+        "odds": 6.0,
+        "popularity": 2,
+        "jockey_name": "松山弘平",
+        "weight_carried": 56.0,
+        "win_flag": 0.2304638608000018,
+        "place_flag": 0.41029200375077174,
+        "show_flag": 0.5737391359617556,
+        "corner4_class": 0.5069553034416436,
+        "position_volatility": 0.11472581837987705,
+        "dash_index": 0.525358856894891,
+        "fastest_l3f_flag": 0.29377176422204626
+      },
+      {
+        "umaban": 2,
+        "horse_name": "イリスレーン",
+        "odds": 36.3,
+        "popularity": 8,
+        "jockey_name": "河原田菜",
+        "weight_carried": 52.0,
+        "win_flag": 0.014363679125278596,
+        "place_flag": 0.02354344032431458,
+        "show_flag": 0.07665949667807664,
+        "corner4_class": 0.2572409032357263,
+        "position_volatility": 0.2988624059715156,
+        "dash_index": 0.8675474918694097,
+        "fastest_l3f_flag": 0.0041957959838698836
+      },
+      {
+        "umaban": 3,
+        "horse_name": "ワイドモヒート",
+        "odds": 33.0,
+        "popularity": 7,
+        "jockey_name": "西村淳也",
+        "weight_carried": 58.0,
+        "win_flag": 0.06676248173642096,
+        "place_flag": 0.1788369410742459,
+        "show_flag": 0.18523900527864984,
+        "corner4_class": 0.2421253048465551,
+        "position_volatility": 0.2516359550996109,
+        "dash_index": 0.8618019151747572,
+        "fastest_l3f_flag": 0.010417495762721099
+      },
+      {
+        "umaban": 4,
+        "horse_name": "ハルフロンティア",
+        "odds": 98.5,
+        "popularity": 9,
+        "jockey_name": "田山旺佑",
+        "weight_carried": 55.0,
+        "win_flag": 0.00587831129420797,
+        "place_flag": 0.027747917280736948,
+        "show_flag": 0.03659628290089598,
+        "corner4_class": 0.6937337697026645,
+        "position_volatility": 0.34323504685827533,
+        "dash_index": 0.49013723329621306,
+        "fastest_l3f_flag": 0.02708234372622178
+      },
+      {
+        "umaban": 5,
+        "horse_name": "アスクコモンタレヴ",
+        "odds": 1.4,
+        "popularity": 1,
+        "jockey_name": "武豊",
+        "weight_carried": 58.0,
+        "win_flag": 0.6134358038145176,
+        "place_flag": 0.6709889091846362,
+        "show_flag": 0.8581793723947416,
+        "corner4_class": 0.4896425266715842,
+        "position_volatility": 0.0615629613640887,
+        "dash_index": 0.5658199462418316,
+        "fastest_l3f_flag": 0.3732143328603854
+      },
+      {
+        "umaban": 6,
+        "horse_name": "ジェルブロア",
+        "odds": 10.8,
+        "popularity": 4,
+        "jockey_name": "岩田望来",
+        "weight_carried": 56.0,
+        "win_flag": 0.19279492928285055,
+        "place_flag": 0.3865489884101442,
+        "show_flag": 0.5299801406706831,
+        "corner4_class": 0.34978157573874796,
+        "position_volatility": 0.2556334018067881,
+        "dash_index": 0.7059032978821017,
+        "fastest_l3f_flag": 0.10046163269489668
+      },
+      {
+        "umaban": 7,
+        "horse_name": "ウインポセイドン",
+        "odds": 19.5,
+        "popularity": 5,
+        "jockey_name": "松若風馬",
+        "weight_carried": 58.0,
+        "win_flag": 0.06773884094850595,
+        "place_flag": 0.21562281923548912,
+        "show_flag": 0.2914269583068857,
+        "corner4_class": 0.45157419460293435,
+        "position_volatility": 0.14023305797362023,
+        "dash_index": 0.5963634106975796,
+        "fastest_l3f_flag": 0.10005559195877552
+      },
+      {
+        "umaban": 8,
+        "horse_name": "ビゾー",
+        "odds": 7.9,
+        "popularity": 3,
+        "jockey_name": "団野大成",
+        "weight_carried": 58.0,
+        "win_flag": 0.175564255419356,
+        "place_flag": 0.3161070290676951,
+        "show_flag": 0.47743446983529986,
+        "corner4_class": 0.4347316315299655,
+        "position_volatility": 0.13684671344623714,
+        "dash_index": 0.6053545709736423,
+        "fastest_l3f_flag": 0.13096699739776577
+      },
+      {
+        "umaban": 9,
+        "horse_name": "マイネルビスマルク",
+        "odds": 24.7,
+        "popularity": 6,
+        "jockey_name": "加藤祥太",
+        "weight_carried": 58.0,
+        "win_flag": 0.05287680248529606,
+        "place_flag": 0.1052722531454394,
+        "show_flag": 0.21013454703016993,
+        "corner4_class": 0.5921988723542726,
+        "position_volatility": 0.11122588622145312,
+        "dash_index": 0.45924167539994426,
+        "fastest_l3f_flag": 0.08620751610467992
+      }
+    ],
+    "race_metrics": {
+      "chaos_entropy": 0.7140653370837953,
+      "fav_top3_lock": 0.5176383745993102,
+      "pace_bias_index": 0.08225265526288195,
+      "upset_probability": 0.4600210818756193,
+      "winner_time_residual": null
+    }
+  },
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "tansho",
+        "combination": "06",
+        "stake": 1200,
+        "odds": 10.8
+      },
+      {
+        "ticket_type": "sanrentan",
+        "combination": "01-05-08",
+        "stake": 100,
+        "odds": 41.6
+      },
+      {
+        "ticket_type": "sanrentan",
+        "combination": "06-05-08",
+        "stake": 100,
+        "odds": 56.7
+      }
+    ]
+  },
   "result": null
 }
