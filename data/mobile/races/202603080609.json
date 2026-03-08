@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603080609",
     "target_date": "2026-03-08",
-    "generated_at": "2026-03-08T14:22+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-08T14:28+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -520,6 +520,21 @@
       "winner_time_residual": null
     }
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "01-02",
+        "stake": 1000,
+        "odds": 24.9
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-12-16",
+        "stake": 400,
+        "odds": 82.4
+      }
+    ]
+  },
   "result": null
 }
