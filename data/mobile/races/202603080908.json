@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603080908",
     "target_date": "2026-03-08",
-    "generated_at": "2026-03-08T11:57+09:00",
-    "stage": "entry",
+    "generated_at": "2026-03-08T13:32+09:00",
+    "stage": "chokuzen",
     "version": 1
   },
   "race": {
@@ -164,7 +164,152 @@
       "winner_time_residual": null
     }
   },
-  "chokuzen": null,
+  "chokuzen": {
+    "horses": [
+      {
+        "umaban": 1,
+        "horse_name": "ハッピーダンチャン",
+        "odds": 14.2,
+        "popularity": 5,
+        "jockey_name": "西塚洸二",
+        "weight_carried": 58.0,
+        "win_flag": 0.08009230220821999,
+        "place_flag": 0.1278817711963973,
+        "show_flag": 0.24889848457453648,
+        "corner4_class": 0.35175050023793597,
+        "position_volatility": 0.3291165733984864,
+        "dash_index": 0.7750896053452447,
+        "fastest_l3f_flag": 0.021007842730395323
+      },
+      {
+        "umaban": 2,
+        "horse_name": "キングロコマイカイ",
+        "odds": 83.6,
+        "popularity": 9,
+        "jockey_name": "和田陽希",
+        "weight_carried": 55.0,
+        "win_flag": 0.02094260993544883,
+        "place_flag": 0.06342448524228105,
+        "show_flag": 0.09851903994689051,
+        "corner4_class": 0.7525807442134309,
+        "position_volatility": 0.3488491176531289,
+        "dash_index": 0.3685135639713739,
+        "fastest_l3f_flag": 0.08292909394850355
+      },
+      {
+        "umaban": 3,
+        "horse_name": "バトンインディ",
+        "odds": 41.0,
+        "popularity": 8,
+        "jockey_name": "幸英明",
+        "weight_carried": 58.0,
+        "win_flag": 0.03802220116250225,
+        "place_flag": 0.07544579548005469,
+        "show_flag": 0.12581738415171065,
+        "corner4_class": 0.40384968126973614,
+        "position_volatility": 0.3308806327886186,
+        "dash_index": 0.7306907698049501,
+        "fastest_l3f_flag": 0.01962464013314594
+      },
+      {
+        "umaban": 4,
+        "horse_name": "メイショウソウセキ",
+        "odds": 17.7,
+        "popularity": 6,
+        "jockey_name": "永島まな",
+        "weight_carried": 56.0,
+        "win_flag": 0.08254414091975427,
+        "place_flag": 0.10360813860282289,
+        "show_flag": 0.21212656616700418,
+        "corner4_class": 0.3608393919978152,
+        "position_volatility": 0.3093613255456404,
+        "dash_index": 0.7531228737827642,
+        "fastest_l3f_flag": 0.02660279367991392
+      },
+      {
+        "umaban": 5,
+        "horse_name": "ルクスフレンジー",
+        "odds": 1.7,
+        "popularity": 1,
+        "jockey_name": "酒井学",
+        "weight_carried": 58.0,
+        "win_flag": 0.4986715361975497,
+        "place_flag": 0.6187576390986296,
+        "show_flag": 0.8294642832026301,
+        "corner4_class": 0.5144934974476725,
+        "position_volatility": 0.46279262670162225,
+        "dash_index": 0.46500389516766943,
+        "fastest_l3f_flag": 0.4114939780518645
+      },
+      {
+        "umaban": 6,
+        "horse_name": "ノボリクレバー",
+        "odds": 8.5,
+        "popularity": 3,
+        "jockey_name": "吉村誠之",
+        "weight_carried": 56.0,
+        "win_flag": 0.2649463523596118,
+        "place_flag": 0.4950782365821921,
+        "show_flag": 0.6381623056633237,
+        "corner4_class": 0.4491826161666779,
+        "position_volatility": 0.26954419691938875,
+        "dash_index": 0.6043104617714333,
+        "fastest_l3f_flag": 0.23266269846726012
+      },
+      {
+        "umaban": 7,
+        "horse_name": "ショーダンサー",
+        "odds": 4.0,
+        "popularity": 2,
+        "jockey_name": "国分優作",
+        "weight_carried": 58.0,
+        "win_flag": 0.3091730602074899,
+        "place_flag": 0.5876074404398864,
+        "show_flag": 0.7489629524984543,
+        "corner4_class": 0.5491861872075977,
+        "position_volatility": 0.14833071990655314,
+        "dash_index": 0.36723904614367014,
+        "fastest_l3f_flag": 0.520698348628387
+      },
+      {
+        "umaban": 8,
+        "horse_name": "マッスルバック",
+        "odds": 23.0,
+        "popularity": 7,
+        "jockey_name": "太宰啓介",
+        "weight_carried": 58.0,
+        "win_flag": 0.04352255396562982,
+        "place_flag": 0.10080965323262318,
+        "show_flag": 0.21181090926615412,
+        "corner4_class": 0.5866900449162681,
+        "position_volatility": 0.37280513921804814,
+        "dash_index": 0.5403557613317809,
+        "fastest_l3f_flag": 0.061809115526874604
+      },
+      {
+        "umaban": 9,
+        "horse_name": "タイガースパーク",
+        "odds": 9.6,
+        "popularity": 4,
+        "jockey_name": "田口貫太",
+        "weight_carried": 58.0,
+        "win_flag": 0.14140965038678663,
+        "place_flag": 0.3016785234021346,
+        "show_flag": 0.47766952424678233,
+        "corner4_class": 0.6294131555318655,
+        "position_volatility": 0.2759071468688333,
+        "dash_index": 0.38420829982585747,
+        "fastest_l3f_flag": 0.30773147666634904
+      }
+    ],
+    "race_metrics": {
+      "chaos_entropy": 0.7897781821590418,
+      "fav_top3_lock": 0.5106403587599315,
+      "pace_bias_index": 0.07319265657978713,
+      "upset_probability": 0.4600210818756193,
+      "winner_time_residual": null
+    }
+  },
   "final": null,
   "result": null
 }
