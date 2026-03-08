@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603080912",
     "target_date": "2026-03-08",
-    "generated_at": "2026-03-08T16:02+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-08T16:08+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -460,6 +460,45 @@
       "winner_time_residual": null
     }
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umatan",
+        "combination": "07-12",
+        "stake": 200,
+        "odds": 61.0
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "07-12",
+        "stake": 200,
+        "odds": 9.0
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "07-10-12",
+        "stake": 200,
+        "odds": 63.4
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-07-10",
+        "stake": 100,
+        "odds": 117.6
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-10",
+        "stake": 100,
+        "odds": 13.4
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "04-12",
+        "stake": 200,
+        "odds": 9.5
+      }
+    ]
+  },
   "result": null
 }
