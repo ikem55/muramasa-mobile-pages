@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603140701",
     "target_date": "2026-03-14",
-    "generated_at": "2026-03-14T09:43+09:00",
-    "stage": "final",
+    "generated_at": "2026-03-14T10:01+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -380,5 +380,239 @@
       }
     ]
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 5,
+        "horse_name": "ヴェールミューズ",
+        "time": "1:55.0",
+        "last3f": 38.5,
+        "passing_order": "2-2-2-2",
+        "jockey_name": "高杉吏麒"
+      },
+      {
+        "rank": 2,
+        "umaban": 3,
+        "horse_name": "タガノラヴズワン",
+        "time": "1:56.0",
+        "last3f": 38.4,
+        "passing_order": "8-8-8-7",
+        "jockey_name": "和田陽希"
+      },
+      {
+        "rank": 3,
+        "umaban": 4,
+        "horse_name": "トゥインクルピカ",
+        "time": "1:56.0",
+        "last3f": 39.7,
+        "passing_order": "1-1-1-1",
+        "jockey_name": "富田暁"
+      },
+      {
+        "rank": 4,
+        "umaban": 6,
+        "horse_name": "ドリームキャリー",
+        "time": "1:56.2",
+        "last3f": 39.3,
+        "passing_order": "7-7-6-6",
+        "jockey_name": "田山旺佑"
+      },
+      {
+        "rank": 5,
+        "umaban": 2,
+        "horse_name": "ファストフォワード",
+        "time": "1:56.6",
+        "last3f": 40.0,
+        "passing_order": "3-3-3-3",
+        "jockey_name": "小崎綾也"
+      },
+      {
+        "rank": 6,
+        "umaban": 7,
+        "horse_name": "アウラニ",
+        "time": "1:57.0",
+        "last3f": 39.5,
+        "passing_order": "10-10-8-7",
+        "jockey_name": "ディー"
+      },
+      {
+        "rank": 7,
+        "umaban": 9,
+        "horse_name": "チョウスター",
+        "time": "1:58.1",
+        "last3f": 41.3,
+        "passing_order": "4-3-5-4",
+        "jockey_name": "古川奈穂"
+      },
+      {
+        "rank": 8,
+        "umaban": 8,
+        "horse_name": "シンデレラカラー",
+        "time": "1:58.2",
+        "last3f": 41.6,
+        "passing_order": "6-6-3-4",
+        "jockey_name": "丸山元気"
+      },
+      {
+        "rank": 9,
+        "umaban": 1,
+        "horse_name": "パーフェクトスノー",
+        "time": "1:59.3",
+        "last3f": 42.1,
+        "passing_order": "5-5-7-7",
+        "jockey_name": "石神深道"
+      },
+      {
+        "rank": 10,
+        "umaban": 10,
+        "horse_name": "トゥルパーニ",
+        "time": "2:05.3",
+        "last3f": 46.8,
+        "passing_order": "8-8-10-10",
+        "jockey_name": "今村聖奈"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "05",
+          "amount": 110,
+          "popularity": 1
+        },
+        {
+          "combination": "04",
+          "amount": 310,
+          "popularity": 5
+        },
+        {
+          "combination": "03",
+          "amount": 1170,
+          "popularity": 9
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "03-04-05",
+          "amount": 20840,
+          "popularity": 46
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "05-03-04",
+          "amount": 106100,
+          "popularity": 228
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "05",
+          "amount": 180,
+          "popularity": 1
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "03-05",
+          "amount": 7000,
+          "popularity": 18
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "05-03",
+          "amount": 9160,
+          "popularity": 27
+        }
+      ],
+      "wakuren": [
+        {
+          "combination": "3-5",
+          "amount": 7960,
+          "popularity": 16
+        }
+      ],
+      "wide": [
+        {
+          "combination": "04-05",
+          "amount": 580,
+          "popularity": 6
+        },
+        {
+          "combination": "03-05",
+          "amount": 2020,
+          "popularity": 18
+        },
+        {
+          "combination": "03-04",
+          "amount": 6160,
+          "popularity": 34
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-04-05",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 27.4,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-04-07",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 110.2,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "04-06-07",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 120.9,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "04-05",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 53.1,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "05-04",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 27.3,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "04-07",
+        "stake": 400,
+        "payout": 0,
+        "profit": -400,
+        "is_hit": false,
+        "odds": 17.6,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
