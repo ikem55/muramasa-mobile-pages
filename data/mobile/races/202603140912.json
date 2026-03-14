@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603140912",
     "target_date": "2026-03-14",
-    "generated_at": "2026-03-13T20:12+09:00",
-    "stage": "entry",
+    "generated_at": "2026-03-14T16:02+09:00",
+    "stage": "chokuzen",
     "version": 1
   },
   "race": {
@@ -149,7 +149,137 @@
       "winner_time_residual": null
     }
   },
-  "chokuzen": null,
+  "chokuzen": {
+    "horses": [
+      {
+        "umaban": 1,
+        "horse_name": "ゴルデールスカー",
+        "odds": 15.8,
+        "popularity": 5,
+        "jockey_name": "国分優作",
+        "weight_carried": 58.0,
+        "win_flag": 0.06444301126651761,
+        "place_flag": 0.13830140933642773,
+        "show_flag": 0.2201304480169227,
+        "corner4_class": 0.6005913565521257,
+        "position_volatility": 0.37813319416765134,
+        "dash_index": 0.4982044322956082,
+        "fastest_l3f_flag": 0.0891833045942115
+      },
+      {
+        "umaban": 2,
+        "horse_name": "ソクヅモドラドラ",
+        "odds": 22.7,
+        "popularity": 6,
+        "jockey_name": "吉村誠之",
+        "weight_carried": 58.0,
+        "win_flag": 0.08312192321322152,
+        "place_flag": 0.12622497006377514,
+        "show_flag": 0.24439498529539716,
+        "corner4_class": 0.4656028037497436,
+        "position_volatility": 0.3753068745881277,
+        "dash_index": 0.6119591012908687,
+        "fastest_l3f_flag": 0.06642131572533533
+      },
+      {
+        "umaban": 3,
+        "horse_name": "ヤングアメリカンズ",
+        "odds": 9.0,
+        "popularity": 4,
+        "jockey_name": "城戸義政",
+        "weight_carried": 58.0,
+        "win_flag": 0.07333898138846438,
+        "place_flag": 0.28682585753572004,
+        "show_flag": 0.4419101309605769,
+        "corner4_class": 0.6259745305419304,
+        "position_volatility": 0.2824552186325436,
+        "dash_index": 0.4801906219538982,
+        "fastest_l3f_flag": 0.17713356048488593
+      },
+      {
+        "umaban": 4,
+        "horse_name": "トップオンザヒル",
+        "odds": 44.7,
+        "popularity": 8,
+        "jockey_name": "菱田裕二",
+        "weight_carried": 58.0,
+        "win_flag": 0.03180323920396576,
+        "place_flag": 0.07917612701465206,
+        "show_flag": 0.14861010977411435,
+        "corner4_class": 0.699434885031013,
+        "position_volatility": 0.41478623272055803,
+        "dash_index": 0.5395865411482568,
+        "fastest_l3f_flag": 0.067757078643278
+      },
+      {
+        "umaban": 5,
+        "horse_name": "フランキーバローズ",
+        "odds": 2.2,
+        "popularity": 1,
+        "jockey_name": "団野大成",
+        "weight_carried": 58.0,
+        "win_flag": 0.497630331809792,
+        "place_flag": 0.6690040272373949,
+        "show_flag": 0.8278898148780879,
+        "corner4_class": 0.3812156487211599,
+        "position_volatility": 0.29042021799086354,
+        "dash_index": 0.5819072695356768,
+        "fastest_l3f_flag": 0.3964679191886535
+      },
+      {
+        "umaban": 6,
+        "horse_name": "ダノンフェルゼン",
+        "odds": 7.2,
+        "popularity": 3,
+        "jockey_name": "岩田望来",
+        "weight_carried": 58.0,
+        "win_flag": 0.1538374363478922,
+        "place_flag": 0.29945330952290716,
+        "show_flag": 0.38705572514790537,
+        "corner4_class": 0.45302894260429805,
+        "position_volatility": 0.392446980712993,
+        "dash_index": 0.5423852786212222,
+        "fastest_l3f_flag": 0.15528947574454843
+      },
+      {
+        "umaban": 7,
+        "horse_name": "ソニックステップ",
+        "odds": 2.4,
+        "popularity": 2,
+        "jockey_name": "西村淳也",
+        "weight_carried": 58.0,
+        "win_flag": 0.6020167456956707,
+        "place_flag": 0.6819856069164365,
+        "show_flag": 0.8220009749770163,
+        "corner4_class": 0.3308775213014538,
+        "position_volatility": 0.2615606306181256,
+        "dash_index": 0.6933748182384404,
+        "fastest_l3f_flag": 0.28211342410367063
+      },
+      {
+        "umaban": 8,
+        "horse_name": "ラッキーベイ",
+        "odds": 40.6,
+        "popularity": 7,
+        "jockey_name": "田口貫太",
+        "weight_carried": 58.0,
+        "win_flag": 0.022222701191640076,
+        "place_flag": 0.0315901498557457,
+        "show_flag": 0.09223091100488649,
+        "corner4_class": 0.5103060952061816,
+        "position_volatility": 0.4504029865187064,
+        "dash_index": 0.6214283683967735,
+        "fastest_l3f_flag": 0.018636734595759662
+      }
+    ],
+    "race_metrics": {
+      "chaos_entropy": 0.8213632751931522,
+      "fav_top3_lock": 0.6528300085074851,
+      "pace_bias_index": 0.05716675053830289,
+      "upset_probability": 0.4695437205037645,
+      "winner_time_residual": null
+    }
+  },
   "final": null,
   "result": null
 }
