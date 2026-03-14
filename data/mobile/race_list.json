@@ -1,6 +1,6 @@
 {
   "target_date": "2026-03-14",
-  "generated_at": "2026-03-14T16:23+09:00",
+  "generated_at": "2026-03-14T19:21+09:00",
   "races": [
     {
       "race_id": "202603140701",
@@ -11,9 +11,9 @@
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
-        "has_result": true
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
       },
       "file": "races/202603140701.json"
     },
@@ -26,8 +26,8 @@
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140901.json"
@@ -41,8 +41,8 @@
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140601.json"
@@ -56,9 +56,9 @@
       "course": "ダート1200",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
-        "has_result": true
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
       },
       "file": "races/202603140702.json"
     },
@@ -71,8 +71,8 @@
       "course": "ダート1400",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140902.json"
@@ -86,8 +86,8 @@
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140602.json"
@@ -101,8 +101,8 @@
       "course": "ダート1900",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140703.json"
@@ -116,8 +116,8 @@
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140903.json"
@@ -131,8 +131,8 @@
       "course": "ダート1200",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140603.json"
@@ -146,9 +146,9 @@
       "course": "芝1600",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
-        "has_result": true
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
       },
       "file": "races/202603140704.json"
     },
@@ -161,8 +161,8 @@
       "course": "芝1400",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140904.json"
@@ -176,8 +176,8 @@
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140604.json"
@@ -191,8 +191,8 @@
       "course": "芝2000",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140705.json"
@@ -206,8 +206,8 @@
       "course": "芝1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140905.json"
@@ -221,8 +221,8 @@
       "course": "芝1600",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140605.json"
@@ -236,8 +236,8 @@
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140706.json"
@@ -251,8 +251,8 @@
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140906.json"
@@ -266,8 +266,8 @@
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140606.json"
@@ -281,9 +281,9 @@
       "course": "芝1600",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
-        "has_result": true
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
       },
       "file": "races/202603140707.json"
     },
@@ -296,8 +296,8 @@
       "course": "ダート1400",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140907.json"
@@ -311,8 +311,8 @@
       "course": "芝2500",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140607.json"
@@ -326,8 +326,8 @@
       "course": "ダート1200",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140708.json"
@@ -341,8 +341,8 @@
       "course": "障害3900",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140908.json"
@@ -356,8 +356,8 @@
       "course": "ダート1200",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140608.json"
@@ -371,9 +371,9 @@
       "course": "芝2200",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
-        "has_result": true
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
       },
       "file": "races/202603140709.json"
     },
@@ -386,8 +386,8 @@
       "course": "芝1200",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140909.json"
@@ -401,8 +401,8 @@
       "course": "芝2000",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140609.json"
@@ -416,9 +416,9 @@
       "course": "芝2000",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
-        "has_result": true
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
       },
       "file": "races/202603140710.json"
     },
@@ -431,9 +431,9 @@
       "course": "芝1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
-        "has_result": true
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
       },
       "file": "races/202603140910.json"
     },
@@ -446,8 +446,8 @@
       "course": "芝1600",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140610.json"
@@ -461,8 +461,8 @@
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140711.json"
@@ -476,8 +476,8 @@
       "course": "ダート1400",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140911.json"
@@ -491,8 +491,8 @@
       "course": "芝1600",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140611.json"
@@ -506,8 +506,8 @@
       "course": "芝1400",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140712.json"
@@ -521,8 +521,8 @@
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140912.json"
@@ -536,8 +536,8 @@
       "course": "ダート1200",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
       "file": "races/202603140612.json"
