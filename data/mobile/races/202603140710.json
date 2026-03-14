@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603140710",
     "target_date": "2026-03-14",
-    "generated_at": "2026-03-14T14:43+09:00",
-    "stage": "final",
+    "generated_at": "2026-03-14T15:00+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -410,5 +410,289 @@
       }
     ]
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 1,
+        "horse_name": "シンゼンカガ",
+        "time": "1:58.9",
+        "last3f": 34.6,
+        "passing_order": "9-8-9-9",
+        "jockey_name": "吉田隼人"
+      },
+      {
+        "rank": 2,
+        "umaban": 7,
+        "horse_name": "ステラクラウン",
+        "time": "1:59.1",
+        "last3f": 34.9,
+        "passing_order": "8-8-7-7",
+        "jockey_name": "富田暁"
+      },
+      {
+        "rank": 3,
+        "umaban": 6,
+        "horse_name": "ナイトスラッガー",
+        "time": "1:59.1",
+        "last3f": 34.8,
+        "passing_order": "9-10-9-9",
+        "jockey_name": "鮫島克駿"
+      },
+      {
+        "rank": 4,
+        "umaban": 4,
+        "horse_name": "メディテラニアン",
+        "time": "1:59.3",
+        "last3f": 35.6,
+        "passing_order": "2-2-2-2",
+        "jockey_name": "ディー"
+      },
+      {
+        "rank": 5,
+        "umaban": 2,
+        "horse_name": "ジェットブレード",
+        "time": "1:59.4",
+        "last3f": 35.2,
+        "passing_order": "6-5-7-7",
+        "jockey_name": "松若風馬"
+      },
+      {
+        "rank": 6,
+        "umaban": 8,
+        "horse_name": "ジャスティンガルフ",
+        "time": "1:59.4",
+        "last3f": 35.5,
+        "passing_order": "2-3-3-3",
+        "jockey_name": "高杉吏麒"
+      },
+      {
+        "rank": 7,
+        "umaban": 3,
+        "horse_name": "バンフィエルド",
+        "time": "1:59.5",
+        "last3f": 35.6,
+        "passing_order": "6-5-5-3",
+        "jockey_name": "田山旺佑"
+      },
+      {
+        "rank": 8,
+        "umaban": 5,
+        "horse_name": "ディーガレジェンド",
+        "time": "1:59.6",
+        "last3f": 35.7,
+        "passing_order": "2-3-3-3",
+        "jockey_name": "西塚洸二"
+      },
+      {
+        "rank": 9,
+        "umaban": 10,
+        "horse_name": "ジェモロジー",
+        "time": "2:00.0",
+        "last3f": 36.0,
+        "passing_order": "5-5-5-3",
+        "jockey_name": "小沢大仁"
+      },
+      {
+        "rank": 10,
+        "umaban": 9,
+        "horse_name": "タケトンボ",
+        "time": "2:00.6",
+        "last3f": 37.0,
+        "passing_order": "1-1-1-1",
+        "jockey_name": "秋山稔樹"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "06",
+          "amount": 130,
+          "popularity": 1
+        },
+        {
+          "combination": "07",
+          "amount": 180,
+          "popularity": 3
+        },
+        {
+          "combination": "01",
+          "amount": 190,
+          "popularity": 4
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "01-06-07",
+          "amount": 1660,
+          "popularity": 3
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "01-07-06",
+          "amount": 8650,
+          "popularity": 18
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "01",
+          "amount": 530,
+          "popularity": 4
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "01-07",
+          "amount": 1490,
+          "popularity": 6
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "01-07",
+          "amount": 2600,
+          "popularity": 11
+        }
+      ],
+      "wakuren": [
+        {
+          "combination": "1-7",
+          "amount": 1340,
+          "popularity": 6
+        }
+      ],
+      "wide": [
+        {
+          "combination": "06-07",
+          "amount": 310,
+          "popularity": 3
+        },
+        {
+          "combination": "01-06",
+          "amount": 490,
+          "popularity": 5
+        },
+        {
+          "combination": "01-07",
+          "amount": 530,
+          "popularity": 7
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-04-05",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 34.2,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-04-07",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 17.8,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-04-10",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 149.8,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-05-07",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 49.0,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "04-05-08",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 135.6,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "01-04",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 14.6,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "01-07",
+        "stake": 200,
+        "payout": 2980,
+        "profit": 2780,
+        "is_hit": true,
+        "odds": 17.5,
+        "popularity": 6
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "04-05",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 16.3,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-04",
+        "stake": 400,
+        "payout": 0,
+        "profit": -400,
+        "is_hit": false,
+        "odds": 5.3,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-07",
+        "stake": 300,
+        "payout": 1590,
+        "profit": 1290,
+        "is_hit": true,
+        "odds": 7.2,
+        "popularity": 7
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "05-07",
+        "stake": 300,
+        "payout": 0,
+        "profit": -300,
+        "is_hit": false,
+        "odds": 8.6,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
