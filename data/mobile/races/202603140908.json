@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603140908",
     "target_date": "2026-03-14",
-    "generated_at": "2026-03-14T13:37+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-14T13:43+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -340,6 +340,21 @@
       "winner_time_residual": null
     }
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrentan",
+        "combination": "02-09-07",
+        "stake": 100,
+        "odds": 163.6
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "02-09",
+        "stake": 500,
+        "odds": 5.0
+      }
+    ]
+  },
   "result": null
 }
