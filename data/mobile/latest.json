@@ -1,6 +1,6 @@
 {
   "target_date": "2026-03-14",
-  "generated_at": "2026-03-14T15:43+09:00",
+  "generated_at": "2026-03-14T15:52+09:00",
   "races": [
     {
       "race_id": "202603140701",
@@ -502,11 +502,11 @@
       "keibajo_name": "中京",
       "race_number": 12,
       "race_name": "1勝クラス",
-      "post_time": "16:00",
+      "post_time": "16:01",
       "course": "芝1400",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
