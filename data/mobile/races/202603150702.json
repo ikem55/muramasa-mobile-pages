@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603150702",
     "target_date": "2026-03-15",
-    "generated_at": "2026-03-15T10:13+09:00",
-    "stage": "final",
+    "generated_at": "2026-03-15T10:30+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -470,5 +470,266 @@
       }
     ]
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 1,
+        "horse_name": "オオツカ",
+        "time": "1:54.1",
+        "last3f": 37.2,
+        "passing_order": "1-1-1-1",
+        "jockey_name": "松山弘平"
+      },
+      {
+        "rank": 2,
+        "umaban": 13,
+        "horse_name": "ガイストライヒ",
+        "time": "1:54.1",
+        "last3f": 37.2,
+        "passing_order": "2-2-2-2",
+        "jockey_name": "亀田温心"
+      },
+      {
+        "rank": 3,
+        "umaban": 11,
+        "horse_name": "ハオカノア",
+        "time": "1:55.1",
+        "last3f": 38.0,
+        "passing_order": "5-4-4-3",
+        "jockey_name": "小崎綾也"
+      },
+      {
+        "rank": 4,
+        "umaban": 7,
+        "horse_name": "ノリノドラゴン",
+        "time": "1:55.2",
+        "last3f": 38.0,
+        "passing_order": "11-11-4-3",
+        "jockey_name": "城戸義政"
+      },
+      {
+        "rank": 5,
+        "umaban": 10,
+        "horse_name": "カシノスパーク",
+        "time": "1:55.5",
+        "last3f": 38.4,
+        "passing_order": "3-3-4-3",
+        "jockey_name": "菊沢一樹"
+      },
+      {
+        "rank": 6,
+        "umaban": 12,
+        "horse_name": "マジックハンド",
+        "time": "1:55.7",
+        "last3f": 38.7,
+        "passing_order": "7-6-2-3",
+        "jockey_name": "松若風馬"
+      },
+      {
+        "rank": 7,
+        "umaban": 5,
+        "horse_name": "メイショウサッソウ",
+        "time": "1:56.0",
+        "last3f": 38.6,
+        "passing_order": "7-6-7-7",
+        "jockey_name": "加藤祥太"
+      },
+      {
+        "rank": 8,
+        "umaban": 6,
+        "horse_name": "メイショウハチマキ",
+        "time": "1:56.2",
+        "last3f": 38.8,
+        "passing_order": "5-6-7-7",
+        "jockey_name": "吉田隼人"
+      },
+      {
+        "rank": 9,
+        "umaban": 9,
+        "horse_name": "メイショウランケイ",
+        "time": "1:57.1",
+        "last3f": 39.3,
+        "passing_order": "9-9-9-9",
+        "jockey_name": "今村聖奈"
+      },
+      {
+        "rank": 10,
+        "umaban": 2,
+        "horse_name": "コブラツイスト",
+        "time": "1:57.3",
+        "last3f": 39.1,
+        "passing_order": "12-12-12-12",
+        "jockey_name": "永島まな"
+      },
+      {
+        "rank": 11,
+        "umaban": 3,
+        "horse_name": "ラスカルキッド",
+        "time": "1:58.7",
+        "last3f": 40.8,
+        "passing_order": "13-13-10-9",
+        "jockey_name": "柴田裕一"
+      },
+      {
+        "rank": 12,
+        "umaban": 4,
+        "horse_name": "スナップジジ",
+        "time": "1:59.1",
+        "last3f": 41.2,
+        "passing_order": "9-9-10-9",
+        "jockey_name": "原田和真"
+      },
+      {
+        "rank": 13,
+        "umaban": 8,
+        "horse_name": "サートゥリア",
+        "time": "2:03.2",
+        "last3f": 44.6,
+        "passing_order": "4-4-13-13",
+        "jockey_name": "和田陽希"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "01",
+          "amount": 110,
+          "popularity": 1
+        },
+        {
+          "combination": "13",
+          "amount": 140,
+          "popularity": 2
+        },
+        {
+          "combination": "11",
+          "amount": 230,
+          "popularity": 5
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "01-11-13",
+          "amount": 1250,
+          "popularity": 4
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "01-13-11",
+          "amount": 2320,
+          "popularity": 5
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "01",
+          "amount": 120,
+          "popularity": 1
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "01-13",
+          "amount": 380,
+          "popularity": 1
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "01-13",
+          "amount": 420,
+          "popularity": 1
+        }
+      ],
+      "wakuren": [
+        {
+          "combination": "1-8",
+          "amount": 330,
+          "popularity": 1
+        }
+      ],
+      "wide": [
+        {
+          "combination": "01-13",
+          "amount": 190,
+          "popularity": 1
+        },
+        {
+          "combination": "01-11",
+          "amount": 380,
+          "popularity": 4
+        },
+        {
+          "combination": "11-13",
+          "amount": 800,
+          "popularity": 9
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-05-12",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 90.6,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-10-13",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 55.8,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "01-12",
+        "stake": 300,
+        "payout": 0,
+        "profit": -300,
+        "is_hit": false,
+        "odds": 26.0,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-12",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 9.8,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-13",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 19.6,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "12-13",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 16.8,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
