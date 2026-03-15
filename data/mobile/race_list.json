@@ -1,6 +1,6 @@
 {
   "target_date": "2026-03-15",
-  "generated_at": "2026-03-15T14:48+09:00",
+  "generated_at": "2026-03-15T14:53+09:00",
   "races": [
     {
       "race_id": "202603150701",
@@ -442,11 +442,11 @@
       "keibajo_name": "中山",
       "race_number": 10,
       "race_name": "東風ステークス",
-      "post_time": "15:00",
+      "post_time": "15:01",
       "course": "芝1600",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
