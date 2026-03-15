@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603150909",
     "target_date": "2026-03-15",
-    "generated_at": "2026-03-15T00:22+09:00",
-    "stage": "entry",
+    "generated_at": "2026-03-15T14:07+09:00",
+    "stage": "chokuzen",
     "version": 1
   },
   "race": {
@@ -134,7 +134,122 @@
       "winner_time_residual": null
     }
   },
-  "chokuzen": null,
+  "chokuzen": {
+    "horses": [
+      {
+        "umaban": 1,
+        "horse_name": "シャローファースト",
+        "odds": 18.9,
+        "popularity": 7,
+        "jockey_name": "斎藤新",
+        "weight_carried": 57.0,
+        "win_flag": 0.030681710869354208,
+        "place_flag": 0.04308781467478522,
+        "show_flag": 0.10575993041123022,
+        "corner4_class": 0.40409713381993206,
+        "position_volatility": 0.03612458390518777,
+        "dash_index": 0.76312010945746,
+        "fastest_l3f_flag": 0.019582402151531897
+      },
+      {
+        "umaban": 2,
+        "horse_name": "キシダンチョウ",
+        "odds": 3.5,
+        "popularity": 2,
+        "jockey_name": "高杉吏麒",
+        "weight_carried": 57.0,
+        "win_flag": 0.37356285146594664,
+        "place_flag": 0.4240206472761534,
+        "show_flag": 0.6271022812545997,
+        "corner4_class": 0.40143518309992143,
+        "position_volatility": -0.04433795080102481,
+        "dash_index": 0.6394474175989947,
+        "fastest_l3f_flag": 0.35656132761764125
+      },
+      {
+        "umaban": 3,
+        "horse_name": "シャドウマスター",
+        "odds": 3.2,
+        "popularity": 1,
+        "jockey_name": "北村友一",
+        "weight_carried": 57.0,
+        "win_flag": 0.3809627273144023,
+        "place_flag": 0.5669195306603839,
+        "show_flag": 0.725836137210419,
+        "corner4_class": 0.34063645638847795,
+        "position_volatility": -0.02364789056739401,
+        "dash_index": 0.6315973922621538,
+        "fastest_l3f_flag": 0.42819176782669827
+      },
+      {
+        "umaban": 4,
+        "horse_name": "タガノアルトゥーラ",
+        "odds": 6.5,
+        "popularity": 5,
+        "jockey_name": "吉村誠之",
+        "weight_carried": 57.0,
+        "win_flag": 0.1594569129025308,
+        "place_flag": 0.2515757549352879,
+        "show_flag": 0.45115443612921347,
+        "corner4_class": 0.4525369811623991,
+        "position_volatility": -0.10126125449128244,
+        "dash_index": 0.5930862762240433,
+        "fastest_l3f_flag": 0.18707233354637126
+      },
+      {
+        "umaban": 5,
+        "horse_name": "サトノリシャール",
+        "odds": 9.6,
+        "popularity": 6,
+        "jockey_name": "小沢大仁",
+        "weight_carried": 57.0,
+        "win_flag": 0.07715357412456313,
+        "place_flag": 0.09908804620748683,
+        "show_flag": 0.2385669627761935,
+        "corner4_class": 0.44726915667599193,
+        "position_volatility": 0.04623280798508949,
+        "dash_index": 0.6423823065513038,
+        "fastest_l3f_flag": 0.047144336282562135
+      },
+      {
+        "umaban": 6,
+        "horse_name": "ゴールデンパゴーダ",
+        "odds": 5.8,
+        "popularity": 4,
+        "jockey_name": "鮫島克駿",
+        "weight_carried": 55.0,
+        "win_flag": 0.14261673176710885,
+        "place_flag": 0.22040005324976542,
+        "show_flag": 0.4089785808258744,
+        "corner4_class": 0.3850933848011629,
+        "position_volatility": 0.0419094755586221,
+        "dash_index": 0.6502446925018998,
+        "fastest_l3f_flag": 0.12830664439747416
+      },
+      {
+        "umaban": 7,
+        "horse_name": "ヴァロンブローサ",
+        "odds": 5.6,
+        "popularity": 3,
+        "jockey_name": "幸英明",
+        "weight_carried": 57.0,
+        "win_flag": 0.10620127392015623,
+        "place_flag": 0.23431894853505253,
+        "show_flag": 0.33755510046316756,
+        "corner4_class": 0.3439633137994617,
+        "position_volatility": 0.02706481271304064,
+        "dash_index": 0.7016454305485711,
+        "fastest_l3f_flag": 0.13191297514226533
+      }
+    ],
+    "race_metrics": {
+      "chaos_entropy": 0.921504731888834,
+      "fav_top3_lock": 0.41192767715960155,
+      "pace_bias_index": 0.05772357827354768,
+      "upset_probability": 0.4970652151910375,
+      "winner_time_residual": null
+    }
+  },
   "final": null,
   "result": null
 }
