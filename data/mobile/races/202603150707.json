@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603150707",
     "target_date": "2026-03-15",
-    "generated_at": "2026-03-15T12:57+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-15T13:03+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -490,6 +490,45 @@
       "winner_time_residual": null
     }
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-06-12",
+        "stake": 100,
+        "odds": 33.3
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "06-12",
+        "stake": 100,
+        "odds": 9.4
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "06",
+        "stake": 100,
+        "odds": 7.9
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-08-12",
+        "stake": 100,
+        "odds": 98.3
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "06-15",
+        "stake": 200,
+        "odds": 8.9
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "12",
+        "stake": 200,
+        "odds": 7.3
+      }
+    ]
+  },
   "result": null
 }
