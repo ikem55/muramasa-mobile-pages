@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603150608",
     "target_date": "2026-03-15",
-    "generated_at": "2026-03-15T13:53+09:00",
-    "stage": "final",
+    "generated_at": "2026-03-15T14:10+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -380,5 +380,239 @@
       }
     ]
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 1,
+        "horse_name": "インパクトシー",
+        "time": "1:32.0",
+        "last3f": 34.1,
+        "passing_order": "5-2-2",
+        "jockey_name": "横山琉人"
+      },
+      {
+        "rank": 2,
+        "umaban": 7,
+        "horse_name": "ダノンミッション",
+        "time": "1:32.1",
+        "last3f": 33.7,
+        "passing_order": "3-5-5",
+        "jockey_name": "佐々木大"
+      },
+      {
+        "rank": 3,
+        "umaban": 8,
+        "horse_name": "クライスレリアーナ",
+        "time": "1:32.1",
+        "last3f": 33.4,
+        "passing_order": "7-7-7",
+        "jockey_name": "ルメール"
+      },
+      {
+        "rank": 4,
+        "umaban": 4,
+        "horse_name": "ツルマウカタチ",
+        "time": "1:32.6",
+        "last3f": 33.7,
+        "passing_order": "8-8-9",
+        "jockey_name": "石川裕紀"
+      },
+      {
+        "rank": 5,
+        "umaban": 6,
+        "horse_name": "シャンパンマーク",
+        "time": "1:32.7",
+        "last3f": 34.3,
+        "passing_order": "6-5-5",
+        "jockey_name": "丹内祐次"
+      },
+      {
+        "rank": 6,
+        "umaban": 5,
+        "horse_name": "ネーブルオレンジ",
+        "time": "1:32.8",
+        "last3f": 35.0,
+        "passing_order": "2-2-2",
+        "jockey_name": "古川奈穂"
+      },
+      {
+        "rank": 7,
+        "umaban": 10,
+        "horse_name": "ロゼル",
+        "time": "1:33.0",
+        "last3f": 34.8,
+        "passing_order": "3-4-4",
+        "jockey_name": "岩田康誠"
+      },
+      {
+        "rank": 8,
+        "umaban": 3,
+        "horse_name": "コスモオピニオン",
+        "time": "1:33.1",
+        "last3f": 34.2,
+        "passing_order": "8-8-7",
+        "jockey_name": "長浜鴻緒"
+      },
+      {
+        "rank": 9,
+        "umaban": 2,
+        "horse_name": "ヴェナートル",
+        "time": "1:33.6",
+        "last3f": 36.5,
+        "passing_order": "1-1-1",
+        "jockey_name": "武藤雅"
+      },
+      {
+        "rank": 10,
+        "umaban": 9,
+        "horse_name": "オリエンタルナイト",
+        "time": "1:34.2",
+        "last3f": 35.0,
+        "passing_order": "10-10-10",
+        "jockey_name": "角田大和"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "08",
+          "amount": 100,
+          "popularity": 1
+        },
+        {
+          "combination": "01",
+          "amount": 100,
+          "popularity": 2
+        },
+        {
+          "combination": "07",
+          "amount": 100,
+          "popularity": 3
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "01-07-08",
+          "amount": 230,
+          "popularity": 1
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "01-07-08",
+          "amount": 2000,
+          "popularity": 6
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "01",
+          "amount": 270,
+          "popularity": 2
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "01-07",
+          "amount": 860,
+          "popularity": 3
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "01-07",
+          "amount": 1390,
+          "popularity": 5
+        }
+      ],
+      "wakuren": [
+        {
+          "combination": "1-7",
+          "amount": 200,
+          "popularity": 1
+        }
+      ],
+      "wide": [
+        {
+          "combination": "07-08",
+          "amount": 130,
+          "popularity": 1
+        },
+        {
+          "combination": "01-08",
+          "amount": 150,
+          "popularity": 2
+        },
+        {
+          "combination": "01-07",
+          "amount": 200,
+          "popularity": 3
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-06-07",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 76.3,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-07-10",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 91.7,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "01-07",
+        "stake": 200,
+        "payout": 2780,
+        "profit": 2580,
+        "is_hit": true,
+        "odds": 19.6,
+        "popularity": 5
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "07-01",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 21.1,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "07-04",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 55.3,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "05-07",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 17.9,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
