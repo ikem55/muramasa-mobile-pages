@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603150610",
     "target_date": "2026-03-15",
-    "generated_at": "2026-03-15T15:15+09:00",
-    "stage": "result",
+    "generated_at": "2026-03-20T15:34+09:00",
+    "stage": "chokuzen",
     "version": 1
   },
   "race": {
@@ -274,7 +274,7 @@
       {
         "umaban": 1,
         "horse_name": "アサヒ",
-        "odds": 114.4,
+        "odds": 204.4,
         "popularity": 14,
         "jockey_name": "横山琉人",
         "weight_carried": 57.0,
@@ -289,8 +289,8 @@
       {
         "umaban": 2,
         "horse_name": "ランフォーヴァウ",
-        "odds": 30.3,
-        "popularity": 8,
+        "odds": 36.7,
+        "popularity": 9,
         "jockey_name": "石川裕紀",
         "weight_carried": 55.0,
         "win_flag": 0.045286997802750716,
@@ -304,8 +304,8 @@
       {
         "umaban": 3,
         "horse_name": "アルビージャ",
-        "odds": 87.0,
-        "popularity": 12,
+        "odds": 139.6,
+        "popularity": 13,
         "jockey_name": "丹内祐次",
         "weight_carried": 57.0,
         "win_flag": 0.01487468388225827,
@@ -319,8 +319,8 @@
       {
         "umaban": 4,
         "horse_name": "ニシノスーベニア",
-        "odds": 25.3,
-        "popularity": 6,
+        "odds": 32.8,
+        "popularity": 7,
         "jockey_name": "大野拓弥",
         "weight_carried": 58.0,
         "win_flag": 0.04094671538873663,
@@ -334,8 +334,8 @@
       {
         "umaban": 5,
         "horse_name": "ヴァルキリーバース",
-        "odds": 6.6,
-        "popularity": 3,
+        "odds": 7.8,
+        "popularity": 4,
         "jockey_name": "ルメール",
         "weight_carried": 55.0,
         "win_flag": 0.11454113683751506,
@@ -349,7 +349,7 @@
       {
         "umaban": 6,
         "horse_name": "ジョイフルニュース",
-        "odds": 2.4,
+        "odds": 2.2,
         "popularity": 1,
         "jockey_name": "佐々木大",
         "weight_carried": 55.0,
@@ -364,7 +364,7 @@
       {
         "umaban": 7,
         "horse_name": "ゾンニッヒ",
-        "odds": 68.7,
+        "odds": 91.4,
         "popularity": 11,
         "jockey_name": "団野大成",
         "weight_carried": 59.0,
@@ -379,8 +379,8 @@
       {
         "umaban": 8,
         "horse_name": "フロムダスク",
-        "odds": 32.5,
-        "popularity": 9,
+        "odds": 50.2,
+        "popularity": 10,
         "jockey_name": "笹川翼",
         "weight_carried": 57.0,
         "win_flag": 0.0191496234831176,
@@ -394,8 +394,8 @@
       {
         "umaban": 9,
         "horse_name": "ダイシンヤマト",
-        "odds": 29.6,
-        "popularity": 7,
+        "odds": 32.2,
+        "popularity": 6,
         "jockey_name": "吉田豊",
         "weight_carried": 57.0,
         "win_flag": 0.0426512745888937,
@@ -409,8 +409,8 @@
       {
         "umaban": 10,
         "horse_name": "タシット",
-        "odds": 101.3,
-        "popularity": 13,
+        "odds": 134.5,
+        "popularity": 12,
         "jockey_name": "石橋脩",
         "weight_carried": 57.0,
         "win_flag": 0.02505641377874625,
@@ -424,7 +424,7 @@
       {
         "umaban": 11,
         "horse_name": "ランスオブカオス",
-        "odds": 3.8,
+        "odds": 3.7,
         "popularity": 2,
         "jockey_name": "坂井瑠星",
         "weight_carried": 58.0,
@@ -439,7 +439,7 @@
       {
         "umaban": 12,
         "horse_name": "エエヤン",
-        "odds": 127.4,
+        "odds": 247.6,
         "popularity": 15,
         "jockey_name": "杉原誠人",
         "weight_carried": 59.0,
@@ -454,7 +454,7 @@
       {
         "umaban": 13,
         "horse_name": "エンペラーズソード",
-        "odds": 11.7,
+        "odds": 11.8,
         "popularity": 5,
         "jockey_name": "荻野極",
         "weight_carried": 57.0,
@@ -469,7 +469,7 @@
       {
         "umaban": 14,
         "horse_name": "メイショウシンタケ",
-        "odds": 146.7,
+        "odds": 257.2,
         "popularity": 16,
         "jockey_name": "角田大和",
         "weight_carried": 58.0,
@@ -484,8 +484,8 @@
       {
         "umaban": 15,
         "horse_name": "ダノンエアズロック",
-        "odds": 7.3,
-        "popularity": 4,
+        "odds": 6.7,
+        "popularity": 3,
         "jockey_name": "津村明秀",
         "weight_carried": 57.0,
         "win_flag": 0.2636528622328045,
@@ -499,8 +499,8 @@
       {
         "umaban": 16,
         "horse_name": "レガーロデルシエロ",
-        "odds": 41.0,
-        "popularity": 10,
+        "odds": 35.6,
+        "popularity": 8,
         "jockey_name": "岩田康誠",
         "weight_carried": 57.0,
         "win_flag": 0.03528344716389043,
@@ -513,10 +513,10 @@
       }
     ],
     "race_metrics": {
-      "chaos_entropy": 0.818606507032775,
-      "fav_top3_lock": 0.38370400061620297,
+      "chaos_entropy": 0.8064860017573228,
+      "fav_top3_lock": 0.44782232038522396,
       "pace_bias_index": 0.08070236936861352,
-      "upset_probability": 0.474609755535797,
+      "upset_probability": 0.4672691720260454,
       "winner_time_residual": null
     }
   },
