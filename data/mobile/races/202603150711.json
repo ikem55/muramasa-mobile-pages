@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603150711",
     "target_date": "2026-03-15",
-    "generated_at": "2026-03-15T15:30+09:00",
-    "stage": "result",
+    "generated_at": "2026-03-20T12:14+09:00",
+    "stage": "chokuzen",
     "version": 1
   },
   "race": {
@@ -244,7 +244,7 @@
       {
         "umaban": 1,
         "horse_name": "ドゥラドーレス",
-        "odds": 5.8,
+        "odds": 5.6,
         "popularity": 2,
         "jockey_name": "戸崎圭太",
         "weight_carried": 57.0,
@@ -259,8 +259,8 @@
       {
         "umaban": 2,
         "horse_name": "ジューンテイク",
-        "odds": 8.6,
-        "popularity": 4,
+        "odds": 7.7,
+        "popularity": 5,
         "jockey_name": "武豊",
         "weight_carried": 58.0,
         "win_flag": 0.16546851538532312,
@@ -274,8 +274,8 @@
       {
         "umaban": 3,
         "horse_name": "ジョバンニ",
-        "odds": 8.6,
-        "popularity": 4,
+        "odds": 8.7,
+        "popularity": 6,
         "jockey_name": "松山弘平",
         "weight_carried": 57.0,
         "win_flag": 0.1595627406469313,
@@ -289,7 +289,7 @@
       {
         "umaban": 4,
         "horse_name": "アーバンシック",
-        "odds": 10.7,
+        "odds": 11.9,
         "popularity": 7,
         "jockey_name": "三浦皇成",
         "weight_carried": 58.0,
@@ -304,7 +304,7 @@
       {
         "umaban": 5,
         "horse_name": "ディマイザキッド",
-        "odds": 33.0,
+        "odds": 35.0,
         "popularity": 10,
         "jockey_name": "柴田善臣",
         "weight_carried": 57.0,
@@ -319,7 +319,7 @@
       {
         "umaban": 6,
         "horse_name": "ヴィレム",
-        "odds": 7.0,
+        "odds": 6.4,
         "popularity": 3,
         "jockey_name": "ディー",
         "weight_carried": 57.0,
@@ -334,7 +334,7 @@
       {
         "umaban": 7,
         "horse_name": "ニシノレヴナント",
-        "odds": 75.7,
+        "odds": 102.5,
         "popularity": 13,
         "jockey_name": "野中悠太",
         "weight_carried": 57.0,
@@ -349,7 +349,7 @@
       {
         "umaban": 8,
         "horse_name": "アラタ",
-        "odds": 96.5,
+        "odds": 142.3,
         "popularity": 14,
         "jockey_name": "横山典弘",
         "weight_carried": 57.0,
@@ -364,7 +364,7 @@
       {
         "umaban": 9,
         "horse_name": "シェイクユアハート",
-        "odds": 11.7,
+        "odds": 13.5,
         "popularity": 8,
         "jockey_name": "古川吉洋",
         "weight_carried": 57.0,
@@ -379,7 +379,7 @@
       {
         "umaban": 10,
         "horse_name": "セキトバイースト",
-        "odds": 21.9,
+        "odds": 24.8,
         "popularity": 9,
         "jockey_name": "浜中俊",
         "weight_carried": 55.0,
@@ -394,7 +394,7 @@
       {
         "umaban": 11,
         "horse_name": "キングズパレス",
-        "odds": 55.1,
+        "odds": 73.5,
         "popularity": 11,
         "jockey_name": "菊沢一樹",
         "weight_carried": 57.0,
@@ -409,7 +409,7 @@
       {
         "umaban": 12,
         "horse_name": "クイーンズウォーク",
-        "odds": 3.3,
+        "odds": 3.6,
         "popularity": 1,
         "jockey_name": "川田将雅",
         "weight_carried": 56.0,
@@ -424,8 +424,8 @@
       {
         "umaban": 13,
         "horse_name": "ホウオウビスケッツ",
-        "odds": 10.4,
-        "popularity": 6,
+        "odds": 7.3,
+        "popularity": 4,
         "jockey_name": "岩田望来",
         "weight_carried": 57.0,
         "win_flag": 0.14534053228356086,
@@ -439,7 +439,7 @@
       {
         "umaban": 14,
         "horse_name": "サフィラ",
-        "odds": 73.1,
+        "odds": 88.9,
         "popularity": 12,
         "jockey_name": "丸山元気",
         "weight_carried": 55.0,
@@ -453,10 +453,10 @@
       }
     ],
     "race_metrics": {
-      "chaos_entropy": 0.8368773823741468,
-      "fav_top3_lock": 0.2278285227488047,
-      "pace_bias_index": 0.14595314497259548,
-      "upset_probability": 0.498892641647796,
+      "chaos_entropy": 0.8502237268875317,
+      "fav_top3_lock": 0.2247203542344829,
+      "pace_bias_index": 0.16312941775236411,
+      "upset_probability": 0.5166989138006879,
       "winner_time_residual": null
     }
   },
