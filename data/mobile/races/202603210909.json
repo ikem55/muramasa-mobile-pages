@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603210909",
     "target_date": "2026-03-21",
-    "generated_at": "2026-03-21T14:17+09:00",
-    "stage": "final",
+    "generated_at": "2026-03-21T14:39+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -369,5 +369,224 @@
     "mode": null,
     "comment": null
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 5,
+        "horse_name": "ウインデイジー",
+        "time": "2:39.6",
+        "last3f": 34.1,
+        "passing_order": "4-4-4-4",
+        "jockey_name": "横山和生"
+      },
+      {
+        "rank": 2,
+        "umaban": 8,
+        "horse_name": "サトノソティラス",
+        "time": "2:39.6",
+        "last3f": 34.1,
+        "passing_order": "4-4-4-4",
+        "jockey_name": "丹内祐次"
+      },
+      {
+        "rank": 3,
+        "umaban": 3,
+        "horse_name": "ファームツエンティ",
+        "time": "2:39.6",
+        "last3f": 34.0,
+        "passing_order": "6-6-6-4",
+        "jockey_name": "武豊"
+      },
+      {
+        "rank": 4,
+        "umaban": 2,
+        "horse_name": "タイセイリコルド",
+        "time": "2:39.7",
+        "last3f": 34.4,
+        "passing_order": "2-2-2-1",
+        "jockey_name": "坂井瑠星"
+      },
+      {
+        "rank": 5,
+        "umaban": 4,
+        "horse_name": "ライフセービング",
+        "time": "2:39.8",
+        "last3f": 34.0,
+        "passing_order": "6-6-6-7",
+        "jockey_name": "古川吉洋"
+      },
+      {
+        "rank": 6,
+        "umaban": 7,
+        "horse_name": "ハイラント",
+        "time": "2:39.8",
+        "last3f": 34.0,
+        "passing_order": "8-8-8-7",
+        "jockey_name": "幸英明"
+      },
+      {
+        "rank": 7,
+        "umaban": 1,
+        "horse_name": "コリカンチャ",
+        "time": "2:40.1",
+        "last3f": 34.8,
+        "passing_order": "1-1-1-2",
+        "jockey_name": "北村友一"
+      },
+      {
+        "rank": 8,
+        "umaban": 6,
+        "horse_name": "ゴージョニーゴー",
+        "time": "2:40.5",
+        "last3f": 35.2,
+        "passing_order": "2-3-2-2",
+        "jockey_name": "松山弘平"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "03",
+          "amount": 140,
+          "popularity": 2
+        },
+        {
+          "combination": "08",
+          "amount": 160,
+          "popularity": 4
+        },
+        {
+          "combination": "05",
+          "amount": 180,
+          "popularity": 5
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "03-05-08",
+          "amount": 1620,
+          "popularity": 9
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "05-08-03",
+          "amount": 13510,
+          "popularity": 56
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "05",
+          "amount": 810,
+          "popularity": 5
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "05-08",
+          "amount": 1810,
+          "popularity": 10
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "05-08",
+          "amount": 3520,
+          "popularity": 20
+        }
+      ],
+      "wide": [
+        {
+          "combination": "03-08",
+          "amount": 330,
+          "popularity": 5
+        },
+        {
+          "combination": "03-05",
+          "amount": 390,
+          "popularity": 8
+        },
+        {
+          "combination": "05-08",
+          "amount": 550,
+          "popularity": 9
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-03-06",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 56.2,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-05-06",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 116.7,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-06-08",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 92.6,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "02-06",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 14.2,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "06-02",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 14.6,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-02",
+        "stake": 300,
+        "payout": 0,
+        "profit": -300,
+        "is_hit": false,
+        "odds": 12.3,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-06",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 12.9,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
