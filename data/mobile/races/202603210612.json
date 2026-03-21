@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "race_id": "202603210612",
+    "target_date": "2026-03-21",
+    "generated_at": "2026-03-21T21:17+09:00",
+    "stage": "final",
+    "version": 1
+  },
+  "race": {
+    "race_id": "202603210612",
+    "keibajo_name": "中山",
+    "race_number": 12,
+    "race_name": "1勝クラス",
+    "post_time": "16:25",
+    "course": "ダート1200",
+    "track": "ダート",
+    "distance": 1200,
+    "condition": "良",
+    "weather": "晴"
+  },
+  "entry": null,
+  "chokuzen": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "04-11",
+        "stake": 100,
+        "odds": 65.3,
+        "llm_reason": "Stage B採用 (axis=11, ev=1.815, prob=0.028, odds=65.3, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "07-11",
+        "stake": 900,
+        "odds": 5.9,
+        "llm_reason": "Stage B採用 (axis=11, ev=1.458, prob=0.247, odds=5.9, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "03-11",
+        "stake": 100,
+        "odds": 60.0,
+        "llm_reason": "Stage B採用 (axis=11, ev=1.410, prob=0.024, odds=60.0, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "03-07",
+        "stake": 100,
+        "odds": 133.6,
+        "llm_reason": "Stage B採用 (axis=7, ev=2.271, prob=0.017, odds=133.6, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "03-07",
+        "stake": 300,
+        "odds": 26.9,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.714, prob=0.064, odds=26.9, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 5 件を採用。主軸は 11 番で、中心は umaren 07-11(900円, ev=1.458) / wide 03-07(300円, ev=1.714) / umaren 03-07(100円, ev=2.271)。"
+  },
+  "result": null
+}
