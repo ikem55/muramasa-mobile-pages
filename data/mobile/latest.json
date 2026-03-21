@@ -1,6 +1,6 @@
 {
   "target_date": "2026-03-21",
-  "generated_at": "2026-03-21T15:38+09:00",
+  "generated_at": "2026-03-21T16:21+09:00",
   "races": [
     {
       "race_id": "202603210701",
@@ -463,7 +463,7 @@
         "has_entry": true,
         "has_chokuzen": true,
         "has_final": true,
-        "has_result": false
+        "has_result": true
       },
       "file": "races/202603210711.json"
     },
@@ -478,7 +478,7 @@
         "has_entry": true,
         "has_chokuzen": true,
         "has_final": true,
-        "has_result": false
+        "has_result": true
       },
       "file": "races/202603210911.json"
     },
@@ -492,7 +492,7 @@
       "status": {
         "has_entry": true,
         "has_chokuzen": true,
-        "has_final": false,
+        "has_final": true,
         "has_result": false
       },
       "file": "races/202603210611.json"
@@ -536,7 +536,7 @@
       "course": "ダート1200",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
