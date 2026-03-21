@@ -2,7 +2,7 @@
   "meta": {
     "race_id": "202603210612",
     "target_date": "2026-03-21",
-    "generated_at": "2026-03-21T16:21+09:00",
+    "generated_at": "2026-03-21T18:42+09:00",
     "stage": "chokuzen",
     "version": 1
   },
@@ -577,9 +577,9 @@
       }
     ],
     "race_metrics": {
-      "chaos_entropy": 0.7919489088277811,
+      "chaos_entropy": 0.7918061974259558,
       "fav_top3_lock": 0.5249996995483193,
-      "pace_bias_index": 0.004400186299725162,
+      "pace_bias_index": 0.004300094115298858,
       "upset_probability": 0.47120911249710473,
       "winner_time_residual": null
     },
