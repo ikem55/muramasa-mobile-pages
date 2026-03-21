@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603210708",
     "target_date": "2026-03-21",
-    "generated_at": "2026-03-21T13:31+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-21T13:50+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -484,6 +484,67 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "07-10",
+        "stake": 100,
+        "odds": 27.1,
+        "llm_reason": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-07-10",
+        "stake": 100,
+        "odds": 100.7,
+        "llm_reason": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "07-10-11",
+        "stake": 100,
+        "odds": 95.2,
+        "llm_reason": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "06-11-12",
+        "stake": 100,
+        "odds": 123.9,
+        "llm_reason": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-10",
+        "stake": 200,
+        "odds": 15.4,
+        "llm_reason": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-06-12",
+        "stake": 100,
+        "odds": 108.0,
+        "llm_reason": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-07",
+        "stake": 400,
+        "odds": 8.5,
+        "llm_reason": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "06-10",
+        "stake": 300,
+        "odds": 12.3,
+        "llm_reason": null
+      }
+    ],
+    "mode": null,
+    "comment": null
+  },
   "result": null
 }
