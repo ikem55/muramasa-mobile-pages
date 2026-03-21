@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603210711",
     "target_date": "2026-03-21",
-    "generated_at": "2026-03-21T15:13+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-21T15:18+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -620,6 +620,74 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "04-09-10",
+        "stake": 200,
+        "odds": 56.8,
+        "llm_reason": "Stage B採用 (axis=9, ev=2.522, prob=0.044, odds=56.8, source=latest)"
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "07-09-10",
+        "stake": 100,
+        "odds": 43.0,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.651, prob=0.038, odds=43.0, source=latest)"
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "04-07-09",
+        "stake": 100,
+        "odds": 23.0,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.621, prob=0.070, odds=23.0, source=latest)"
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "04-09-11",
+        "stake": 100,
+        "odds": 29.4,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.573, prob=0.053, odds=29.4, source=latest)"
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "04-09-17",
+        "stake": 100,
+        "odds": 32.1,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.515, prob=0.047, odds=32.1, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "09-10",
+        "stake": 100,
+        "odds": 16.9,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.384, prob=0.082, odds=16.9, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "04-09",
+        "stake": 300,
+        "odds": 4.0,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.285, prob=0.321, odds=4.0, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "04-09",
+        "stake": 100,
+        "odds": 9.1,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.280, prob=0.141, odds=9.1, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "09-10",
+        "stake": 100,
+        "odds": 6.4,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.231, prob=0.192, odds=6.4, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 9 件を採用。主軸は 9 番で、中心は wide 04-09(300円, ev=1.285) / sanrenpuku 04-09-10(200円, ev=2.522) / sanrenpuku 07-09-10(100円, ev=1.651)。"
+  },
   "result": null
 }
