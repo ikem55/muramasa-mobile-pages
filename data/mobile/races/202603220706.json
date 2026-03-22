@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603220706",
     "target_date": "2026-03-22",
-    "generated_at": "2026-03-22T12:25+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-22T12:32+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -620,6 +620,46 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "02-12",
+        "stake": 300,
+        "odds": 23.0,
+        "llm_reason": "Stage B採用 (axis=2, ev=1.438, prob=0.062, odds=23.0, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-12",
+        "stake": 600,
+        "odds": 8.4,
+        "llm_reason": "Stage B採用 (axis=2, ev=1.367, prob=0.163, odds=8.4, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-07",
+        "stake": 1000,
+        "odds": 7.3,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.437, prob=0.197, odds=7.3, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "02-07",
+        "stake": 300,
+        "odds": 18.7,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.427, prob=0.076, odds=18.7, source=latest)"
+      },
+      {
+        "ticket_type": "fukusho",
+        "combination": "07",
+        "stake": 800,
+        "odds": 4.1,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.221, prob=0.298, odds=4.1, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 5 件を採用。主軸は 7 番で、中心は wide 02-07(1000円, ev=1.437) / fukusho 07(800円, ev=1.221) / wide 02-12(600円, ev=1.367)。"
+  },
   "result": null
 }
