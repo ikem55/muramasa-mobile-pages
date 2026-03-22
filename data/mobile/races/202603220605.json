@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603220605",
     "target_date": "2026-03-22",
-    "generated_at": "2026-03-22T12:08+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-22T12:14+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,60 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "04-08-09",
+        "stake": 700,
+        "odds": 23.4,
+        "llm_reason": "Stage B採用 (axis=4, ev=2.176, prob=0.093, odds=23.4, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "04-09",
+        "stake": 500,
+        "odds": 8.5,
+        "llm_reason": "Stage B採用 (axis=4, ev=1.485, prob=0.175, odds=8.5, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "04-09",
+        "stake": 1200,
+        "odds": 3.8,
+        "llm_reason": "Stage B採用 (axis=4, ev=1.460, prob=0.384, odds=3.8, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "04-08",
+        "stake": 500,
+        "odds": 3.7,
+        "llm_reason": "Stage B採用 (axis=4, ev=1.219, prob=0.330, odds=3.7, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "04-16",
+        "stake": 100,
+        "odds": 13.2,
+        "llm_reason": "Stage B採用 (axis=4, ev=1.192, prob=0.090, odds=13.2, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "04-08",
+        "stake": 100,
+        "odds": 7.9,
+        "llm_reason": "Stage B採用 (axis=4, ev=1.151, prob=0.146, odds=7.9, source=latest)"
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "04>09",
+        "stake": 100,
+        "odds": 9.9,
+        "llm_reason": "Stage B採用 (axis=4, ev=1.122, prob=0.113, odds=9.9, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 7 件を採用。主軸は 4 番で、中心は wide 04-09(1200円, ev=1.460) / sanrenpuku 04-08-09(700円, ev=2.176) / umaren 04-09(500円, ev=1.485)。"
+  },
   "result": null
 }
