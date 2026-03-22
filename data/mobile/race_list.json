@@ -1,6 +1,6 @@
 {
   "target_date": "2026-03-22",
-  "generated_at": "2026-03-22T14:48+09:00",
+  "generated_at": "2026-03-22T14:51+09:00",
   "races": [
     {
       "race_id": "202603220701",
@@ -442,11 +442,11 @@
       "keibajo_name": "阪神",
       "race_number": 10,
       "race_name": "レグルスステークス",
-      "post_time": "15:00",
+      "post_time": "15:01",
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
