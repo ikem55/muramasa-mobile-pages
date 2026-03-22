@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603220702",
     "target_date": "2026-03-22",
-    "generated_at": "2026-03-22T10:06+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-22T10:12+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,18 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "04-16",
+        "stake": 1000,
+        "odds": 24.7,
+        "llm_reason": "Stage B採用 (axis=4, ev=1.383, prob=0.056, odds=24.7, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 1 件を採用。主軸は 4 番で、中心は wide 04-16(1000円, ev=1.383)。"
+  },
   "result": null
 }
