@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603220909",
     "target_date": "2026-03-22",
-    "generated_at": "2026-03-22T14:23+09:00",
-    "stage": "final",
+    "generated_at": "2026-03-22T14:40+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -341,5 +341,224 @@
     "mode": "llm",
     "comment": "TRICKY / balanced で 3 件を採用。主軸は 5 番で、中心は wide 02-05(2000円, ev=1.119) / umaren 02-05(600円, ev=1.144) / umaren 04-06(200円, ev=1.090)。"
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 4,
+        "horse_name": "テラメリタ",
+        "time": "1:32.7",
+        "last3f": 34.3,
+        "passing_order": "3-3",
+        "jockey_name": "川田将雅"
+      },
+      {
+        "rank": 2,
+        "umaban": 8,
+        "horse_name": "クイックバイオ",
+        "time": "1:32.8",
+        "last3f": 34.1,
+        "passing_order": "5-5",
+        "jockey_name": "佐々木大"
+      },
+      {
+        "rank": 3,
+        "umaban": 5,
+        "horse_name": "フェアリーライク",
+        "time": "1:32.8",
+        "last3f": 33.5,
+        "passing_order": "7-7",
+        "jockey_name": "武豊"
+      },
+      {
+        "rank": 4,
+        "umaban": 1,
+        "horse_name": "リカントロポ",
+        "time": "1:32.9",
+        "last3f": 33.8,
+        "passing_order": "6-6",
+        "jockey_name": "田口貫太"
+      },
+      {
+        "rank": 5,
+        "umaban": 2,
+        "horse_name": "モアリジット",
+        "time": "1:33.1",
+        "last3f": 35.0,
+        "passing_order": "1-1",
+        "jockey_name": "古川奈穂"
+      },
+      {
+        "rank": 6,
+        "umaban": 7,
+        "horse_name": "シャイニースイフト",
+        "time": "1:33.9",
+        "last3f": 35.4,
+        "passing_order": "3-3",
+        "jockey_name": "丹内祐次"
+      },
+      {
+        "rank": 7,
+        "umaban": 6,
+        "horse_name": "マルカオペラ",
+        "time": "1:34.0",
+        "last3f": 35.7,
+        "passing_order": "2-2",
+        "jockey_name": "北村友一"
+      },
+      {
+        "rank": 8,
+        "umaban": 3,
+        "horse_name": "サヴァビアン",
+        "time": "1:34.9",
+        "last3f": 35.1,
+        "passing_order": "7-8",
+        "jockey_name": "斎藤新"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "04",
+          "amount": 110,
+          "popularity": 1
+        },
+        {
+          "combination": "05",
+          "amount": 110,
+          "popularity": 2
+        },
+        {
+          "combination": "08",
+          "amount": 260,
+          "popularity": 6
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "04-05-08",
+          "amount": 1590,
+          "popularity": 6
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "04-08-05",
+          "amount": 9370,
+          "popularity": 35
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "04",
+          "amount": 210,
+          "popularity": 1
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "04-08",
+          "amount": 2550,
+          "popularity": 9
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "04-08",
+          "amount": 3420,
+          "popularity": 13
+        }
+      ],
+      "wide": [
+        {
+          "combination": "04-05",
+          "amount": 140,
+          "popularity": 1
+        },
+        {
+          "combination": "04-08",
+          "amount": 520,
+          "popularity": 8
+        },
+        {
+          "combination": "05-08",
+          "amount": 650,
+          "popularity": 10
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrentan",
+        "combination": "02-05-04",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 43.8,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrentan",
+        "combination": "05-08-04",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 129.2,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrentan",
+        "combination": "06-04-05",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 165.1,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrentan",
+        "combination": "06-05-04",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 172.2,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "02-05",
+        "stake": 600,
+        "payout": 0,
+        "profit": -600,
+        "is_hit": false,
+        "odds": 10.8,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "05-06",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 28.1,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-05",
+        "stake": 1600,
+        "payout": 0,
+        "profit": -1600,
+        "is_hit": false,
+        "odds": 3.1,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
