@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603220709",
     "target_date": "2026-03-22",
-    "generated_at": "2026-03-22T13:56+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-22T14:02+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -382,6 +382,46 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "01-07",
+        "stake": 700,
+        "odds": 33.9,
+        "llm_reason": "Stage B採用 (axis=7, ev=2.366, prob=0.070, odds=33.9, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-07",
+        "stake": 1600,
+        "odds": 9.3,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.827, prob=0.197, odds=9.3, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-10",
+        "stake": 300,
+        "odds": 7.2,
+        "llm_reason": "Stage B採用 (axis=1, ev=1.153, prob=0.160, odds=7.2, source=latest)"
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-03-07",
+        "stake": 300,
+        "odds": 35.1,
+        "llm_reason": "Stage B採用 (axis=3, ev=1.920, prob=0.055, odds=35.1, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "03-07",
+        "stake": 200,
+        "odds": 27.0,
+        "llm_reason": "Stage B採用 (axis=3, ev=1.577, prob=0.058, odds=27.0, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 5 件を採用。主軸は 7 番で、中心は wide 01-07(1600円, ev=1.827) / umaren 01-07(700円, ev=2.366) / sanrenpuku 01-03-07(300円, ev=1.920)。"
+  },
   "result": null
 }
