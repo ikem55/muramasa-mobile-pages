@@ -1,21 +1,21 @@
 {
-  "target_date": "2026-03-21",
-  "generated_at": "2026-03-28T09:20+09:00",
+  "target_date": "2026-03-28",
+  "generated_at": "2026-03-28T09:36+09:00",
   "races": [
     {
-      "race_id": "202603210612",
-      "keibajo_name": "中山",
-      "race_number": 12,
-      "race_name": "1勝クラス",
-      "post_time": "16:25",
-      "course": "ダート1200",
+      "race_id": "202603280701",
+      "keibajo_name": "中京",
+      "race_number": 1,
+      "race_name": "未勝利",
+      "post_time": "09:45",
+      "course": "ダート1400",
       "status": {
-        "has_entry": false,
+        "has_entry": true,
         "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
-      "file": "races/202603210612.json"
+      "file": "races/202603280701.json"
     }
   ]
 }
