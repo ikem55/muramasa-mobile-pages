@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "race_id": "202603290708",
+    "target_date": "2026-03-29",
+    "generated_at": "2026-03-28T20:13+09:00",
+    "stage": "entry",
+    "version": 1
+  },
+  "race": {
+    "race_id": "202603290708",
+    "keibajo_name": "中京",
+    "race_number": 8,
+    "race_name": "大寒桜賞",
+    "post_time": "13:55",
+    "course": "芝2200",
+    "track": "芝",
+    "distance": 2200,
+    "condition": "良",
+    "weather": "晴"
+  },
+  "entry": {
+    "horses": [
+      {
+        "umaban": 1,
+        "wakuban": 1,
+        "horse_name": "ボンドマティーニ",
+        "sex_age": "牡3",
+        "jockey_name": "北村友一",
+        "weight_carried": 57.0,
+        "win_flag": 0.3768833132032045,
+        "place_flag": 0.5475561201542912,
+        "show_flag": 0.7079639198738569,
+        "corner4_class": 0.38954140192986153,
+        "position_volatility": null,
+        "dash_index": 0.6705599574735028,
+        "fastest_l3f_flag": 0.17020619969585252
+      },
+      {
+        "umaban": 2,
+        "wakuban": 2,
+        "horse_name": "メイショウナルカミ",
+        "sex_age": "牡3",
+        "jockey_name": "川田将雅",
+        "weight_carried": 57.0,
+        "win_flag": 0.2786948266549023,
+        "place_flag": 0.2832177044261978,
+        "show_flag": 0.4814658504706584,
+        "corner4_class": 0.3154380031083507,
+        "position_volatility": null,
+        "dash_index": 0.801672060033122,
+        "fastest_l3f_flag": 0.1201673696935334
+      },
+      {
+        "umaban": 3,
+        "wakuban": 3,
+        "horse_name": "ショウグンマサムネ",
+        "sex_age": "牡3",
+        "jockey_name": "浜中俊",
+        "weight_carried": 57.0,
+        "win_flag": 0.05289659096502502,
+        "place_flag": 0.12373269293657019,
+        "show_flag": 0.28337575516715685,
+        "corner4_class": 0.555624193837679,
+        "position_volatility": null,
+        "dash_index": 0.5196215581081702,
+        "fastest_l3f_flag": 0.30467907710874664
+      },
+      {
+        "umaban": 4,
+        "wakuban": 4,
+        "horse_name": "スタニングレディ",
+        "sex_age": "牝3",
+        "jockey_name": "三浦皇成",
+        "weight_carried": 55.0,
+        "win_flag": 0.06467928906120778,
+        "place_flag": 0.13563070921935647,
+        "show_flag": 0.20613304559135784,
+        "corner4_class": 0.6346708938321975,
+        "position_volatility": null,
+        "dash_index": 0.49696475291429376,
+        "fastest_l3f_flag": 0.09054160684266797
+      },
+      {
+        "umaban": 5,
+        "wakuban": 5,
+        "horse_name": "ダノンハドソン",
+        "sex_age": "牡3",
+        "jockey_name": "松山弘平",
+        "weight_carried": 57.0,
+        "win_flag": 0.3946583249020896,
+        "place_flag": 0.39941388291624536,
+        "show_flag": 0.5060790738860793,
+        "corner4_class": 0.5377495083821593,
+        "position_volatility": null,
+        "dash_index": 0.5523710231932771,
+        "fastest_l3f_flag": 0.3532632405025672
+      },
+      {
+        "umaban": 6,
+        "wakuban": 6,
+        "horse_name": "レッドリガーレ",
+        "sex_age": "牡3",
+        "jockey_name": "団野大成",
+        "weight_carried": 57.0,
+        "win_flag": 0.0821468964084647,
+        "place_flag": 0.2139938746335647,
+        "show_flag": 0.3248797921270737,
+        "corner4_class": 0.4592897575605725,
+        "position_volatility": null,
+        "dash_index": 0.7003317750805048,
+        "fastest_l3f_flag": 0.028125565205017345
+      },
+      {
+        "umaban": 7,
+        "wakuban": 7,
+        "horse_name": "テルヒコウ",
+        "sex_age": "牡3",
+        "jockey_name": "西村淳也",
+        "weight_carried": 57.0,
+        "win_flag": 0.10634246542310236,
+        "place_flag": 0.18398172948357439,
+        "show_flag": 0.31278648885563326,
+        "corner4_class": 0.34018686687499944,
+        "position_volatility": null,
+        "dash_index": 0.8338419185050749,
+        "fastest_l3f_flag": 0.06677031877057797
+      }
+    ],
+    "race_metrics": {
+      "chaos_entropy": 0.9096161653018832,
+      "fav_top3_lock": null,
+      "pace_bias_index": 0.03862178544903383,
+      "upset_probability": 0.5349971565702893,
+      "winner_time_residual": null
+    }
+  },
+  "chokuzen": null,
+  "final": null,
+  "result": null
+}

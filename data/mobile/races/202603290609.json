@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "race_id": "202603290609",
+    "target_date": "2026-03-29",
+    "generated_at": "2026-03-28T20:13+09:00",
+    "stage": "entry",
+    "version": 1
+  },
+  "race": {
+    "race_id": "202603290609",
+    "keibajo_name": "中山",
+    "race_number": 9,
+    "race_name": "ミモザ賞",
+    "post_time": "14:15",
+    "course": "芝2000",
+    "track": "芝",
+    "distance": 2000,
+    "condition": "良",
+    "weather": "晴"
+  },
+  "entry": {
+    "horses": [
+      {
+        "umaban": 1,
+        "wakuban": 1,
+        "horse_name": "ガーヴィ",
+        "sex_age": "牝3",
+        "jockey_name": "舟山瑠泉",
+        "weight_carried": 55.0,
+        "win_flag": 0.02327611515186953,
+        "place_flag": 0.038813651829727715,
+        "show_flag": 0.13555201867873032,
+        "corner4_class": 0.7696432225093349,
+        "position_volatility": null,
+        "dash_index": 0.39929608156095303,
+        "fastest_l3f_flag": 0.1673787666601166
+      },
+      {
+        "umaban": 2,
+        "wakuban": 2,
+        "horse_name": "ドナルンバ",
+        "sex_age": "牝3",
+        "jockey_name": "荻野極",
+        "weight_carried": 55.0,
+        "win_flag": 0.18345417535379438,
+        "place_flag": 0.36249252497510304,
+        "show_flag": 0.6384952003107203,
+        "corner4_class": 0.20529603650046632,
+        "position_volatility": null,
+        "dash_index": 0.8760929532101969,
+        "fastest_l3f_flag": 0.05203202801591432
+      },
+      {
+        "umaban": 3,
+        "wakuban": 3,
+        "horse_name": "ベンヴェヌータ",
+        "sex_age": "牝3",
+        "jockey_name": "石橋脩",
+        "weight_carried": 55.0,
+        "win_flag": 0.16767672492505029,
+        "place_flag": 0.2565075405897896,
+        "show_flag": 0.4656534737657623,
+        "corner4_class": 0.273822254811427,
+        "position_volatility": null,
+        "dash_index": 0.8107415378915422,
+        "fastest_l3f_flag": 0.059793240168623654
+      },
+      {
+        "umaban": 4,
+        "wakuban": 4,
+        "horse_name": "ユメシルベ",
+        "sex_age": "牝3",
+        "jockey_name": "柴田大知",
+        "weight_carried": 55.0,
+        "win_flag": 0.057425368109992755,
+        "place_flag": 0.08813988466911772,
+        "show_flag": 0.21411716985481988,
+        "corner4_class": 0.4020266493133717,
+        "position_volatility": null,
+        "dash_index": 0.7158526008141576,
+        "fastest_l3f_flag": 0.04246976793470363
+      },
+      {
+        "umaban": 5,
+        "wakuban": 5,
+        "horse_name": "ランザワールド",
+        "sex_age": "牝3",
+        "jockey_name": "丹内祐次",
+        "weight_carried": 55.0,
+        "win_flag": 0.36814666490537445,
+        "place_flag": 0.4448334133701636,
+        "show_flag": 0.609249988487964,
+        "corner4_class": 0.44498364766119636,
+        "position_volatility": null,
+        "dash_index": 0.6368692612915132,
+        "fastest_l3f_flag": 0.21359065102378966
+      },
+      {
+        "umaban": 6,
+        "wakuban": 6,
+        "horse_name": "ナムラダリア",
+        "sex_age": "牝3",
+        "jockey_name": "原田和真",
+        "weight_carried": 55.0,
+        "win_flag": 0.12235247613891279,
+        "place_flag": 0.2135496979485282,
+        "show_flag": 0.30322248255705314,
+        "corner4_class": 0.5524013915004197,
+        "position_volatility": null,
+        "dash_index": 0.6193253895328953,
+        "fastest_l3f_flag": 0.056664340007663974
+      },
+      {
+        "umaban": 7,
+        "wakuban": 7,
+        "horse_name": "セットエトワール",
+        "sex_age": "牝3",
+        "jockey_name": "津村明秀",
+        "weight_carried": 55.0,
+        "win_flag": 0.04246000599250843,
+        "place_flag": 0.10576208250340727,
+        "show_flag": 0.3758074060250918,
+        "corner4_class": 0.4785591740296158,
+        "position_volatility": null,
+        "dash_index": 0.5375830321406104,
+        "fastest_l3f_flag": 0.10374571580439329
+      }
+    ],
+    "race_metrics": {
+      "chaos_entropy": 0.9048888775831284,
+      "fav_top3_lock": null,
+      "pace_bias_index": 0.06794625183150593,
+      "upset_probability": 0.5282240365982737,
+      "winner_time_residual": null
+    }
+  },
+  "chokuzen": null,
+  "final": null,
+  "result": null
+}
