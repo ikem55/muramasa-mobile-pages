@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603280607",
     "target_date": "2026-03-28",
-    "generated_at": "2026-03-28T13:18+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-28T13:22+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -484,6 +484,39 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "06-10",
+        "stake": 500,
+        "odds": 15.5,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.397, prob=0.090, odds=15.5, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-10",
+        "stake": 400,
+        "odds": 9.8,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.204, prob=0.123, odds=9.8, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "06-10",
+        "stake": 400,
+        "odds": 4.5,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.111, prob=0.247, odds=4.5, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "02-09",
+        "stake": 200,
+        "odds": 39.1,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.392, prob=0.036, odds=39.1, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 4 件を採用。主軸は 10 番で、中心は umaren 06-10(500円, ev=1.397) / wide 02-10(400円, ev=1.204) / wide 06-10(400円, ev=1.111)。"
+  },
   "result": null
 }
