@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603280909",
     "target_date": "2026-03-28",
-    "generated_at": "2026-03-28T14:12+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-28T14:18+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -280,6 +280,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-03-06",
+        "stake": 400,
+        "odds": 12.5,
+        "llm_reason": "Stage B採用 (axis=3, ev=1.564, prob=0.125, odds=12.5, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "03-06",
+        "stake": 300,
+        "odds": 14.4,
+        "llm_reason": "Stage B採用 (axis=3, ev=1.521, prob=0.106, odds=14.4, source=latest)"
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-03-06",
+        "stake": 500,
+        "odds": 7.5,
+        "llm_reason": "Stage B採用 (axis=3, ev=1.376, prob=0.183, odds=7.5, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 3 件を採用。主軸は 3 番で、中心は sanrenpuku 01-03-06(500円, ev=1.376) / sanrenpuku 02-03-06(400円, ev=1.564) / umaren 03-06(300円, ev=1.521)。"
+  },
   "result": null
 }
