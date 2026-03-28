@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603280909",
     "target_date": "2026-03-28",
-    "generated_at": "2026-03-28T14:18+09:00",
-    "stage": "final",
+    "generated_at": "2026-03-28T14:36+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -307,5 +307,210 @@
     "mode": "llm",
     "comment": "TRICKY / balanced で 3 件を採用。主軸は 3 番で、中心は sanrenpuku 01-03-06(500円, ev=1.376) / sanrenpuku 02-03-06(400円, ev=1.564) / umaren 03-06(300円, ev=1.521)。"
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 2,
+        "horse_name": "アンジュドジョワ",
+        "time": "1:46.7",
+        "last3f": 34.1,
+        "passing_order": "3-4",
+        "jockey_name": "岩田望来"
+      },
+      {
+        "rank": 2,
+        "umaban": 1,
+        "horse_name": "グランドオーパス",
+        "time": "1:47.1",
+        "last3f": 34.7,
+        "passing_order": "1-1",
+        "jockey_name": "北村友一"
+      },
+      {
+        "rank": 3,
+        "umaban": 3,
+        "horse_name": "トリニティ",
+        "time": "1:47.2",
+        "last3f": 34.7,
+        "passing_order": "3-2",
+        "jockey_name": "武豊"
+      },
+      {
+        "rank": 4,
+        "umaban": 6,
+        "horse_name": "ダンシングドール",
+        "time": "1:47.5",
+        "last3f": 34.8,
+        "passing_order": "6-5",
+        "jockey_name": "森田誠也"
+      },
+      {
+        "rank": 5,
+        "umaban": 5,
+        "horse_name": "ペカリーナ",
+        "time": "1:48.0",
+        "last3f": 35.3,
+        "passing_order": "3-5",
+        "jockey_name": "藤懸貴志"
+      },
+      {
+        "rank": 6,
+        "umaban": 4,
+        "horse_name": "ジャストビート",
+        "time": "1:48.2",
+        "last3f": 35.4,
+        "passing_order": "6-5",
+        "jockey_name": "松山弘平"
+      },
+      {
+        "rank": 7,
+        "umaban": 7,
+        "horse_name": "キタノファーンヒル",
+        "time": "1:48.4",
+        "last3f": 35.9,
+        "passing_order": "2-2",
+        "jockey_name": "菱田裕二"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "01",
+          "amount": 130,
+          "popularity": 1
+        },
+        {
+          "combination": "02",
+          "amount": 160,
+          "popularity": 3
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "01-02-03",
+          "amount": 230,
+          "popularity": 1
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "02-01-03",
+          "amount": 1270,
+          "popularity": 5
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "02",
+          "amount": 290,
+          "popularity": 2
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "01-02",
+          "amount": 240,
+          "popularity": 1
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "02-01",
+          "amount": 510,
+          "popularity": 2
+        }
+      ],
+      "wide": [
+        {
+          "combination": "01-03",
+          "amount": 130,
+          "popularity": 1
+        },
+        {
+          "combination": "01-02",
+          "amount": 130,
+          "popularity": 2
+        },
+        {
+          "combination": "02-03",
+          "amount": 160,
+          "popularity": 3
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-03-05",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 80.4,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-03-06",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 7.5,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-03-06",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 12.5,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "03-06",
+        "stake": 300,
+        "payout": 0,
+        "profit": -300,
+        "is_hit": false,
+        "odds": 22.4,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "06-01",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 30.0,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "06-02",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 42.6,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "06-03",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 40.1,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
