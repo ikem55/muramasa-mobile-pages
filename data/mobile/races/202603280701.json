@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603280701",
     "target_date": "2026-03-28",
-    "generated_at": "2026-03-28T09:44+09:00",
-    "stage": "final",
+    "generated_at": "2026-03-28T10:01+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -269,7 +269,323 @@
       "winner_time_residual": null
     }
   },
-  "chokuzen": null,
+  "chokuzen": {
+    "horses": [
+      {
+        "umaban": 1,
+        "horse_name": "リマーカブル",
+        "odds": 261.3,
+        "popularity": 13,
+        "jockey_name": "永島まな",
+        "weight_carried": 55.0,
+        "win_flag": 0.006411294373650573,
+        "place_flag": 0.018219807839754642,
+        "show_flag": 0.03624513953210527,
+        "corner4_class": 0.942536002540233,
+        "position_volatility": 0.9937991318380363,
+        "dash_index": 0.2241830569196928,
+        "fastest_l3f_flag": 0.14155203870402486,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 2,
+        "horse_name": "セッシュウ",
+        "odds": 1.2,
+        "popularity": 1,
+        "jockey_name": "高杉吏麒",
+        "weight_carried": 57.0,
+        "win_flag": 0.5636425729291931,
+        "place_flag": 0.5642683858743106,
+        "show_flag": 0.7654339887880349,
+        "corner4_class": 0.34575384312131596,
+        "position_volatility": 0.8257335925014968,
+        "dash_index": 0.6985430571330848,
+        "fastest_l3f_flag": 0.3634255732473093,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 3,
+        "horse_name": "ドラリズム",
+        "odds": 21.6,
+        "popularity": 6,
+        "jockey_name": "岩田康誠",
+        "weight_carried": 57.0,
+        "win_flag": 0.16711840938560127,
+        "place_flag": 0.14797901375090658,
+        "show_flag": 0.36195878967267103,
+        "corner4_class": 0.3888043438003522,
+        "position_volatility": 0.9329364655412022,
+        "dash_index": 0.5993059085274144,
+        "fastest_l3f_flag": 0.1464474341152291,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 4,
+        "horse_name": "ビサーロ",
+        "odds": 40.5,
+        "popularity": 7,
+        "jockey_name": "小沢大仁",
+        "weight_carried": 57.0,
+        "win_flag": 0.012481090052541102,
+        "place_flag": 0.041425501173458584,
+        "show_flag": 0.07088201947245411,
+        "corner4_class": 0.5078814909145143,
+        "position_volatility": 0.9690555558715918,
+        "dash_index": 0.595591201795105,
+        "fastest_l3f_flag": 0.03176995182416797,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 5,
+        "horse_name": "クインズスズラン",
+        "odds": 93.1,
+        "popularity": 10,
+        "jockey_name": "舟山瑠泉",
+        "weight_carried": 52.0,
+        "win_flag": 0.059414481055015074,
+        "place_flag": 0.117121098604529,
+        "show_flag": 0.14669965335520493,
+        "corner4_class": 0.7222864825203267,
+        "position_volatility": 0.9822574237967365,
+        "dash_index": 0.2663269124926104,
+        "fastest_l3f_flag": 0.23670439243902006,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 6,
+        "horse_name": "リサシテーション",
+        "odds": 45.3,
+        "popularity": 8,
+        "jockey_name": "柴田裕一",
+        "weight_carried": 55.0,
+        "win_flag": 0.05469487104010551,
+        "place_flag": 0.09425635458912837,
+        "show_flag": 0.1672900997668893,
+        "corner4_class": 0.5923165576496839,
+        "position_volatility": 0.9855682409474267,
+        "dash_index": 0.4401599668783929,
+        "fastest_l3f_flag": 0.14698151861997638,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 7,
+        "horse_name": "ニホンピロローカス",
+        "odds": 16.9,
+        "popularity": 5,
+        "jockey_name": "田口貫太",
+        "weight_carried": 57.0,
+        "win_flag": 0.014132471627692218,
+        "place_flag": 0.026728591835528167,
+        "show_flag": 0.05948121572151432,
+        "corner4_class": 0.5750632259961195,
+        "position_volatility": 0.988776684581793,
+        "dash_index": 0.3658127807876481,
+        "fastest_l3f_flag": 0.0833131497039201,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 8,
+        "horse_name": "ジャカルタバオ",
+        "odds": 16.3,
+        "popularity": 4,
+        "jockey_name": "浜中俊",
+        "weight_carried": 57.0,
+        "win_flag": 0.08092854778239236,
+        "place_flag": 0.1720108642437059,
+        "show_flag": 0.2734011861672744,
+        "corner4_class": 0.6608993984715481,
+        "position_volatility": 0.9303982840918811,
+        "dash_index": 0.39066963503607455,
+        "fastest_l3f_flag": 0.3100499735685608,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 9,
+        "horse_name": "ユイハホンキダゼ",
+        "odds": 141.9,
+        "popularity": 12,
+        "jockey_name": "長岡禎仁",
+        "weight_carried": 57.0,
+        "win_flag": 0.03544922871625542,
+        "place_flag": 0.09973701599312759,
+        "show_flag": 0.16598768964530816,
+        "corner4_class": 0.7047187287265204,
+        "position_volatility": 0.9837033853740584,
+        "dash_index": 0.39107547590598213,
+        "fastest_l3f_flag": 0.18652852813190388,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 10,
+        "horse_name": "ジャガーライズ",
+        "odds": 15.2,
+        "popularity": 3,
+        "jockey_name": "佐藤翔馬",
+        "weight_carried": 54.0,
+        "win_flag": 0.24944983805907753,
+        "place_flag": 0.36869876794844203,
+        "show_flag": 0.5605950824882111,
+        "corner4_class": 0.2519738553838177,
+        "position_volatility": 0.805170711537628,
+        "dash_index": 0.7855185788760797,
+        "fastest_l3f_flag": 0.14309947499601927,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 11,
+        "horse_name": "ソパデアホ",
+        "odds": 121.8,
+        "popularity": 11,
+        "jockey_name": "田山旺佑",
+        "weight_carried": 54.0,
+        "win_flag": 0.016136752322090678,
+        "place_flag": 0.01647136193069283,
+        "show_flag": 0.054681090914705924,
+        "corner4_class": 0.4696509389953017,
+        "position_volatility": 0.9716138854226621,
+        "dash_index": 0.6151621104629579,
+        "fastest_l3f_flag": 0.02998661015681642,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 12,
+        "horse_name": "オラロア",
+        "odds": 10.4,
+        "popularity": 2,
+        "jockey_name": "斎藤新",
+        "weight_carried": 57.0,
+        "win_flag": 0.21318021240885368,
+        "place_flag": 0.29230976632561373,
+        "show_flag": 0.47374455366430573,
+        "corner4_class": 0.18130880229591426,
+        "position_volatility": 0.7153486276708408,
+        "dash_index": 0.8471109615989516,
+        "fastest_l3f_flag": 0.09987583115083147,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 13,
+        "horse_name": "アスターラングル",
+        "odds": 565.6,
+        "popularity": 16,
+        "jockey_name": "古川吉洋",
+        "weight_carried": 55.0,
+        "win_flag": 0.005078343259822149,
+        "place_flag": 0.02850842621809336,
+        "show_flag": 0.03263422579381069,
+        "corner4_class": 0.8723224070389335,
+        "position_volatility": 0.9971097801817431,
+        "dash_index": 0.16211431919695823,
+        "fastest_l3f_flag": 0.08327207358644852,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 14,
+        "horse_name": "モロノラピド",
+        "odds": 351.4,
+        "popularity": 15,
+        "jockey_name": "丸山元気",
+        "weight_carried": 57.0,
+        "win_flag": 0.0023634003069217327,
+        "place_flag": 0.0054346973158857625,
+        "show_flag": 0.014282825282489494,
+        "corner4_class": 0.6000210443924892,
+        "position_volatility": 1.0104340295391234,
+        "dash_index": 0.3947677343386247,
+        "fastest_l3f_flag": 0.023419200059165455,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 15,
+        "horse_name": "ウェスケンジントン",
+        "odds": 53.5,
+        "popularity": 9,
+        "jockey_name": "中井裕二",
+        "weight_carried": 57.0,
+        "win_flag": 0.013384721103627508,
+        "place_flag": 0.029893761384204756,
+        "show_flag": 0.07219476141881592,
+        "corner4_class": 0.5563894033423845,
+        "position_volatility": 0.980708455159994,
+        "dash_index": 0.46362892417870477,
+        "fastest_l3f_flag": 0.07518716203971762,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      },
+      {
+        "umaban": 16,
+        "horse_name": "ステラゲイル",
+        "odds": 348.5,
+        "popularity": 14,
+        "jockey_name": "丸田恭介",
+        "weight_carried": 57.0,
+        "win_flag": 0.011546189618628343,
+        "place_flag": 0.03179106533017412,
+        "show_flag": 0.043861736358481805,
+        "corner4_class": 0.6740136250249853,
+        "position_volatility": 0.9876395618413112,
+        "dash_index": 0.3382392112483402,
+        "fastest_l3f_flag": 0.08736489831792335,
+        "llm_rank": null,
+        "llm_role": null,
+        "llm_confidence": null,
+        "llm_reason": null
+      }
+    ],
+    "race_metrics": {
+      "chaos_entropy": 0.716484185516308,
+      "fav_top3_lock": 0.34765763697586133,
+      "pace_bias_index": 0.005414558790050705,
+      "upset_probability": 0.460199929936234,
+      "winner_time_residual": null
+    },
+    "mode": "llm",
+    "comment": "上位は2が抜け、10・12が続く構図。chaos_entropy_predは低めで極端な混戦ではなく、upset_probability_predも高くない一方、fav_top3_lock_predは中位で2の一本被りに対して相手はやや流動的。ペース偏りは小さく、能力比較がそのまま出やすい想定。軸は総合順位が全て1位の2が中心だが、positional_volatility_predが高く取りこぼし余地は残るため、相手本線は連対・3着内の整合が高い10と12。穴では3が4番手評価の割に単勝14.6倍で上振れ余地があり、人気とのバランスで押さえ候補。\n\n[adaptive_strategy] regime=TRICKY; mode=balanced; candidate_pool_cap=30; final_cap=10; min_selected=3; min_types=2; axis_limits={2: 17, 12: 7, 3: 6}"
+  },
   "final": {
     "bets": [
       {
@@ -311,5 +627,323 @@
     "mode": "llm",
     "comment": "TRICKY / balanced で 5 件を採用。主軸は 12 番で、中心は wide 02-12(700円, ev=1.210) / sanrenpuku 02-10-12(300円, ev=1.431) / wide 02-05(300円, ev=1.370)。"
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 6,
+        "horse_name": "リサシテーション",
+        "time": "1:24.9",
+        "last3f": 36.6,
+        "passing_order": "13-13",
+        "jockey_name": "柴田裕一"
+      },
+      {
+        "rank": 2,
+        "umaban": 2,
+        "horse_name": "セッシュウ",
+        "time": "1:25.1",
+        "last3f": 37.4,
+        "passing_order": "8-7",
+        "jockey_name": "高杉吏麒"
+      },
+      {
+        "rank": 3,
+        "umaban": 15,
+        "horse_name": "ウェスケンジントン",
+        "time": "1:25.3",
+        "last3f": 37.3,
+        "passing_order": "11-10",
+        "jockey_name": "中井裕二"
+      },
+      {
+        "rank": 4,
+        "umaban": 7,
+        "horse_name": "ニホンピロローカス",
+        "time": "1:25.5",
+        "last3f": 38.5,
+        "passing_order": "2-2",
+        "jockey_name": "田口貫太"
+      },
+      {
+        "rank": 5,
+        "umaban": 8,
+        "horse_name": "ジャカルタバオ",
+        "time": "1:25.8",
+        "last3f": 38.3,
+        "passing_order": "5-5",
+        "jockey_name": "浜中俊"
+      },
+      {
+        "rank": 6,
+        "umaban": 10,
+        "horse_name": "ジャガーライズ",
+        "time": "1:26.1",
+        "last3f": 39.0,
+        "passing_order": "3-3",
+        "jockey_name": "佐藤翔馬"
+      },
+      {
+        "rank": 7,
+        "umaban": 9,
+        "horse_name": "ユイハホンキダゼ",
+        "time": "1:26.6",
+        "last3f": 38.6,
+        "passing_order": "11-10",
+        "jockey_name": "長岡禎仁"
+      },
+      {
+        "rank": 8,
+        "umaban": 4,
+        "horse_name": "ビサーロ",
+        "time": "1:26.6",
+        "last3f": 39.1,
+        "passing_order": "5-5",
+        "jockey_name": "小沢大仁"
+      },
+      {
+        "rank": 9,
+        "umaban": 16,
+        "horse_name": "ステラゲイル",
+        "time": "1:27.1",
+        "last3f": 38.7,
+        "passing_order": "13-13",
+        "jockey_name": "丸田恭介"
+      },
+      {
+        "rank": 10,
+        "umaban": 3,
+        "horse_name": "ドラリズム",
+        "time": "1:27.1",
+        "last3f": 39.2,
+        "passing_order": "10-8",
+        "jockey_name": "岩田康誠"
+      },
+      {
+        "rank": 11,
+        "umaban": 14,
+        "horse_name": "モロノラピド",
+        "time": "1:27.5",
+        "last3f": 40.0,
+        "passing_order": "5-8",
+        "jockey_name": "丸山元気"
+      },
+      {
+        "rank": 12,
+        "umaban": 11,
+        "horse_name": "ソパデアホ",
+        "time": "1:27.5",
+        "last3f": 39.7,
+        "passing_order": "8-10",
+        "jockey_name": "田山旺佑"
+      },
+      {
+        "rank": 13,
+        "umaban": 12,
+        "horse_name": "オラロア",
+        "time": "1:27.5",
+        "last3f": 40.6,
+        "passing_order": "1-1",
+        "jockey_name": "斎藤新"
+      },
+      {
+        "rank": 14,
+        "umaban": 5,
+        "horse_name": "クインズスズラン",
+        "time": "1:27.6",
+        "last3f": 40.5,
+        "passing_order": "3-3",
+        "jockey_name": "舟山瑠泉"
+      },
+      {
+        "rank": 15,
+        "umaban": 1,
+        "horse_name": "リマーカブル",
+        "time": "1:28.4",
+        "last3f": 39.3,
+        "passing_order": "15-15",
+        "jockey_name": "永島まな"
+      },
+      {
+        "rank": 16,
+        "umaban": 13,
+        "horse_name": "アスターラングル",
+        "time": "1:29.8",
+        "last3f": 40.4,
+        "passing_order": "16-16",
+        "jockey_name": "古川吉洋"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "02",
+          "amount": 110,
+          "popularity": 1
+        },
+        {
+          "combination": "06",
+          "amount": 370,
+          "popularity": 7
+        },
+        {
+          "combination": "15",
+          "amount": 520,
+          "popularity": 8
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "02-06-15",
+          "amount": 13680,
+          "popularity": 39
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "06-02-15",
+          "amount": 140600,
+          "popularity": 272
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "06",
+          "amount": 4530,
+          "popularity": 8
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "02-06",
+          "amount": 2320,
+          "popularity": 8
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "06-02",
+          "amount": 9470,
+          "popularity": 21
+        }
+      ],
+      "wakuren": [
+        {
+          "combination": "1-3",
+          "amount": 1840,
+          "popularity": 6
+        }
+      ],
+      "wide": [
+        {
+          "combination": "02-15",
+          "amount": 780,
+          "popularity": 6
+        },
+        {
+          "combination": "02-06",
+          "amount": 920,
+          "popularity": 7
+        },
+        {
+          "combination": "06-15",
+          "amount": 8270,
+          "popularity": 49
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-03-05",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 77.2,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-06-10",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 56.6,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-06-12",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 69.3,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-10-12",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 13.2,
+        "popularity": null
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "03",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 15.7,
+        "popularity": null
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "10",
+        "stake": 400,
+        "payout": 0,
+        "profit": -400,
+        "is_hit": false,
+        "odds": 9.9,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-05",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 13.6,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "03-12",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 10.6,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "10-12",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 9.3,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
