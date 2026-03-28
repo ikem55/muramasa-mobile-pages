@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603280711",
     "target_date": "2026-03-28",
-    "generated_at": "2026-03-28T15:16+09:00",
-    "stage": "final",
+    "generated_at": "2026-03-28T15:36+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -613,5 +613,343 @@
     "mode": "llm",
     "comment": "CHAOS / diversified で 3 件を採用。主軸は 10 番で、中心は wide 07-10(700円, ev=1.490) / wide 02-07(500円, ev=1.375) / wide 08-10(400円, ev=1.189)。"
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 2,
+        "horse_name": "ルージュソリテール",
+        "time": "1:32.2",
+        "last3f": 34.0,
+        "passing_order": "4-4-4",
+        "jockey_name": "西塚洸二"
+      },
+      {
+        "rank": 2,
+        "umaban": 12,
+        "horse_name": "ラーンザロープス",
+        "time": "1:32.3",
+        "last3f": 34.2,
+        "passing_order": "3-3-3",
+        "jockey_name": "富田暁"
+      },
+      {
+        "rank": 3,
+        "umaban": 14,
+        "horse_name": "ピックアチェリー",
+        "time": "1:32.5",
+        "last3f": 33.5,
+        "passing_order": "12-11-11",
+        "jockey_name": "吉田隼人"
+      },
+      {
+        "rank": 4,
+        "umaban": 15,
+        "horse_name": "ミエスペランサ",
+        "time": "1:32.5",
+        "last3f": 33.7,
+        "passing_order": "10-9-9",
+        "jockey_name": "亀田温心"
+      },
+      {
+        "rank": 5,
+        "umaban": 1,
+        "horse_name": "ミッキーツインクル",
+        "time": "1:32.6",
+        "last3f": 34.0,
+        "passing_order": "8-6-6",
+        "jockey_name": "中井裕二"
+      },
+      {
+        "rank": 6,
+        "umaban": 6,
+        "horse_name": "マイエレメント",
+        "time": "1:32.7",
+        "last3f": 33.8,
+        "passing_order": "10-12-11",
+        "jockey_name": "斎藤新"
+      },
+      {
+        "rank": 7,
+        "umaban": 3,
+        "horse_name": "エポックヴィーナス",
+        "time": "1:32.8",
+        "last3f": 33.6,
+        "passing_order": "14-15-14",
+        "jockey_name": "田口貫太"
+      },
+      {
+        "rank": 8,
+        "umaban": 8,
+        "horse_name": "ウォーターガーベラ",
+        "time": "1:32.8",
+        "last3f": 34.4,
+        "passing_order": "4-4-5",
+        "jockey_name": "高杉吏麒"
+      },
+      {
+        "rank": 9,
+        "umaban": 13,
+        "horse_name": "ミラビリスマジック",
+        "time": "1:32.9",
+        "last3f": 34.1,
+        "passing_order": "6-9-9",
+        "jockey_name": "小沢大仁"
+      },
+      {
+        "rank": 10,
+        "umaban": 9,
+        "horse_name": "キタサンダムール",
+        "time": "1:33.0",
+        "last3f": 34.4,
+        "passing_order": "8-6-6",
+        "jockey_name": "国分恭介"
+      },
+      {
+        "rank": 11,
+        "umaban": 5,
+        "horse_name": "レオテミス",
+        "time": "1:33.2",
+        "last3f": 35.2,
+        "passing_order": "2-2-2",
+        "jockey_name": "柴田裕一"
+      },
+      {
+        "rank": 12,
+        "umaban": 11,
+        "horse_name": "ハニーコム",
+        "time": "1:33.5",
+        "last3f": 34.9,
+        "passing_order": "6-6-6",
+        "jockey_name": "浜中俊"
+      },
+      {
+        "rank": 13,
+        "umaban": 10,
+        "horse_name": "タガノアビー",
+        "time": "1:33.7",
+        "last3f": 34.5,
+        "passing_order": "14-15-14",
+        "jockey_name": "古川吉洋"
+      },
+      {
+        "rank": 14,
+        "umaban": 16,
+        "horse_name": "コンドゥイア",
+        "time": "1:33.7",
+        "last3f": 35.9,
+        "passing_order": "1-1-1",
+        "jockey_name": "池添謙一"
+      },
+      {
+        "rank": 15,
+        "umaban": 4,
+        "horse_name": "クリニクラウン",
+        "time": "1:34.0",
+        "last3f": 35.0,
+        "passing_order": "12-13-11",
+        "jockey_name": "岩田康誠"
+      },
+      {
+        "rank": 16,
+        "umaban": 7,
+        "horse_name": "ジーティードレス",
+        "time": "1:34.9",
+        "last3f": 35.7,
+        "passing_order": "14-13-14",
+        "jockey_name": "丸山元気"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "02",
+          "amount": 180,
+          "popularity": 1
+        },
+        {
+          "combination": "12",
+          "amount": 310,
+          "popularity": 6
+        },
+        {
+          "combination": "14",
+          "amount": 920,
+          "popularity": 11
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "02-12-14",
+          "amount": 18110,
+          "popularity": 61
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "02-12-14",
+          "amount": 74420,
+          "popularity": 237
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "02",
+          "amount": 290,
+          "popularity": 1
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "02-12",
+          "amount": 1330,
+          "popularity": 1
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "02-12",
+          "amount": 2290,
+          "popularity": 3
+        }
+      ],
+      "wakuren": [
+        {
+          "combination": "1-6",
+          "amount": 1170,
+          "popularity": 4
+        }
+      ],
+      "wide": [
+        {
+          "combination": "02-12",
+          "amount": 580,
+          "popularity": 2
+        },
+        {
+          "combination": "02-14",
+          "amount": 2510,
+          "popularity": 33
+        },
+        {
+          "combination": "12-14",
+          "amount": 4730,
+          "popularity": 53
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-07-10",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 82.8,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-07-08",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 65.1,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-07-10",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 38.1,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-10-12",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 77.8,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "08-10-12",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 135.9,
+        "popularity": null
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "07",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 11.4,
+        "popularity": null
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "08",
+        "stake": 300,
+        "payout": 0,
+        "profit": -300,
+        "is_hit": false,
+        "odds": 8.4,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-07",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 11.7,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "07-08",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 17.2,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "07-10",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 12.5,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "08-10",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 8.3,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
