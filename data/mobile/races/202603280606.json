@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603280606",
     "target_date": "2026-03-28",
-    "generated_at": "2026-03-28T12:47+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-28T12:52+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -416,6 +416,25 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "07-10",
+        "stake": 400,
+        "odds": 6.7,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.199, prob=0.179, odds=6.7, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "07-10",
+        "stake": 600,
+        "odds": 2.2,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.110, prob=0.504, odds=2.2, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 2 件を採用。主軸は 10 番で、中心は wide 07-10(600円, ev=1.110) / umaren 07-10(400円, ev=1.199)。"
+  },
   "result": null
 }
