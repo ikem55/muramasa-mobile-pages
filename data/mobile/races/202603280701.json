@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603280701",
     "target_date": "2026-03-28",
-    "generated_at": "2026-03-28T09:37+09:00",
-    "stage": "entry",
+    "generated_at": "2026-03-28T09:44+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -270,6 +270,46 @@
     }
   },
   "chokuzen": null,
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-10-12",
+        "stake": 300,
+        "odds": 13.2,
+        "llm_reason": "Stage B採用 (axis=2, ev=1.431, prob=0.108, odds=13.2, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-05",
+        "stake": 300,
+        "odds": 13.6,
+        "llm_reason": "Stage B採用 (axis=2, ev=1.370, prob=0.101, odds=13.6, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "10-12",
+        "stake": 100,
+        "odds": 42.1,
+        "llm_reason": "Stage B採用 (axis=12, ev=1.478, prob=0.035, odds=42.1, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "03-12",
+        "stake": 200,
+        "odds": 10.6,
+        "llm_reason": "Stage B採用 (axis=12, ev=1.214, prob=0.115, odds=10.6, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-12",
+        "stake": 700,
+        "odds": 3.3,
+        "llm_reason": "Stage B採用 (axis=12, ev=1.210, prob=0.367, odds=3.3, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 5 件を採用。主軸は 12 番で、中心は wide 02-12(700円, ev=1.210) / sanrenpuku 02-10-12(300円, ev=1.431) / wide 02-05(300円, ev=1.370)。"
+  },
   "result": null
 }
