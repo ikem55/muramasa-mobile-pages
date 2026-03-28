@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603280703",
     "target_date": "2026-03-28",
-    "generated_at": "2026-03-28T10:32+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-28T10:36+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "03-09",
+        "stake": 200,
+        "odds": 10.2,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.073, prob=0.105, odds=10.2, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "03-09",
+        "stake": 100,
+        "odds": 29.3,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.067, prob=0.036, odds=29.3, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "03-05",
+        "stake": 900,
+        "odds": 19.9,
+        "llm_reason": "Stage B採用 (axis=5, ev=1.469, prob=0.074, odds=19.9, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 3 件を採用。主軸は 9 番で、中心は wide 03-05(900円, ev=1.469) / wide 03-09(200円, ev=1.073) / umaren 03-09(100円, ev=1.067)。"
+  },
   "result": null
 }
