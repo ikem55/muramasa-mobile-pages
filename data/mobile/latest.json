@@ -1,6 +1,6 @@
 {
   "target_date": "2026-03-28",
-  "generated_at": "2026-03-28T12:47+09:00",
+  "generated_at": "2026-03-28T12:51+09:00",
   "races": [
     {
       "race_id": "202603280701",
@@ -281,7 +281,7 @@
       "course": "芝1600",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
