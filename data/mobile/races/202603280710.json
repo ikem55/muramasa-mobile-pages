@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603280710",
     "target_date": "2026-03-28",
-    "generated_at": "2026-03-28T14:37+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-28T14:41+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -450,6 +450,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "03-11",
+        "stake": 300,
+        "odds": 14.8,
+        "llm_reason": "Stage B採用 (axis=11, ev=1.120, prob=0.076, odds=14.8, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "08-11",
+        "stake": 600,
+        "odds": 7.5,
+        "llm_reason": "Stage B採用 (axis=11, ev=1.118, prob=0.149, odds=7.5, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "03-09",
+        "stake": 400,
+        "odds": 11.0,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.108, prob=0.101, odds=11.0, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 3 件を採用。主軸は 11 番で、中心は wide 08-11(600円, ev=1.118) / wide 03-09(400円, ev=1.108) / umaren 03-11(300円, ev=1.120)。"
+  },
   "result": null
 }
