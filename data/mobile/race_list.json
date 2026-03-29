@@ -1,6 +1,6 @@
 {
   "target_date": "2026-03-29",
-  "generated_at": "2026-03-29T13:52+09:00",
+  "generated_at": "2026-03-29T13:56+09:00",
   "races": [
     {
       "race_id": "202603290901",
@@ -371,7 +371,7 @@
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
