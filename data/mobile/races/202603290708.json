@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603290708",
     "target_date": "2026-03-29",
-    "generated_at": "2026-03-29T13:52+09:00",
-    "stage": "final",
+    "generated_at": "2026-03-29T14:10+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -314,5 +314,170 @@
     "mode": "llm",
     "comment": "TRICKY / balanced で 4 件を採用。主軸は 6 番で、中心は wide 01-06(400円, ev=1.201) / umaren 01-06(200円, ev=1.375) / sanrenpuku 01-05-06(100円, ev=1.255)。"
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 7,
+        "horse_name": "テルヒコウ",
+        "time": "2:14.1",
+        "last3f": 34.6,
+        "passing_order": "1-1-1-1",
+        "jockey_name": "西村淳也"
+      },
+      {
+        "rank": 2,
+        "umaban": 3,
+        "horse_name": "ショウグンマサムネ",
+        "time": "2:14.2",
+        "last3f": 34.0,
+        "passing_order": "6-6-6-5",
+        "jockey_name": "浜中俊"
+      },
+      {
+        "rank": 3,
+        "umaban": 4,
+        "horse_name": "スタニングレディ",
+        "time": "2:14.4",
+        "last3f": 34.5,
+        "passing_order": "2-2-3-3",
+        "jockey_name": "三浦皇成"
+      },
+      {
+        "rank": 4,
+        "umaban": 1,
+        "horse_name": "ボンドマティーニ",
+        "time": "2:14.5",
+        "last3f": 34.4,
+        "passing_order": "7-7-5-5",
+        "jockey_name": "北村友一"
+      },
+      {
+        "rank": 5,
+        "umaban": 6,
+        "horse_name": "レッドリガーレ",
+        "time": "2:14.6",
+        "last3f": 35.0,
+        "passing_order": "2-2-2-2",
+        "jockey_name": "団野大成"
+      },
+      {
+        "rank": 6,
+        "umaban": 5,
+        "horse_name": "ダノンハドソン",
+        "time": "2:16.2",
+        "last3f": 36.2,
+        "passing_order": "4-4-3-3",
+        "jockey_name": "松山弘平"
+      },
+      {
+        "rank": 7,
+        "umaban": 2,
+        "horse_name": "メイショウナルカミ",
+        "time": "2:20.2",
+        "last3f": 39.5,
+        "passing_order": "5-5-6-7",
+        "jockey_name": "川田将雅"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "07",
+          "amount": 320,
+          "popularity": 4
+        },
+        {
+          "combination": "03",
+          "amount": 470,
+          "popularity": 5
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "03-04-07",
+          "amount": 18820,
+          "popularity": 32
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "07-03-04",
+          "amount": 116240,
+          "popularity": 173
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "07",
+          "amount": 680,
+          "popularity": 4
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "03-07",
+          "amount": 3850,
+          "popularity": 13
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "07-03",
+          "amount": 7570,
+          "popularity": 26
+        }
+      ],
+      "wide": [
+        {
+          "combination": "03-07",
+          "amount": 1300,
+          "popularity": 14
+        },
+        {
+          "combination": "04-07",
+          "amount": 3150,
+          "popularity": 20
+        },
+        {
+          "combination": "03-04",
+          "amount": 3430,
+          "popularity": 21
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-04-05",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 64.2,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-05-06",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 19.1,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "01-06",
+        "stake": 600,
+        "payout": 0,
+        "profit": -600,
+        "is_hit": false,
+        "odds": 22.8,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
