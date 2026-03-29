@@ -1,6 +1,6 @@
 {
   "target_date": "2026-03-29",
-  "generated_at": "2026-03-29T15:36+09:00",
+  "generated_at": "2026-03-29T15:51+09:00",
   "races": [
     {
       "race_id": "202603290901",
@@ -502,11 +502,11 @@
       "keibajo_name": "阪神",
       "race_number": 12,
       "race_name": "2勝クラス",
-      "post_time": "16:00",
+      "post_time": "16:01",
       "course": "ダート1200",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
