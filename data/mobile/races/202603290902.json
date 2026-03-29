@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603290902",
     "target_date": "2026-03-29",
-    "generated_at": "2026-03-29T10:06+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-29T10:12+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -348,6 +348,25 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "06-08",
+        "stake": 600,
+        "odds": 23.3,
+        "llm_reason": "Stage B採用 (axis=6, ev=1.624, prob=0.070, odds=23.3, source=latest)"
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "06>03",
+        "stake": 100,
+        "odds": 9.7,
+        "llm_reason": "Stage B採用 (axis=6, ev=1.082, prob=0.112, odds=9.7, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 2 件を採用。主軸は 6 番で、中心は umaren 06-08(600円, ev=1.624) / umatan 06>03(100円, ev=1.082)。"
+  },
   "result": null
 }
