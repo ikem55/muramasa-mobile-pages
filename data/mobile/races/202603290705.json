@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603290705",
     "target_date": "2026-03-29",
-    "generated_at": "2026-03-29T12:17+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-29T12:22+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,39 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-07-12",
+        "stake": 100,
+        "odds": 22.6,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.607, prob=0.071, odds=22.6, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "07-12",
+        "stake": 200,
+        "odds": 4.8,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.236, prob=0.258, odds=4.8, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "07-15",
+        "stake": 100,
+        "odds": 5.9,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.192, prob=0.202, odds=5.9, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-12",
+        "stake": 100,
+        "odds": 10.1,
+        "llm_reason": "Stage B採用 (axis=12, ev=1.401, prob=0.139, odds=10.1, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 4 件を採用。主軸は 7 番で、中心は wide 07-12(200円, ev=1.236) / sanrenpuku 01-07-12(100円, ev=1.607) / wide 01-12(100円, ev=1.401)。"
+  },
   "result": null
 }
