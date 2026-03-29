@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202603290707",
     "target_date": "2026-03-29",
-    "generated_at": "2026-03-29T13:16+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-03-29T13:21+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -484,6 +484,18 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "01-03",
+        "stake": 900,
+        "odds": 39.7,
+        "llm_reason": "近接ROI救済候補 (axis=3, ev=1.028, target=1.050)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 1 件を採用。主軸は 3 番で、中心は umaren 01-03(900円, ev=1.028)。"
+  },
   "result": null
 }
