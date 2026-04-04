@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604040905",
     "target_date": "2026-04-04",
-    "generated_at": "2026-04-04T12:01+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-04T12:06+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -654,6 +654,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "08-16",
+        "stake": 200,
+        "odds": 14.5,
+        "llm_reason": "Stage B採用 (axis=16, ev=1.277, prob=0.088, odds=14.5, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "08-16",
+        "stake": 300,
+        "odds": 5.2,
+        "llm_reason": "Stage B採用 (axis=16, ev=1.212, prob=0.233, odds=5.2, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "06-18",
+        "stake": 100,
+        "odds": 59.6,
+        "llm_reason": "Stage B採用 (axis=18, ev=1.067, prob=0.018, odds=59.6, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 3 件を採用。主軸は 16 番で、中心は wide 08-16(300円, ev=1.212) / umaren 08-16(200円, ev=1.277) / umaren 06-18(100円, ev=1.067)。"
+  },
   "result": null
 }
