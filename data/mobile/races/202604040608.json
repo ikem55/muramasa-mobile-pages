@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604040608",
     "target_date": "2026-04-04",
-    "generated_at": "2026-04-04T13:48+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-04T13:52+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -416,6 +416,46 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "03-07-08",
+        "stake": 100,
+        "odds": 54.4,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.436, prob=0.026, odds=54.4, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "07-09",
+        "stake": 100,
+        "odds": 24.6,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.321, prob=0.054, odds=24.6, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "06-09",
+        "stake": 300,
+        "odds": 13.7,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.529, prob=0.112, odds=13.7, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "07-09",
+        "stake": 300,
+        "odds": 8.0,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.306, prob=0.163, odds=8.0, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "03-09",
+        "stake": 100,
+        "odds": 13.5,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.241, prob=0.092, odds=13.5, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 5 件を採用。主軸は 9 番で、中心は wide 06-09(300円, ev=1.529) / wide 07-09(300円, ev=1.306) / sanrenpuku 03-07-08(100円, ev=1.436)。"
+  },
   "result": null
 }
