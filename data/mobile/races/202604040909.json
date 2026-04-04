@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604040909",
     "target_date": "2026-04-04",
-    "generated_at": "2026-04-04T14:06+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-04T14:12+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -348,6 +348,39 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-03-08",
+        "stake": 100,
+        "odds": 49.0,
+        "llm_reason": "Stage B採用 (axis=2, ev=2.146, prob=0.044, odds=49.0, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-08",
+        "stake": 300,
+        "odds": 4.6,
+        "llm_reason": "Stage B採用 (axis=2, ev=1.380, prob=0.300, odds=4.6, source=latest)"
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "08",
+        "stake": 200,
+        "odds": 19.1,
+        "llm_reason": "Stage B採用 (axis=8, ev=1.815, prob=0.095, odds=19.1, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "02-08",
+        "stake": 200,
+        "odds": 14.2,
+        "llm_reason": "Stage B採用 (axis=8, ev=1.593, prob=0.112, odds=14.2, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 4 件を採用。主軸は 8 番で、中心は wide 02-08(300円, ev=1.380) / tansho 08(200円, ev=1.815) / umaren 02-08(200円, ev=1.593)。"
+  },
   "result": null
 }
