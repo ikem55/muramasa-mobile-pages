@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604050911",
     "target_date": "2026-04-05",
-    "generated_at": "2026-04-05T15:31+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-05T15:36+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -552,6 +552,25 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "04-06-15",
+        "stake": 200,
+        "odds": 11.2,
+        "llm_reason": "Stage B採用 (axis=15, ev=1.230, prob=0.110, odds=11.2, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "06-15",
+        "stake": 500,
+        "odds": 3.8,
+        "llm_reason": "Stage B採用 (axis=15, ev=1.167, prob=0.307, odds=3.8, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 2 件を採用。主軸は 15 番で、中心は wide 06-15(500円, ev=1.167) / sanrenpuku 04-06-15(200円, ev=1.230)。"
+  },
   "result": null
 }
