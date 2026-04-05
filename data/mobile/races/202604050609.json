@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604050609",
     "target_date": "2026-04-05",
-    "generated_at": "2026-04-05T14:06+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-05T14:12+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -314,6 +314,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "07-08",
+        "stake": 200,
+        "odds": 32.7,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.321, prob=0.040, odds=32.7, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "05-07",
+        "stake": 200,
+        "odds": 27.0,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.207, prob=0.045, odds=27.0, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "03-07",
+        "stake": 100,
+        "odds": 13.2,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.098, prob=0.083, odds=13.2, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 3 件を採用。主軸は 7 番で、中心は umaren 07-08(200円, ev=1.321) / umaren 05-07(200円, ev=1.207) / umaren 03-07(100円, ev=1.098)。"
+  },
   "result": null
 }
