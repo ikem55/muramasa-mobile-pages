@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604110901",
     "target_date": "2026-04-11",
-    "generated_at": "2026-04-11T09:49+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-11T09:52+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "02-10",
+        "stake": 100,
+        "odds": 31.9,
+        "llm_reason": "Stage B採用 (axis=2, ev=1.180, prob=0.037, odds=31.9, source=latest)"
+      },
+      {
+        "ticket_type": "fukusho",
+        "combination": "10",
+        "stake": 1000,
+        "odds": 4.5,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.143, prob=0.254, odds=4.5, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "04-10",
+        "stake": 100,
+        "odds": 30.5,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.089, prob=0.036, odds=30.5, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 3 件を採用。主軸は 10 番で、中心は fukusho 10(1000円, ev=1.143) / umaren 02-10(100円, ev=1.180) / wide 04-10(100円, ev=1.089)。"
+  },
   "result": null
 }
