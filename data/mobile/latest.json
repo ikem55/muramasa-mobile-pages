@@ -1,6 +1,6 @@
 {
   "target_date": "2026-04-11",
-  "generated_at": "2026-04-11T11:22+09:00",
+  "generated_at": "2026-04-11T11:28+09:00",
   "races": [
     {
       "race_id": "202604110901",
@@ -151,6 +151,21 @@
         "has_result": false
       },
       "file": "races/202604110904.json"
+    },
+    {
+      "race_id": "202604110604",
+      "keibajo_name": "中山",
+      "race_number": 4,
+      "race_name": "オープン",
+      "post_time": "11:35",
+      "course": "障害3200",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": true,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202604110604.json"
     }
   ]
 }
