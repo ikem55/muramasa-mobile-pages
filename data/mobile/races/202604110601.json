@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604110601",
     "target_date": "2026-04-11",
-    "generated_at": "2026-04-11T09:58+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-11T10:02+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,25 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "fukusho",
+        "combination": "09",
+        "stake": 600,
+        "odds": 11.7,
+        "llm_reason": null
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "05",
+        "stake": 600,
+        "odds": 10.5,
+        "llm_reason": null
+      }
+    ],
+    "mode": null,
+    "comment": null
+  },
   "result": null
 }
