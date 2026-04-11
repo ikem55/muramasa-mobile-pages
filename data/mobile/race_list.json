@@ -1,6 +1,6 @@
 {
   "target_date": "2026-04-11",
-  "generated_at": "2026-04-11T10:47+09:00",
+  "generated_at": "2026-04-11T11:07+09:00",
   "races": [
     {
       "race_id": "202604110901",
@@ -106,6 +106,21 @@
         "has_result": false
       },
       "file": "races/202604110903.json"
+    },
+    {
+      "race_id": "202604110603",
+      "keibajo_name": "中山",
+      "race_number": 3,
+      "race_name": "未勝利",
+      "post_time": "11:05",
+      "course": "ダート1800",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": true,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202604110603.json"
     }
   ]
 }
