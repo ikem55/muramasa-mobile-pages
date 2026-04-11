@@ -1,6 +1,6 @@
 {
   "target_date": "2026-04-11",
-  "generated_at": "2026-04-11T10:11+09:00",
+  "generated_at": "2026-04-11T10:17+09:00",
   "races": [
     {
       "race_id": "202604110901",
@@ -46,6 +46,21 @@
         "has_result": false
       },
       "file": "races/202604110302.json"
+    },
+    {
+      "race_id": "202604110902",
+      "keibajo_name": "阪神",
+      "race_number": 2,
+      "race_name": "未勝利",
+      "post_time": "10:25",
+      "course": "ダート1400",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": true,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202604110902.json"
     }
   ]
 }
