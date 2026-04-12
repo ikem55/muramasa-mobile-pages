@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604120311",
     "target_date": "2026-04-12",
-    "generated_at": "2026-04-12T15:07+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-12T15:11+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -552,6 +552,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "02-08",
+        "stake": 400,
+        "odds": 8.7,
+        "llm_reason": "Stage B採用 (axis=2, ev=1.100, prob=0.126, odds=8.7, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "08-12",
+        "stake": 600,
+        "odds": 11.8,
+        "llm_reason": "Stage B採用 (axis=12, ev=1.213, prob=0.103, odds=11.8, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-13",
+        "stake": 700,
+        "odds": 6.6,
+        "llm_reason": "Stage B採用 (axis=13, ev=1.119, prob=0.170, odds=6.6, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 3 件を採用。主軸は 13 番で、中心は wide 02-13(700円, ev=1.119) / wide 08-12(600円, ev=1.213) / wide 02-08(400円, ev=1.100)。"
+  },
   "result": null
 }
