@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604120601",
     "target_date": "2026-04-12",
-    "generated_at": "2026-04-12T09:44+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-12T09:47+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -552,6 +552,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "09-13",
+        "stake": 700,
+        "odds": 24.8,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.319, prob=0.053, odds=24.8, source=latest)"
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "09>13",
+        "stake": 100,
+        "odds": 33.0,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.069, prob=0.032, odds=33.0, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "09-15",
+        "stake": 200,
+        "odds": 11.1,
+        "llm_reason": "近接ROI救済候補 (axis=15, ev=1.059, target=1.060)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 3 件を採用。主軸は 9 番で、中心は umaren 09-13(700円, ev=1.319) / umaren 09-15(200円, ev=1.059) / umatan 09>13(100円, ev=1.069)。"
+  },
   "result": null
 }
