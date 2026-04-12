@@ -1,6 +1,6 @@
 {
   "target_date": "2026-04-12",
-  "generated_at": "2026-04-12T12:46+09:00",
+  "generated_at": "2026-04-12T12:52+09:00",
   "races": [
     {
       "race_id": "202604120301",
@@ -277,11 +277,11 @@
       "keibajo_name": "福島",
       "race_number": 7,
       "race_name": "1勝クラス",
-      "post_time": "13:00",
+      "post_time": "13:01",
       "course": "ダート1700",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
