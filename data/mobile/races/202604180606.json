@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "race_id": "202604180606",
+    "target_date": "2026-04-18",
+    "generated_at": "2026-04-17T22:12+09:00",
+    "stage": "entry",
+    "version": 1
+  },
+  "race": {
+    "race_id": "202604180606",
+    "keibajo_name": "中山",
+    "race_number": 6,
+    "race_name": "1勝クラス",
+    "post_time": "12:55",
+    "course": "芝1800",
+    "track": "芝",
+    "distance": 1800,
+    "condition": "良",
+    "weather": "晴"
+  },
+  "entry": {
+    "horses": [
+      {
+        "umaban": 1,
+        "wakuban": 1,
+        "horse_name": "ノーザンタイタン",
+        "sex_age": "牝3",
+        "jockey_name": "横山武史",
+        "weight_carried": 55.0,
+        "win_flag": 0.2202533644326889,
+        "place_flag": 0.4615022138393625,
+        "show_flag": 0.7656509444330691,
+        "corner4_class": 0.49824078790211457,
+        "position_volatility": null,
+        "dash_index": 0.6502516867427365,
+        "fastest_l3f_flag": 0.30192851723332137
+      },
+      {
+        "umaban": 2,
+        "wakuban": 2,
+        "horse_name": "ルージュボヤージュ",
+        "sex_age": "牝3",
+        "jockey_name": "戸崎圭太",
+        "weight_carried": 55.0,
+        "win_flag": 0.416651644702779,
+        "place_flag": 0.641965556948744,
+        "show_flag": 0.808942713139679,
+        "corner4_class": 0.3612242870293614,
+        "position_volatility": null,
+        "dash_index": 0.7004013755031876,
+        "fastest_l3f_flag": 0.319950997229978
+      },
+      {
+        "umaban": 3,
+        "wakuban": 3,
+        "horse_name": "ターンザテーブルス",
+        "sex_age": "牝3",
+        "jockey_name": "津村明秀",
+        "weight_carried": 55.0,
+        "win_flag": 0.14729473686814737,
+        "place_flag": 0.6165093874427847,
+        "show_flag": 0.7043748627398787,
+        "corner4_class": 0.7031594939155369,
+        "position_volatility": null,
+        "dash_index": 0.4291774100169576,
+        "fastest_l3f_flag": 0.5676090529555505
+      },
+      {
+        "umaban": 4,
+        "wakuban": 4,
+        "horse_name": "トライアンドエラー",
+        "sex_age": "牝3",
+        "jockey_name": "佐藤翔馬",
+        "weight_carried": 52.0,
+        "win_flag": 0.0064032434586725195,
+        "place_flag": 0.03224278885632961,
+        "show_flag": 0.07861866291874389,
+        "corner4_class": 0.716460610958275,
+        "position_volatility": null,
+        "dash_index": 0.5570281761982233,
+        "fastest_l3f_flag": 0.01805788483229737
+      },
+      {
+        "umaban": 5,
+        "wakuban": 5,
+        "horse_name": "タッセルノット",
+        "sex_age": "牝3",
+        "jockey_name": "ルメール",
+        "weight_carried": 55.0,
+        "win_flag": 0.2994307499942926,
+        "place_flag": 0.5772857216043835,
+        "show_flag": 0.7871729171362063,
+        "corner4_class": 0.480016874509002,
+        "position_volatility": null,
+        "dash_index": 0.5817319705280032,
+        "fastest_l3f_flag": 0.4264983433942789
+      },
+      {
+        "umaban": 6,
+        "wakuban": 6,
+        "horse_name": "ティルベリー",
+        "sex_age": "牝3",
+        "jockey_name": "原優介",
+        "weight_carried": 55.0,
+        "win_flag": 0.20148951014431565,
+        "place_flag": 0.600573535722816,
+        "show_flag": 0.746862734542705,
+        "corner4_class": 0.6168223650658569,
+        "position_volatility": null,
+        "dash_index": 0.533663998813919,
+        "fastest_l3f_flag": 0.03159615558348271
+      }
+    ],
+    "race_metrics": {
+      "chaos_entropy": 0.7493793511087539,
+      "fav_top3_lock": null,
+      "pace_bias_index": 0.0901793948163927,
+      "upset_probability": 0.4561112514854019,
+      "winner_time_residual": null
+    }
+  },
+  "chokuzen": null,
+  "final": null,
+  "result": null
+}
