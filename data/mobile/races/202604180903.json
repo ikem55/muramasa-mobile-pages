@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604180903",
     "target_date": "2026-04-18",
-    "generated_at": "2026-04-18T10:46+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-18T10:51+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -552,6 +552,39 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "06-07",
+        "stake": 100,
+        "odds": 30.9,
+        "llm_reason": "Stage B採用 (axis=6, ev=1.131, prob=0.037, odds=30.9, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "13-14",
+        "stake": 200,
+        "odds": 11.0,
+        "llm_reason": "Stage B採用 (axis=14, ev=1.247, prob=0.113, odds=11.0, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "06-14",
+        "stake": 200,
+        "odds": 4.8,
+        "llm_reason": "Stage B採用 (axis=14, ev=1.164, prob=0.242, odds=4.8, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "10-13",
+        "stake": 100,
+        "odds": 15.4,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.104, prob=0.072, odds=15.4, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 4 件を採用。主軸は 14 番で、中心は wide 13-14(200円, ev=1.247) / wide 06-14(200円, ev=1.164) / umaren 06-07(100円, ev=1.131)。"
+  },
   "result": null
 }
