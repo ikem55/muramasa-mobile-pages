@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604180612",
     "target_date": "2026-04-18",
-    "generated_at": "2026-04-18T16:22+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-18T16:26+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -484,6 +484,18 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "tansho",
+        "combination": "10",
+        "stake": 800,
+        "odds": 18.5,
+        "llm_reason": "近接ROI救済候補 (axis=10, ev=1.064, target=1.070)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 1 件を採用。主軸は 10 番で、中心は tansho 10(800円, ev=1.064)。"
+  },
   "result": null
 }
