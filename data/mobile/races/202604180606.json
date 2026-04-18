@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604180606",
     "target_date": "2026-04-18",
-    "generated_at": "2026-04-18T12:52+09:00",
-    "stage": "final",
+    "generated_at": "2026-04-18T13:10+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -273,5 +273,161 @@
     "mode": "llm",
     "comment": "TRICKY / balanced で 3 件を採用。主軸は 5 番で、中心は umaren 01-05(400円, ev=1.164) / umatan 01>02(200円, ev=1.264) / umaren 05-06(100円, ev=1.038)。"
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 2,
+        "horse_name": "ルージュボヤージュ",
+        "time": "1:49.4",
+        "last3f": 33.1,
+        "passing_order": "1-1-1-1",
+        "jockey_name": "戸崎圭太"
+      },
+      {
+        "rank": 2,
+        "umaban": 3,
+        "horse_name": "ターンザテーブルス",
+        "time": "1:49.4",
+        "last3f": 32.8,
+        "passing_order": "2-3-3-3",
+        "jockey_name": "津村明秀"
+      },
+      {
+        "rank": 3,
+        "umaban": 5,
+        "horse_name": "タッセルノット",
+        "time": "1:49.9",
+        "last3f": 33.2,
+        "passing_order": "4-3-4-4",
+        "jockey_name": "ルメール"
+      },
+      {
+        "rank": 4,
+        "umaban": 6,
+        "horse_name": "ティルベリー",
+        "time": "1:49.9",
+        "last3f": 33.4,
+        "passing_order": "2-2-2-2",
+        "jockey_name": "原優介"
+      },
+      {
+        "rank": 5,
+        "umaban": 1,
+        "horse_name": "ノーザンタイタン",
+        "time": "1:50.0",
+        "last3f": 33.1,
+        "passing_order": "5-5-5-5",
+        "jockey_name": "横山武史"
+      },
+      {
+        "rank": 6,
+        "umaban": 4,
+        "horse_name": "トライアンドエラー",
+        "time": "1:50.2",
+        "last3f": 33.2,
+        "passing_order": "6-6-5-5",
+        "jockey_name": "佐藤翔馬"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "02",
+          "amount": 190,
+          "popularity": 2
+        },
+        {
+          "combination": "03",
+          "amount": 280,
+          "popularity": 4
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "02-03-05",
+          "amount": 340,
+          "popularity": 2
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "02-03-05",
+          "amount": 1860,
+          "popularity": 7
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "02",
+          "amount": 240,
+          "popularity": 2
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "02-03",
+          "amount": 580,
+          "popularity": 3
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "02-03",
+          "amount": 880,
+          "popularity": 5
+        }
+      ],
+      "wide": [
+        {
+          "combination": "02-05",
+          "amount": 120,
+          "popularity": 1
+        },
+        {
+          "combination": "03-05",
+          "amount": 180,
+          "popularity": 3
+        },
+        {
+          "combination": "02-03",
+          "amount": 190,
+          "popularity": 4
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrentan",
+        "combination": "01-05-02",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 30.7,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "01-02",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 24.5,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umatan",
+        "combination": "01-05",
+        "stake": 400,
+        "payout": 0,
+        "profit": -400,
+        "is_hit": false,
+        "odds": 15.0,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }

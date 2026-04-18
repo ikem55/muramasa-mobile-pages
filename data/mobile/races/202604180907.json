@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604180907",
     "target_date": "2026-04-18",
-    "generated_at": "2026-04-18T13:06+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-18T13:12+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -518,6 +518,39 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "11-13",
+        "stake": 300,
+        "odds": 20.0,
+        "llm_reason": "Stage B採用 (axis=11, ev=1.850, prob=0.092, odds=20.0, source=latest)"
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-11-13",
+        "stake": 200,
+        "odds": 11.8,
+        "llm_reason": "Stage B採用 (axis=11, ev=1.398, prob=0.118, odds=11.8, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-11",
+        "stake": 200,
+        "odds": 3.0,
+        "llm_reason": "Stage B採用 (axis=11, ev=1.127, prob=0.376, odds=3.0, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "11-13",
+        "stake": 300,
+        "odds": 5.0,
+        "llm_reason": "Stage B採用 (axis=13, ev=1.292, prob=0.259, odds=5.0, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 4 件を採用。主軸は 11 番で、中心は umaren 11-13(300円, ev=1.850) / wide 11-13(300円, ev=1.292) / sanrenpuku 02-11-13(200円, ev=1.398)。"
+  },
   "result": null
 }
