@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604180610",
     "target_date": "2026-04-18",
-    "generated_at": "2026-04-18T14:52+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-18T14:56+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -484,6 +484,39 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "05-10",
+        "stake": 100,
+        "odds": 11.1,
+        "llm_reason": "Stage B採用 (axis=5, ev=1.121, prob=0.101, odds=11.1, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "04-05",
+        "stake": 100,
+        "odds": 6.1,
+        "llm_reason": "Stage B採用 (axis=5, ev=1.103, prob=0.181, odds=6.1, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "04-10",
+        "stake": 200,
+        "odds": 10.3,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.323, prob=0.128, odds=10.3, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "05-10",
+        "stake": 300,
+        "odds": 4.5,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.155, prob=0.257, odds=4.5, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 4 件を採用。主軸は 5 番で、中心は wide 05-10(300円, ev=1.155) / wide 04-10(200円, ev=1.323) / umaren 05-10(100円, ev=1.121)。"
+  },
   "result": null
 }
