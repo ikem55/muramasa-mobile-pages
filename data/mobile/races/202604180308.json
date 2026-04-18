@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604180308",
     "target_date": "2026-04-18",
-    "generated_at": "2026-04-18T13:27+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-18T13:32+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -552,6 +552,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "06-08",
+        "stake": 600,
+        "odds": 12.4,
+        "llm_reason": "Stage B採用 (axis=8, ev=1.422, prob=0.115, odds=12.4, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "06-11",
+        "stake": 200,
+        "odds": 18.9,
+        "llm_reason": "Stage B採用 (axis=11, ev=1.314, prob=0.070, odds=18.9, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "11-14",
+        "stake": 100,
+        "odds": 19.1,
+        "llm_reason": "Stage B採用 (axis=11, ev=1.108, prob=0.058, odds=19.1, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 3 件を採用。主軸は 11 番で、中心は wide 06-08(600円, ev=1.422) / wide 06-11(200円, ev=1.314) / wide 11-14(100円, ev=1.108)。"
+  },
   "result": null
 }
