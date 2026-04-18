@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604180905",
     "target_date": "2026-04-18",
-    "generated_at": "2026-04-18T12:12+09:00",
-    "stage": "final",
+    "generated_at": "2026-04-18T12:30+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -266,5 +266,142 @@
     "mode": "llm",
     "comment": "TRICKY / balanced で 2 件を採用。主軸は 3 番で、中心は sanrenpuku 01-03-04(500円, ev=1.181) / umaren 03-04(100円, ev=1.037)。"
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 3,
+        "horse_name": "イベントホライゾン",
+        "time": "2:00.0",
+        "last3f": 34.2,
+        "passing_order": "3-3-3-3",
+        "jockey_name": "松山弘平"
+      },
+      {
+        "rank": 2,
+        "umaban": 4,
+        "horse_name": "サトノアイボリー",
+        "time": "2:00.1",
+        "last3f": 34.6,
+        "passing_order": "2-2-2-2",
+        "jockey_name": "団野大成"
+      },
+      {
+        "rank": 3,
+        "umaban": 6,
+        "horse_name": "エチゴドラゴン",
+        "time": "2:00.2",
+        "last3f": 34.8,
+        "passing_order": "1-1-1-1",
+        "jockey_name": "幸英明"
+      },
+      {
+        "rank": 4,
+        "umaban": 1,
+        "horse_name": "メイショウテンク",
+        "time": "2:00.5",
+        "last3f": 34.4,
+        "passing_order": "4-4-4-4",
+        "jockey_name": "高杉吏麒"
+      },
+      {
+        "rank": 5,
+        "umaban": 2,
+        "horse_name": "セイカンサンラン",
+        "time": "2:02.3",
+        "last3f": 36.0,
+        "passing_order": "5-5-5-5",
+        "jockey_name": "古川吉洋"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "03",
+          "amount": 110,
+          "popularity": 1
+        },
+        {
+          "combination": "04",
+          "amount": 220,
+          "popularity": 4
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "03-04-06",
+          "amount": 300,
+          "popularity": 2
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "03-04-06",
+          "amount": 1350,
+          "popularity": 6
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "03",
+          "amount": 190,
+          "popularity": 1
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "03-04",
+          "amount": 520,
+          "popularity": 3
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "03-04",
+          "amount": 820,
+          "popularity": 4
+        }
+      ],
+      "wide": [
+        {
+          "combination": "03-06",
+          "amount": 110,
+          "popularity": 1
+        },
+        {
+          "combination": "03-04",
+          "amount": 140,
+          "popularity": 3
+        },
+        {
+          "combination": "04-06",
+          "amount": 180,
+          "popularity": 5
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "fukusho",
+        "combination": "01",
+        "stake": 500,
+        "payout": 0,
+        "profit": -500,
+        "is_hit": false,
+        "odds": 1.7,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-03-04",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 5.8,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
