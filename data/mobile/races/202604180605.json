@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604180605",
     "target_date": "2026-04-18",
-    "generated_at": "2026-04-18T12:18+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-18T12:22+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "05-08-11",
+        "stake": 100,
+        "odds": 13.2,
+        "llm_reason": "Stage B採用 (axis=8, ev=1.089, prob=0.083, odds=13.2, source=latest)"
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "11",
+        "stake": 300,
+        "odds": 7.6,
+        "llm_reason": "Stage B採用 (axis=11, ev=1.245, prob=0.164, odds=7.6, source=latest)"
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "05",
+        "stake": 200,
+        "odds": 22.0,
+        "llm_reason": "Stage B採用 (axis=5, ev=1.555, prob=0.071, odds=22.0, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 3 件を採用。主軸は 11 番で、中心は tansho 11(300円, ev=1.245) / tansho 05(200円, ev=1.555) / sanrenpuku 05-08-11(100円, ev=1.089)。"
+  },
   "result": null
 }
