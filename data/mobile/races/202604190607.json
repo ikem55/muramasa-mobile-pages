@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604190607",
     "target_date": "2026-04-19",
-    "generated_at": "2026-04-19T13:17+09:00",
-    "stage": "final",
+    "generated_at": "2026-04-19T13:36+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -504,5 +504,226 @@
     "mode": "llm",
     "comment": "TRICKY / balanced で 2 件を採用。主軸は 3 番で、中心は wide 02-13(300円, ev=1.120) / wide 03-13(100円, ev=1.075)。"
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 13,
+        "horse_name": "サヨノジャンボリー",
+        "time": "1:10.7",
+        "last3f": 36.7,
+        "passing_order": "2-2",
+        "jockey_name": "高杉吏麒"
+      },
+      {
+        "rank": 2,
+        "umaban": 4,
+        "horse_name": "チェルシー",
+        "time": "1:11.2",
+        "last3f": 37.6,
+        "passing_order": "1-1",
+        "jockey_name": "原優介"
+      },
+      {
+        "rank": 3,
+        "umaban": 3,
+        "horse_name": "アースミューズ",
+        "time": "1:11.4",
+        "last3f": 37.1,
+        "passing_order": "3-3",
+        "jockey_name": "松岡正海"
+      },
+      {
+        "rank": 4,
+        "umaban": 9,
+        "horse_name": "カサブランカキッド",
+        "time": "1:11.5",
+        "last3f": 36.6,
+        "passing_order": "11-8",
+        "jockey_name": "岩田康誠"
+      },
+      {
+        "rank": 5,
+        "umaban": 2,
+        "horse_name": "アツキヤマト",
+        "time": "1:11.6",
+        "last3f": 37.0,
+        "passing_order": "7-5",
+        "jockey_name": "小林凌大"
+      },
+      {
+        "rank": 6,
+        "umaban": 12,
+        "horse_name": "トウタツ",
+        "time": "1:11.6",
+        "last3f": 37.3,
+        "passing_order": "3-4",
+        "jockey_name": "佐々木大"
+      },
+      {
+        "rank": 7,
+        "umaban": 11,
+        "horse_name": "プルシャプラ",
+        "time": "1:11.8",
+        "last3f": 37.3,
+        "passing_order": "5-5",
+        "jockey_name": "三浦皇成"
+      },
+      {
+        "rank": 8,
+        "umaban": 6,
+        "horse_name": "エフエイト",
+        "time": "1:11.8",
+        "last3f": 37.0,
+        "passing_order": "9-8",
+        "jockey_name": "横山武史"
+      },
+      {
+        "rank": 9,
+        "umaban": 10,
+        "horse_name": "ブリッツアロング",
+        "time": "1:11.8",
+        "last3f": 37.1,
+        "passing_order": "7-8",
+        "jockey_name": "木幡巧也"
+      },
+      {
+        "rank": 10,
+        "umaban": 7,
+        "horse_name": "リッキースタイル",
+        "time": "1:12.0",
+        "last3f": 37.2,
+        "passing_order": "9-8",
+        "jockey_name": "荻野極"
+      },
+      {
+        "rank": 11,
+        "umaban": 1,
+        "horse_name": "サイモンプレジール",
+        "time": "1:12.1",
+        "last3f": 36.6,
+        "passing_order": "13-13",
+        "jockey_name": "丸田恭介"
+      },
+      {
+        "rank": 12,
+        "umaban": 5,
+        "horse_name": "リッチハンター",
+        "time": "1:12.1",
+        "last3f": 37.6,
+        "passing_order": "5-5",
+        "jockey_name": "木幡初也"
+      },
+      {
+        "rank": 13,
+        "umaban": 8,
+        "horse_name": "スマートフランキー",
+        "time": "1:12.1",
+        "last3f": 36.7,
+        "passing_order": "12-12",
+        "jockey_name": "吉田豊"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "13",
+          "amount": 350,
+          "popularity": 4
+        },
+        {
+          "combination": "03",
+          "amount": 370,
+          "popularity": 6
+        },
+        {
+          "combination": "04",
+          "amount": 570,
+          "popularity": 8
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "03-04-13",
+          "amount": 36740,
+          "popularity": 85
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "13-04-03",
+          "amount": 262430,
+          "popularity": 511
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "13",
+          "amount": 1190,
+          "popularity": 4
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "04-13",
+          "amount": 12440,
+          "popularity": 31
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "13-04",
+          "amount": 25040,
+          "popularity": 59
+        }
+      ],
+      "wakuren": [
+        {
+          "combination": "4-8",
+          "amount": 4010,
+          "popularity": 13
+        }
+      ],
+      "wide": [
+        {
+          "combination": "03-13",
+          "amount": 1830,
+          "popularity": 20
+        },
+        {
+          "combination": "03-04",
+          "amount": 2830,
+          "popularity": 29
+        },
+        {
+          "combination": "04-13",
+          "amount": 3040,
+          "popularity": 30
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-07-11",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 50.3,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-13",
+        "stake": 300,
+        "payout": 0,
+        "profit": -300,
+        "is_hit": false,
+        "odds": 8.0,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
