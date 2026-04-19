@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604190912",
     "target_date": "2026-04-19",
-    "generated_at": "2026-04-19T16:01+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-19T16:07+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -382,6 +382,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "01-03",
+        "stake": 100,
+        "odds": 25.7,
+        "llm_reason": "Stage B採用 (axis=3, ev=1.519, prob=0.059, odds=25.7, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-03",
+        "stake": 200,
+        "odds": 6.4,
+        "llm_reason": "Stage B採用 (axis=1, ev=1.181, prob=0.184, odds=6.4, source=latest)"
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "01",
+        "stake": 100,
+        "odds": 9.8,
+        "llm_reason": "Stage B採用 (axis=1, ev=1.122, prob=0.115, odds=9.8, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 3 件を採用。主軸は 1 番で、中心は wide 01-03(200円, ev=1.181) / umaren 01-03(100円, ev=1.519) / tansho 01(100円, ev=1.122)。"
+  },
   "result": null
 }
