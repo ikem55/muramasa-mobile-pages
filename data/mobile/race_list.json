@@ -1,6 +1,6 @@
 {
   "target_date": "2026-04-19",
-  "generated_at": "2026-04-19T14:56+09:00",
+  "generated_at": "2026-04-19T15:06+09:00",
   "races": [
     {
       "race_id": "202604190301",
@@ -433,7 +433,7 @@
         "has_entry": true,
         "has_chokuzen": true,
         "has_final": true,
-        "has_result": false
+        "has_result": true
       },
       "file": "races/202604190910.json"
     },
@@ -461,7 +461,7 @@
       "course": "芝1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
