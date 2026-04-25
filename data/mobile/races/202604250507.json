@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604250507",
     "target_date": "2026-04-25",
-    "generated_at": "2026-04-25T13:20+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-25T13:21+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,25 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "06-07",
+        "stake": 700,
+        "odds": 6.6,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.139, prob=0.173, odds=6.6, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "06-16",
+        "stake": 300,
+        "odds": 7.4,
+        "llm_reason": "Stage B採用 (axis=16, ev=1.063, prob=0.144, odds=7.4, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 2 件を採用。主軸は 7 番で、中心は wide 06-07(700円, ev=1.139) / wide 06-16(300円, ev=1.063)。"
+  },
   "result": null
 }
