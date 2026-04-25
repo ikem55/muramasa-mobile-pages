@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604250508",
     "target_date": "2026-04-25",
-    "generated_at": "2026-04-25T13:47+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-25T13:52+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -314,6 +314,18 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-07-08",
+        "stake": 800,
+        "odds": 7.2,
+        "llm_reason": "近接ROI救済候補 (axis=1, ev=1.068, target=1.080)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 1 件を採用。主軸は 1 番で、中心は sanrenpuku 01-07-08(800円, ev=1.068)。"
+  },
   "result": null
 }
