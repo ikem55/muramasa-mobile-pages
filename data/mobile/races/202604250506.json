@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604250506",
     "target_date": "2026-04-25",
-    "generated_at": "2026-04-25T12:49+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-25T12:51+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,18 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umatan",
+        "combination": "05-10",
+        "stake": 600,
+        "odds": 40.6,
+        "llm_reason": null
+      }
+    ],
+    "mode": null,
+    "comment": null
+  },
   "result": null
 }
