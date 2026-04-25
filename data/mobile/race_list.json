@@ -1,6 +1,6 @@
 {
   "target_date": "2026-04-25",
-  "generated_at": "2026-04-25T15:42+09:00",
+  "generated_at": "2026-04-25T15:53+09:00",
   "races": [
     {
       "race_id": "202604250301",
@@ -478,7 +478,7 @@
         "has_entry": true,
         "has_chokuzen": true,
         "has_final": true,
-        "has_result": false
+        "has_result": true
       },
       "file": "races/202604250811.json"
     },
@@ -502,11 +502,11 @@
       "keibajo_name": "福島",
       "race_number": 12,
       "race_name": "1勝クラス",
-      "post_time": "16:00",
+      "post_time": "16:01",
       "course": "芝1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
