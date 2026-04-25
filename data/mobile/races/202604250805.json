@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604250805",
     "target_date": "2026-04-25",
-    "generated_at": "2026-04-25T12:07+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-25T12:12+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -450,6 +450,25 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "01-11",
+        "stake": 600,
+        "odds": 9.3,
+        "llm_reason": "Stage B採用 (axis=1, ev=1.144, prob=0.123, odds=9.3, source=latest)"
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-02-09",
+        "stake": 100,
+        "odds": 12.9,
+        "llm_reason": "近接ROI救済候補 (axis=1, ev=1.049, target=1.080)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 2 件を採用。主軸は 1 番で、中心は wide 01-11(600円, ev=1.144) / sanrenpuku 01-02-09(100円, ev=1.049)。"
+  },
   "result": null
 }
