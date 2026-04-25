@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604250810",
     "target_date": "2026-04-25",
-    "generated_at": "2026-04-25T14:42+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-25T14:47+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -416,6 +416,25 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "02-10",
+        "stake": 700,
+        "odds": 9.0,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.083, prob=0.120, odds=9.0, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "03-10",
+        "stake": 200,
+        "odds": 12.2,
+        "llm_reason": "近接ROI救済候補 (axis=10, ev=1.039, target=1.050)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 2 件を採用。主軸は 10 番で、中心は wide 02-10(700円, ev=1.083) / umaren 03-10(200円, ev=1.039)。"
+  },
   "result": null
 }
