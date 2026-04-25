@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604250303",
     "target_date": "2026-04-25",
-    "generated_at": "2026-04-25T10:37+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-25T10:42+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "tansho",
+        "combination": "15",
+        "stake": 300,
+        "odds": 3.6,
+        "llm_reason": "Stage B採用 (axis=15, ev=1.176, prob=0.327, odds=3.6, source=latest)"
+      },
+      {
+        "ticket_type": "fukusho",
+        "combination": "15",
+        "stake": 500,
+        "odds": 1.5,
+        "llm_reason": "Stage B採用 (axis=15, ev=1.135, prob=0.756, odds=1.5, source=latest)"
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "07",
+        "stake": 100,
+        "odds": 7.7,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.177, prob=0.153, odds=7.7, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 3 件を採用。主軸は 15 番で、中心は fukusho 15(500円, ev=1.135) / tansho 15(300円, ev=1.176) / tansho 07(100円, ev=1.177)。"
+  },
   "result": null
 }
