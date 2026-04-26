@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604260503",
     "target_date": "2026-04-26",
-    "generated_at": "2026-04-26T11:00+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-26T11:02+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,25 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "11-16",
+        "stake": 100,
+        "odds": 42.7,
+        "llm_reason": "Stage B採用 (axis=16, ev=1.392, prob=0.033, odds=42.7, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "11-16",
+        "stake": 100,
+        "odds": 12.1,
+        "llm_reason": "Stage B採用 (axis=16, ev=1.085, prob=0.090, odds=12.1, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "STABLE / concentrated で 2 件を採用。主軸は 16 番で、中心は umaren 11-16(100円, ev=1.392) / wide 11-16(100円, ev=1.085)。"
+  },
   "result": null
 }
