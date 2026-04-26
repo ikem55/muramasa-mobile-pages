@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604260802",
     "target_date": "2026-04-26",
-    "generated_at": "2026-04-26T10:17+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-26T10:22+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -552,6 +552,18 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "07-12-14",
+        "stake": 100,
+        "odds": 14.5,
+        "llm_reason": "Stage B採用 (axis=12, ev=1.166, prob=0.080, odds=14.5, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "STABLE / concentrated で 1 件を採用。主軸は 12 番で、中心は sanrenpuku 07-12-14(100円, ev=1.166)。"
+  },
   "result": null
 }
