@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604260804",
     "target_date": "2026-04-26",
-    "generated_at": "2026-04-26T11:17+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-26T11:25+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -518,6 +518,25 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umatan",
+        "combination": "04>03",
+        "stake": 100,
+        "odds": 15.8,
+        "llm_reason": "Stage B採用 (axis=4, ev=1.106, prob=0.070, odds=15.8, source=latest)"
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "04",
+        "stake": 100,
+        "odds": 4.2,
+        "llm_reason": "Stage B採用 (axis=4, ev=1.080, prob=0.257, odds=4.2, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 2 件を採用。主軸は 4 番で、中心は umatan 04>03(100円, ev=1.106) / tansho 04(100円, ev=1.080)。"
+  },
   "result": null
 }
