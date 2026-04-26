@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604260801",
     "target_date": "2026-04-26",
-    "generated_at": "2026-04-26T09:47+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-26T09:51+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,18 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "06-13",
+        "stake": 300,
+        "odds": 15.3,
+        "llm_reason": "Stage B採用 (axis=13, ev=1.248, prob=0.082, odds=15.3, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 1 件を採用。主軸は 13 番で、中心は umaren 06-13(300円, ev=1.248)。"
+  },
   "result": null
 }
