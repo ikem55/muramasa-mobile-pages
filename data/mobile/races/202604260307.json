@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604260307",
     "target_date": "2026-04-26",
-    "generated_at": "2026-04-26T13:00+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-26T13:02+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -552,6 +552,18 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "03-11",
+        "stake": 100,
+        "odds": 5.4,
+        "llm_reason": "Stage B採用 (axis=11, ev=1.292, prob=0.239, odds=5.4, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "STABLE / concentrated で 1 件を採用。主軸は 11 番で、中心は wide 03-11(100円, ev=1.292)。"
+  },
   "result": null
 }

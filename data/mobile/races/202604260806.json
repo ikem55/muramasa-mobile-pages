@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604260806",
     "target_date": "2026-04-26",
-    "generated_at": "2026-04-26T12:42+09:00",
-    "stage": "final",
+    "generated_at": "2026-04-26T13:01+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -436,5 +436,187 @@
     "mode": "llm",
     "comment": "TRICKY / balanced で 2 件を採用。主軸は 2 番で、中心は sanrenpuku 02-07-10(100円, ev=1.238) / umaren 02-07(100円, ev=1.055)。"
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 5,
+        "horse_name": "カナタコナタ",
+        "time": "1:24.2",
+        "last3f": 37.6,
+        "passing_order": "1-1",
+        "jockey_name": "高杉吏麒"
+      },
+      {
+        "rank": 2,
+        "umaban": 8,
+        "horse_name": "ムテキシャチョウ",
+        "time": "1:24.5",
+        "last3f": 37.6,
+        "passing_order": "3-2",
+        "jockey_name": "団野大成"
+      },
+      {
+        "rank": 3,
+        "umaban": 7,
+        "horse_name": "タイセイジェイド",
+        "time": "1:24.5",
+        "last3f": 37.4,
+        "passing_order": "4-4",
+        "jockey_name": "戸崎圭太"
+      },
+      {
+        "rank": 4,
+        "umaban": 9,
+        "horse_name": "ワイズギャング",
+        "time": "1:24.6",
+        "last3f": 37.3,
+        "passing_order": "7-6",
+        "jockey_name": "古川吉洋"
+      },
+      {
+        "rank": 5,
+        "umaban": 2,
+        "horse_name": "フェスティヴドレス",
+        "time": "1:24.9",
+        "last3f": 37.3,
+        "passing_order": "11-9",
+        "jockey_name": "岩田望来"
+      },
+      {
+        "rank": 6,
+        "umaban": 10,
+        "horse_name": "ステライヴ",
+        "time": "1:25.2",
+        "last3f": 37.9,
+        "passing_order": "7-6",
+        "jockey_name": "西村淳也"
+      },
+      {
+        "rank": 7,
+        "umaban": 11,
+        "horse_name": "ナムラティアラ",
+        "time": "1:25.5",
+        "last3f": 38.0,
+        "passing_order": "9-9",
+        "jockey_name": "丹内祐次"
+      },
+      {
+        "rank": 8,
+        "umaban": 3,
+        "horse_name": "クリノセーラーマン",
+        "time": "1:25.8",
+        "last3f": 38.4,
+        "passing_order": "9-9",
+        "jockey_name": "田口貫太"
+      },
+      {
+        "rank": 9,
+        "umaban": 4,
+        "horse_name": "ディープスリー",
+        "time": "1:27.2",
+        "last3f": 40.2,
+        "passing_order": "4-4",
+        "jockey_name": "吉村誠之"
+      },
+      {
+        "rank": 10,
+        "umaban": 1,
+        "horse_name": "セイウンバジリスク",
+        "time": "1:27.5",
+        "last3f": 40.4,
+        "passing_order": "4-6",
+        "jockey_name": "秋山稔樹"
+      },
+      {
+        "rank": 11,
+        "umaban": 6,
+        "horse_name": "イダテンシャチョウ",
+        "time": "1:28.0",
+        "last3f": 41.3,
+        "passing_order": "2-2",
+        "jockey_name": "松本大輝"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "07",
+          "amount": 250,
+          "popularity": 4
+        },
+        {
+          "combination": "05",
+          "amount": 260,
+          "popularity": 5
+        },
+        {
+          "combination": "08",
+          "amount": 610,
+          "popularity": 6
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "05-07-08",
+          "amount": 11210,
+          "popularity": 32
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "05-08-07",
+          "amount": 94750,
+          "popularity": 226
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "05",
+          "amount": 790,
+          "popularity": 5
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "05-08",
+          "amount": 9870,
+          "popularity": 20
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "05-08",
+          "amount": 18580,
+          "popularity": 42
+        }
+      ],
+      "wakuren": [
+        {
+          "combination": "5-7",
+          "amount": 2270,
+          "popularity": 9
+        }
+      ],
+      "wide": [
+        {
+          "combination": "05-07",
+          "amount": 920,
+          "popularity": 11
+        },
+        {
+          "combination": "07-08",
+          "amount": 1470,
+          "popularity": 14
+        },
+        {
+          "combination": "05-08",
+          "amount": 2220,
+          "popularity": 18
+        }
+      ]
+    },
+    "vote_results": [],
+    "comment": null
+  }
 }
