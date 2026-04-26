@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604260301",
     "target_date": "2026-04-26",
-    "generated_at": "2026-04-26T09:37+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-26T09:42+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-05-12",
+        "stake": 100,
+        "odds": 12.3,
+        "llm_reason": "Stage B採用 (axis=12, ev=1.266, prob=0.103, odds=12.3, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "01-05",
+        "stake": 100,
+        "odds": 16.1,
+        "llm_reason": "Stage B採用 (axis=1, ev=1.327, prob=0.082, odds=16.1, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-05",
+        "stake": 100,
+        "odds": 4.9,
+        "llm_reason": "Stage B採用 (axis=1, ev=1.128, prob=0.230, odds=4.9, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "STABLE / concentrated で 3 件を採用。主軸は 1 番で、中心は umaren 01-05(100円, ev=1.327) / sanrenpuku 01-05-12(100円, ev=1.266) / wide 01-05(100円, ev=1.128)。"
+  },
   "result": null
 }
