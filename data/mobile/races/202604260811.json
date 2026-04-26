@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604260811",
     "target_date": "2026-04-26",
-    "generated_at": "2026-04-26T15:22+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-26T15:26+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -654,6 +654,18 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "02-09",
+        "stake": 100,
+        "odds": 4.1,
+        "llm_reason": "近接ROI救済候補 (axis=9, ev=1.002, target=1.040)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "UPSET / diversified で 1 件を採用。主軸は 9 番で、中心は wide 02-09(100円, ev=1.002)。"
+  },
   "result": null
 }
