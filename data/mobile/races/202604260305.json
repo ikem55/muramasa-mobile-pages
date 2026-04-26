@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202604260305",
     "target_date": "2026-04-26",
-    "generated_at": "2026-04-26T11:58+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-04-26T12:01+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -552,6 +552,25 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "01-08",
+        "stake": 100,
+        "odds": 7.6,
+        "llm_reason": "Stage B採用 (axis=8, ev=1.381, prob=0.182, odds=7.6, source=latest)"
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "08",
+        "stake": 100,
+        "odds": 4.1,
+        "llm_reason": "Stage B採用 (axis=8, ev=1.153, prob=0.281, odds=4.1, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "UPSET / diversified で 2 件を採用。主軸は 8 番で、中心は umaren 01-08(100円, ev=1.381) / tansho 08(100円, ev=1.153)。"
+  },
   "result": null
 }
