@@ -1,6 +1,6 @@
 {
   "target_date": "2026-05-03",
-  "generated_at": "2026-05-03T15:56+09:00",
+  "generated_at": "2026-05-03T16:07+09:00",
   "races": [
     {
       "race_id": "202605030810",
@@ -76,6 +76,21 @@
         "has_result": false
       },
       "file": "races/202605030412.json"
+    },
+    {
+      "race_id": "202605030512",
+      "keibajo_name": "東京",
+      "race_number": 12,
+      "race_name": "2勝クラス",
+      "post_time": "16:10",
+      "course": "ダート1300",
+      "status": {
+        "has_entry": false,
+        "has_chokuzen": true,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605030512.json"
     }
   ]
 }
