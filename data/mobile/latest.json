@@ -1,6 +1,6 @@
 {
   "target_date": "2026-05-03",
-  "generated_at": "2026-05-03T16:07+09:00",
+  "generated_at": "2026-05-03T16:20+09:00",
   "races": [
     {
       "race_id": "202605030810",
@@ -70,7 +70,7 @@
       "post_time": "16:01",
       "course": "ダート1200",
       "status": {
-        "has_entry": false,
+        "has_entry": true,
         "has_chokuzen": true,
         "has_final": true,
         "has_result": false
@@ -91,6 +91,21 @@
         "has_result": false
       },
       "file": "races/202605030512.json"
+    },
+    {
+      "race_id": "202605030812",
+      "keibajo_name": "京都",
+      "race_number": 12,
+      "race_name": "東大路ステークス",
+      "post_time": "16:35",
+      "course": "ダート1400",
+      "status": {
+        "has_entry": false,
+        "has_chokuzen": true,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605030812.json"
     }
   ]
 }
