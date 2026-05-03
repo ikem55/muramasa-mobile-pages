@@ -1,6 +1,6 @@
 {
   "target_date": "2026-05-03",
-  "generated_at": "2026-05-03T15:22+09:00",
+  "generated_at": "2026-05-03T15:30+09:00",
   "races": [
     {
       "race_id": "202605030810",
@@ -25,7 +25,7 @@
       "post_time": "15:15",
       "course": "ダート1200",
       "status": {
-        "has_entry": false,
+        "has_entry": true,
         "has_chokuzen": true,
         "has_final": true,
         "has_result": false
@@ -46,6 +46,21 @@
         "has_result": false
       },
       "file": "races/202605030511.json"
+    },
+    {
+      "race_id": "202605030811",
+      "keibajo_name": "京都",
+      "race_number": 11,
+      "race_name": "天皇賞（春）",
+      "post_time": "15:40",
+      "course": "芝3200",
+      "status": {
+        "has_entry": false,
+        "has_chokuzen": true,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605030811.json"
     }
   ]
 }
