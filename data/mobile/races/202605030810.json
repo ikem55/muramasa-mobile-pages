@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "race_id": "202605030810",
+    "target_date": "2026-05-03",
+    "generated_at": "2026-05-03T14:59+09:00",
+    "stage": "final",
+    "version": 1
+  },
+  "race": {
+    "race_id": "202605030810",
+    "keibajo_name": "京都",
+    "race_number": 10,
+    "race_name": "朱雀ステークス",
+    "post_time": "15:01",
+    "course": "芝1200",
+    "track": "芝",
+    "distance": 1200,
+    "condition": "良",
+    "weather": "曇"
+  },
+  "entry": null,
+  "chokuzen": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "03-15",
+        "stake": 500,
+        "odds": 23.3,
+        "llm_reason": "近接ROI救済候補 (axis=3, ev=1.037, target=1.040)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "04-15",
+        "stake": 300,
+        "odds": 34.4,
+        "llm_reason": "近接ROI救済候補 (axis=4, ev=1.029, target=1.040)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 2 件を採用。主軸は 3 番で、中心は wide 03-15(500円, ev=1.037) / wide 04-15(300円, ev=1.029)。"
+  },
+  "result": null
+}
