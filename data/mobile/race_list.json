@@ -1,111 +1,546 @@
 {
-  "target_date": "2026-05-03",
-  "generated_at": "2026-05-03T16:25+09:00",
+  "target_date": "2026-05-09",
+  "generated_at": "2026-05-09T00:19+09:00",
   "races": [
     {
-      "race_id": "202605030810",
-      "keibajo_name": "京都",
-      "race_number": 10,
-      "race_name": "朱雀ステークス",
-      "post_time": "15:01",
-      "course": "芝1200",
-      "status": {
-        "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
-        "has_result": false
-      },
-      "file": "races/202605030810.json"
-    },
-    {
-      "race_id": "202605030411",
+      "race_id": "202605090401",
       "keibajo_name": "新潟",
-      "race_number": 11,
-      "race_name": "越後ステークス",
-      "post_time": "15:15",
-      "course": "ダート1200",
+      "race_number": 1,
+      "race_name": "未勝利",
+      "post_time": "09:45",
+      "course": "障害2890",
       "status": {
         "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
-        "has_result": false
-      },
-      "file": "races/202605030411.json"
-    },
-    {
-      "race_id": "202605030511",
-      "keibajo_name": "東京",
-      "race_number": 11,
-      "race_name": "プリンシパルステークス",
-      "post_time": "15:25",
-      "course": "芝2000",
-      "status": {
-        "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
-        "has_result": false
-      },
-      "file": "races/202605030511.json"
-    },
-    {
-      "race_id": "202605030811",
-      "keibajo_name": "京都",
-      "race_number": 11,
-      "race_name": "天皇賞（春）",
-      "post_time": "15:40",
-      "course": "芝3200",
-      "status": {
-        "has_entry": false,
-        "has_chokuzen": true,
-        "has_final": true,
-        "has_result": false
-      },
-      "file": "races/202605030811.json"
-    },
-    {
-      "race_id": "202605030412",
-      "keibajo_name": "新潟",
-      "race_number": 12,
-      "race_name": "1勝クラス",
-      "post_time": "16:01",
-      "course": "ダート1200",
-      "status": {
-        "has_entry": true,
-        "has_chokuzen": true,
-        "has_final": true,
-        "has_result": false
-      },
-      "file": "races/202605030412.json"
-    },
-    {
-      "race_id": "202605030512",
-      "keibajo_name": "東京",
-      "race_number": 12,
-      "race_name": "2勝クラス",
-      "post_time": "16:10",
-      "course": "ダート1300",
-      "status": {
-        "has_entry": false,
-        "has_chokuzen": true,
+        "has_chokuzen": false,
         "has_final": false,
         "has_result": false
       },
-      "file": "races/202605030512.json"
+      "file": "races/202605090401.json"
     },
     {
-      "race_id": "202605030812",
+      "race_id": "202605090801",
       "keibajo_name": "京都",
-      "race_number": 12,
-      "race_name": "東大路ステークス",
-      "post_time": "16:35",
+      "race_number": 1,
+      "race_name": "未勝利",
+      "post_time": "09:55",
       "course": "ダート1400",
       "status": {
-        "has_entry": false,
-        "has_chokuzen": true,
-        "has_final": true,
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
         "has_result": false
       },
-      "file": "races/202605030812.json"
+      "file": "races/202605090801.json"
+    },
+    {
+      "race_id": "202605090501",
+      "keibajo_name": "東京",
+      "race_number": 1,
+      "race_name": "未勝利",
+      "post_time": "10:05",
+      "course": "ダート1300",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090501.json"
+    },
+    {
+      "race_id": "202605090402",
+      "keibajo_name": "新潟",
+      "race_number": 2,
+      "race_name": "未勝利",
+      "post_time": "10:20",
+      "course": "ダート1800",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090402.json"
+    },
+    {
+      "race_id": "202605090802",
+      "keibajo_name": "京都",
+      "race_number": 2,
+      "race_name": "未勝利",
+      "post_time": "10:30",
+      "course": "ダート1800",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090802.json"
+    },
+    {
+      "race_id": "202605090502",
+      "keibajo_name": "東京",
+      "race_number": 2,
+      "race_name": "未勝利",
+      "post_time": "10:40",
+      "course": "ダート2100",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090502.json"
+    },
+    {
+      "race_id": "202605090403",
+      "keibajo_name": "新潟",
+      "race_number": 3,
+      "race_name": "未勝利",
+      "post_time": "10:50",
+      "course": "ダート1200",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090403.json"
+    },
+    {
+      "race_id": "202605090803",
+      "keibajo_name": "京都",
+      "race_number": 3,
+      "race_name": "未勝利",
+      "post_time": "11:00",
+      "course": "芝1400",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090803.json"
+    },
+    {
+      "race_id": "202605090503",
+      "keibajo_name": "東京",
+      "race_number": 3,
+      "race_name": "未勝利",
+      "post_time": "11:10",
+      "course": "ダート1600",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090503.json"
+    },
+    {
+      "race_id": "202605090404",
+      "keibajo_name": "新潟",
+      "race_number": 4,
+      "race_name": "オープン",
+      "post_time": "11:20",
+      "course": "障害2890",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090404.json"
+    },
+    {
+      "race_id": "202605090804",
+      "keibajo_name": "京都",
+      "race_number": 4,
+      "race_name": "未勝利",
+      "post_time": "11:30",
+      "course": "芝2000",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090804.json"
+    },
+    {
+      "race_id": "202605090504",
+      "keibajo_name": "東京",
+      "race_number": 4,
+      "race_name": "未勝利",
+      "post_time": "11:40",
+      "course": "芝2400",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090504.json"
+    },
+    {
+      "race_id": "202605090405",
+      "keibajo_name": "新潟",
+      "race_number": 5,
+      "race_name": "未勝利",
+      "post_time": "12:10",
+      "course": "芝1200",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090405.json"
+    },
+    {
+      "race_id": "202605090805",
+      "keibajo_name": "京都",
+      "race_number": 5,
+      "race_name": "1勝クラス",
+      "post_time": "12:20",
+      "course": "芝1600",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090805.json"
+    },
+    {
+      "race_id": "202605090505",
+      "keibajo_name": "東京",
+      "race_number": 5,
+      "race_name": "未勝利",
+      "post_time": "12:30",
+      "course": "芝1400",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090505.json"
+    },
+    {
+      "race_id": "202605090406",
+      "keibajo_name": "新潟",
+      "race_number": 6,
+      "race_name": "未勝利",
+      "post_time": "12:40",
+      "course": "芝2000",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090406.json"
+    },
+    {
+      "race_id": "202605090806",
+      "keibajo_name": "京都",
+      "race_number": 6,
+      "race_name": "1勝クラス",
+      "post_time": "12:50",
+      "course": "ダート1200",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090806.json"
+    },
+    {
+      "race_id": "202605090506",
+      "keibajo_name": "東京",
+      "race_number": 6,
+      "race_name": "1勝クラス",
+      "post_time": "13:00",
+      "course": "芝1800",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090506.json"
+    },
+    {
+      "race_id": "202605090407",
+      "keibajo_name": "新潟",
+      "race_number": 7,
+      "race_name": "1勝クラス",
+      "post_time": "13:10",
+      "course": "ダート1200",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090407.json"
+    },
+    {
+      "race_id": "202605090807",
+      "keibajo_name": "京都",
+      "race_number": 7,
+      "race_name": "1勝クラス",
+      "post_time": "13:20",
+      "course": "ダート1900",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090807.json"
+    },
+    {
+      "race_id": "202605090507",
+      "keibajo_name": "東京",
+      "race_number": 7,
+      "race_name": "1勝クラス",
+      "post_time": "13:30",
+      "course": "ダート2100",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090507.json"
+    },
+    {
+      "race_id": "202605090408",
+      "keibajo_name": "新潟",
+      "race_number": 8,
+      "race_name": "1勝クラス",
+      "post_time": "13:40",
+      "course": "ダート1800",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090408.json"
+    },
+    {
+      "race_id": "202605090808",
+      "keibajo_name": "京都",
+      "race_number": 8,
+      "race_name": "1勝クラス",
+      "post_time": "13:50",
+      "course": "ダート1400",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090808.json"
+    },
+    {
+      "race_id": "202605090508",
+      "keibajo_name": "東京",
+      "race_number": 8,
+      "race_name": "2勝クラス",
+      "post_time": "14:00",
+      "course": "芝2000",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090508.json"
+    },
+    {
+      "race_id": "202605090409",
+      "keibajo_name": "新潟",
+      "race_number": 9,
+      "race_name": "ゆきつばき賞",
+      "post_time": "14:10",
+      "course": "芝1200",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090409.json"
+    },
+    {
+      "race_id": "202605090809",
+      "keibajo_name": "京都",
+      "race_number": 9,
+      "race_name": "久御山特別",
+      "post_time": "14:20",
+      "course": "芝1600",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090809.json"
+    },
+    {
+      "race_id": "202605090509",
+      "keibajo_name": "東京",
+      "race_number": 9,
+      "race_name": "分倍河原ステークス",
+      "post_time": "14:30",
+      "course": "芝1600",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090509.json"
+    },
+    {
+      "race_id": "202605090410",
+      "keibajo_name": "新潟",
+      "race_number": 10,
+      "race_name": "粟島特別",
+      "post_time": "14:45",
+      "course": "芝1800",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090410.json"
+    },
+    {
+      "race_id": "202605090810",
+      "keibajo_name": "京都",
+      "race_number": 10,
+      "race_name": "鴨川特別",
+      "post_time": "14:55",
+      "course": "芝2000",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090810.json"
+    },
+    {
+      "race_id": "202605090510",
+      "keibajo_name": "東京",
+      "race_number": 10,
+      "race_name": "青竜ステークス",
+      "post_time": "15:05",
+      "course": "ダート1600",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090510.json"
+    },
+    {
+      "race_id": "202605090411",
+      "keibajo_name": "新潟",
+      "race_number": 11,
+      "race_name": "駿風ステークス",
+      "post_time": "15:20",
+      "course": "芝1000",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090411.json"
+    },
+    {
+      "race_id": "202605090811",
+      "keibajo_name": "京都",
+      "race_number": 11,
+      "race_name": "京都新聞杯",
+      "post_time": "15:30",
+      "course": "芝2200",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090811.json"
+    },
+    {
+      "race_id": "202605090511",
+      "keibajo_name": "東京",
+      "race_number": 11,
+      "race_name": "エプソムカップ",
+      "post_time": "15:45",
+      "course": "芝1800",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090511.json"
+    },
+    {
+      "race_id": "202605090412",
+      "keibajo_name": "新潟",
+      "race_number": 12,
+      "race_name": "1勝クラス",
+      "post_time": "16:00",
+      "course": "ダート1800",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090412.json"
+    },
+    {
+      "race_id": "202605090812",
+      "keibajo_name": "京都",
+      "race_number": 12,
+      "race_name": "2勝クラス",
+      "post_time": "16:10",
+      "course": "ダート1800",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090812.json"
+    },
+    {
+      "race_id": "202605090512",
+      "keibajo_name": "東京",
+      "race_number": 12,
+      "race_name": "2勝クラス",
+      "post_time": "16:30",
+      "course": "ダート1400",
+      "status": {
+        "has_entry": true,
+        "has_chokuzen": false,
+        "has_final": false,
+        "has_result": false
+      },
+      "file": "races/202605090512.json"
     }
   ]
 }
