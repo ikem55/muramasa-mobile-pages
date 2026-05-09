@@ -1,6 +1,6 @@
 {
   "target_date": "2026-05-09",
-  "generated_at": "2026-05-09T15:41+09:00",
+  "generated_at": "2026-05-09T15:53+09:00",
   "races": [
     {
       "race_id": "202605090401",
@@ -502,11 +502,11 @@
       "keibajo_name": "新潟",
       "race_number": 12,
       "race_name": "1勝クラス",
-      "post_time": "16:00",
+      "post_time": "16:01",
       "course": "ダート1800",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
