@@ -1,6 +1,6 @@
 {
   "target_date": "2026-05-09",
-  "generated_at": "2026-05-09T14:16+09:00",
+  "generated_at": "2026-05-09T14:27+09:00",
   "races": [
     {
       "race_id": "202605090401",
@@ -373,7 +373,7 @@
         "has_entry": true,
         "has_chokuzen": true,
         "has_final": true,
-        "has_result": false
+        "has_result": true
       },
       "file": "races/202605090409.json"
     },
@@ -397,11 +397,11 @@
       "keibajo_name": "東京",
       "race_number": 9,
       "race_name": "分倍河原ステークス",
-      "post_time": "14:30",
+      "post_time": "14:31",
       "course": "芝1600",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
