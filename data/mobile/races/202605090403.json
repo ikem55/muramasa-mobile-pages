@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202605090403",
     "target_date": "2026-05-09",
-    "generated_at": "2026-05-09T10:43+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-05-09T10:46+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -552,6 +552,39 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "09-12",
+        "stake": 100,
+        "odds": 28.2,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.895, prob=0.067, odds=28.2, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "03-09",
+        "stake": 200,
+        "odds": 5.1,
+        "llm_reason": "Stage B採用 (axis=9, ev=1.412, prob=0.277, odds=5.1, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "09-15",
+        "stake": 300,
+        "odds": 4.2,
+        "llm_reason": "Stage B採用 (axis=15, ev=1.575, prob=0.375, odds=4.2, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "09-15",
+        "stake": 100,
+        "odds": 10.1,
+        "llm_reason": "Stage B採用 (axis=15, ev=1.509, prob=0.149, odds=10.1, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 4 件を採用。主軸は 9 番で、中心は wide 09-15(300円, ev=1.575) / wide 03-09(200円, ev=1.412) / umaren 09-12(100円, ev=1.895)。"
+  },
   "result": null
 }
