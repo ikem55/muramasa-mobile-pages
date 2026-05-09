@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202605090506",
     "target_date": "2026-05-09",
-    "generated_at": "2026-05-09T12:57+09:00",
-    "stage": "final",
+    "generated_at": "2026-05-09T13:15+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -484,5 +484,196 @@
     "mode": "llm",
     "comment": "TRICKY / balanced で 4 件を採用。主軸は 10 番で、中心は wide 01-12(200円, ev=2.221) / wide 01-10(200円, ev=1.670) / sanrenpuku 01-10-12(100円, ev=2.899)。"
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 11,
+        "horse_name": "リッツパーティー",
+        "time": "1:45.4",
+        "last3f": 34.1,
+        "passing_order": "5-3-2",
+        "jockey_name": "横山武史"
+      },
+      {
+        "rank": 2,
+        "umaban": 6,
+        "horse_name": "ホールドザデイ",
+        "time": "1:45.5",
+        "last3f": 34.2,
+        "passing_order": "2-2-2",
+        "jockey_name": "横山和生"
+      },
+      {
+        "rank": 3,
+        "umaban": 12,
+        "horse_name": "アメテュストス",
+        "time": "1:45.8",
+        "last3f": 34.3,
+        "passing_order": "6-6-4",
+        "jockey_name": "レーン"
+      },
+      {
+        "rank": 4,
+        "umaban": 2,
+        "horse_name": "エリプティクカーブ",
+        "time": "1:45.9",
+        "last3f": 33.6,
+        "passing_order": "10-10-10",
+        "jockey_name": "ディー"
+      },
+      {
+        "rank": 5,
+        "umaban": 8,
+        "horse_name": "マイネルシンベリン",
+        "time": "1:46.0",
+        "last3f": 34.2,
+        "passing_order": "6-7-7",
+        "jockey_name": "津村明秀"
+      },
+      {
+        "rank": 6,
+        "umaban": 10,
+        "horse_name": "デイトナチャンプ",
+        "time": "1:46.2",
+        "last3f": 34.7,
+        "passing_order": "3-4-4",
+        "jockey_name": "ルメール"
+      },
+      {
+        "rank": 7,
+        "umaban": 7,
+        "horse_name": "テイエムスティール",
+        "time": "1:46.3",
+        "last3f": 34.1,
+        "passing_order": "9-8-9",
+        "jockey_name": "武豊"
+      },
+      {
+        "rank": 8,
+        "umaban": 4,
+        "horse_name": "ショウナンダイン",
+        "time": "1:46.4",
+        "last3f": 34.4,
+        "passing_order": "8-8-8",
+        "jockey_name": "丹内祐次"
+      },
+      {
+        "rank": 9,
+        "umaban": 5,
+        "horse_name": "サンセットゴールド",
+        "time": "1:46.9",
+        "last3f": 35.4,
+        "passing_order": "3-4-4",
+        "jockey_name": "佐々木大"
+      },
+      {
+        "rank": 10,
+        "umaban": 1,
+        "horse_name": "セイウンラピス",
+        "time": "1:47.3",
+        "last3f": 35.0,
+        "passing_order": "10-10-10",
+        "jockey_name": "松岡正海"
+      },
+      {
+        "rank": 11,
+        "umaban": 3,
+        "horse_name": "ナックホワイト",
+        "time": "1:47.7",
+        "last3f": 36.5,
+        "passing_order": "1-1-1",
+        "jockey_name": "荻野極"
+      },
+      {
+        "rank": 12,
+        "umaban": 9,
+        "horse_name": "サツキマーメイド",
+        "time": "1:48.7",
+        "last3f": 35.9,
+        "passing_order": "12-12-12",
+        "jockey_name": "佐藤翔馬"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "11",
+          "amount": 180,
+          "popularity": 2
+        },
+        {
+          "combination": "12",
+          "amount": 210,
+          "popularity": 4
+        },
+        {
+          "combination": "06",
+          "amount": 690,
+          "popularity": 10
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "06-11-12",
+          "amount": 11350,
+          "popularity": 41
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "11-06-12",
+          "amount": 68440,
+          "popularity": 231
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "11",
+          "amount": 470,
+          "popularity": 3
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "06-11",
+          "amount": 7390,
+          "popularity": 27
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "11-06",
+          "amount": 11970,
+          "popularity": 45
+        }
+      ],
+      "wakuren": [
+        {
+          "combination": "5-8",
+          "amount": 1750,
+          "popularity": 7
+        }
+      ],
+      "wide": [
+        {
+          "combination": "11-12",
+          "amount": 620,
+          "popularity": 6
+        },
+        {
+          "combination": "06-11",
+          "amount": 2540,
+          "popularity": 30
+        },
+        {
+          "combination": "06-12",
+          "amount": 2620,
+          "popularity": 31
+        }
+      ]
+    },
+    "vote_results": [],
+    "comment": null
+  }
 }
