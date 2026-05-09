@@ -1,6 +1,6 @@
 {
   "target_date": "2026-05-09",
-  "generated_at": "2026-05-09T10:33+09:00",
+  "generated_at": "2026-05-09T10:36+09:00",
   "races": [
     {
       "race_id": "202605090401",
@@ -87,7 +87,7 @@
       "status": {
         "has_entry": true,
         "has_chokuzen": true,
-        "has_final": false,
+        "has_final": true,
         "has_result": false
       },
       "file": "races/202605090502.json"
