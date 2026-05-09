@@ -1,6 +1,6 @@
 {
   "target_date": "2026-05-09",
-  "generated_at": "2026-05-09T13:46+09:00",
+  "generated_at": "2026-05-09T13:53+09:00",
   "races": [
     {
       "race_id": "202605090401",
@@ -352,11 +352,11 @@
       "keibajo_name": "東京",
       "race_number": 8,
       "race_name": "2勝クラス",
-      "post_time": "14:00",
+      "post_time": "14:01",
       "course": "芝2000",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
