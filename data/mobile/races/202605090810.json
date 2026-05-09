@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202605090810",
     "target_date": "2026-05-09",
-    "generated_at": "2026-05-09T14:51+09:00",
-    "stage": "final",
+    "generated_at": "2026-05-09T15:10+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -348,5 +348,224 @@
     "mode": "llm",
     "comment": "TRICKY / balanced で 4 件を採用。主軸は 5 番で、中心は wide 01-05(700円, ev=1.196) / umaren 01-05(500円, ev=1.389) / sanrenpuku 01-02-05(500円, ev=1.326)。"
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 3,
+        "horse_name": "ヴィスマール",
+        "time": "1:58.2",
+        "last3f": 34.5,
+        "passing_order": "1-1-1-1",
+        "jockey_name": "西村淳也"
+      },
+      {
+        "rank": 2,
+        "umaban": 2,
+        "horse_name": "メディテラニアン",
+        "time": "1:58.4",
+        "last3f": 34.3,
+        "passing_order": "5-4-5-3",
+        "jockey_name": "岩田望来"
+      },
+      {
+        "rank": 3,
+        "umaban": 5,
+        "horse_name": "アオイタケル",
+        "time": "1:58.5",
+        "last3f": 34.7,
+        "passing_order": "3-2-2-2",
+        "jockey_name": "川田将雅"
+      },
+      {
+        "rank": 4,
+        "umaban": 1,
+        "horse_name": "クラヴァンス",
+        "time": "1:58.8",
+        "last3f": 34.8,
+        "passing_order": "2-2-3-3",
+        "jockey_name": "坂井瑠星"
+      },
+      {
+        "rank": 5,
+        "umaban": 6,
+        "horse_name": "ダノンカゼルタ",
+        "time": "1:58.9",
+        "last3f": 34.7,
+        "passing_order": "8-8-5-6",
+        "jockey_name": "松山弘平"
+      },
+      {
+        "rank": 6,
+        "umaban": 4,
+        "horse_name": "リッチブラック",
+        "time": "1:59.5",
+        "last3f": 35.2,
+        "passing_order": "7-6-7-7",
+        "jockey_name": "吉村誠之"
+      },
+      {
+        "rank": 7,
+        "umaban": 7,
+        "horse_name": "ミカエルパシャ",
+        "time": "1:59.7",
+        "last3f": 35.7,
+        "passing_order": "4-4-3-3",
+        "jockey_name": "北村友一"
+      },
+      {
+        "rank": 8,
+        "umaban": 8,
+        "horse_name": "ヴォラヴィア",
+        "time": "1:59.8",
+        "last3f": 35.4,
+        "passing_order": "5-6-7-8",
+        "jockey_name": "川又賢治"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "05",
+          "amount": 110,
+          "popularity": 1
+        },
+        {
+          "combination": "02",
+          "amount": 110,
+          "popularity": 2
+        },
+        {
+          "combination": "03",
+          "amount": 120,
+          "popularity": 3
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "02-03-05",
+          "amount": 440,
+          "popularity": 1
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "03-02-05",
+          "amount": 4140,
+          "popularity": 12
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "03",
+          "amount": 490,
+          "popularity": 3
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "02-03",
+          "amount": 650,
+          "popularity": 3
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "03-02",
+          "amount": 1760,
+          "popularity": 11
+        }
+      ],
+      "wide": [
+        {
+          "combination": "02-05",
+          "amount": 160,
+          "popularity": 1
+        },
+        {
+          "combination": "02-03",
+          "amount": 180,
+          "popularity": 2
+        },
+        {
+          "combination": "03-05",
+          "amount": 230,
+          "popularity": 3
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-02-05",
+        "stake": 300,
+        "payout": 0,
+        "profit": -300,
+        "is_hit": false,
+        "odds": 8.0,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-03-05",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 12.9,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "01-03",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 19.3,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "01-05",
+        "stake": 300,
+        "payout": 0,
+        "profit": -300,
+        "is_hit": false,
+        "odds": 8.9,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-05",
+        "stake": 600,
+        "payout": 0,
+        "profit": -600,
+        "is_hit": false,
+        "odds": 3.0,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-04",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 21.4,
+        "popularity": null
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "04-05",
+        "stake": 100,
+        "payout": 0,
+        "profit": -100,
+        "is_hit": false,
+        "odds": 16.9,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
