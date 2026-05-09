@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202605090410",
     "target_date": "2026-05-09",
-    "generated_at": "2026-05-09T14:38+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-05-09T14:41+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -484,6 +484,39 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "03-05-07",
+        "stake": 200,
+        "odds": 24.2,
+        "llm_reason": "Stage B採用 (axis=5, ev=1.474, prob=0.061, odds=24.2, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "05-08",
+        "stake": 1000,
+        "odds": 6.2,
+        "llm_reason": "Stage B採用 (axis=5, ev=1.436, prob=0.232, odds=6.2, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "03-07",
+        "stake": 600,
+        "odds": 9.4,
+        "llm_reason": "Stage B採用 (axis=3, ev=1.402, prob=0.149, odds=9.4, source=latest)"
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "03-05-08",
+        "stake": 100,
+        "odds": 22.3,
+        "llm_reason": "Stage B採用 (axis=3, ev=1.311, prob=0.059, odds=22.3, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 4 件を採用。主軸は 3 番で、中心は wide 05-08(1000円, ev=1.436) / wide 03-07(600円, ev=1.402) / sanrenpuku 03-05-07(200円, ev=1.474)。"
+  },
   "result": null
 }
