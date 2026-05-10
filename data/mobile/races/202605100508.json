@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202605100508",
     "target_date": "2026-05-10",
-    "generated_at": "2026-05-10T13:49+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-05-10T13:51+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -416,6 +416,46 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "03-07",
+        "stake": 200,
+        "odds": 13.3,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.264, prob=0.095, odds=13.3, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "03-07",
+        "stake": 300,
+        "odds": 5.0,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.183, prob=0.237, odds=5.0, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "04-07",
+        "stake": 400,
+        "odds": 4.3,
+        "llm_reason": "Stage B採用 (axis=7, ev=1.177, prob=0.274, odds=4.3, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "04-09",
+        "stake": 100,
+        "odds": 83.8,
+        "llm_reason": "Stage B採用 (axis=4, ev=1.827, prob=0.022, odds=83.8, source=latest)"
+      },
+      {
+        "ticket_type": "tansho",
+        "combination": "04",
+        "stake": 500,
+        "odds": 18.3,
+        "llm_reason": "Stage B採用 (axis=4, ev=1.821, prob=0.100, odds=18.3, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 5 件を採用。主軸は 7 番で、中心は tansho 04(500円, ev=1.821) / wide 04-07(400円, ev=1.177) / wide 03-07(300円, ev=1.183)。"
+  },
   "result": null
 }
