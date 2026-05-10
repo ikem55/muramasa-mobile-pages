@@ -1,6 +1,6 @@
 {
   "target_date": "2026-05-10",
-  "generated_at": "2026-05-10T12:31+09:00",
+  "generated_at": "2026-05-10T12:38+09:00",
   "races": [
     {
       "race_id": "202605100401",
@@ -251,7 +251,7 @@
       "course": "芝2200",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
