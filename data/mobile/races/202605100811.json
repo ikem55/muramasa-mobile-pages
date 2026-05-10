@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202605100811",
     "target_date": "2026-05-10",
-    "generated_at": "2026-05-10T15:18+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-05-10T15:21+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -586,6 +586,46 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "10-14",
+        "stake": 4800,
+        "odds": 7.5,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.583, prob=0.211, odds=7.5, source=latest)"
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "02-04-10",
+        "stake": 200,
+        "odds": 31.4,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.159, prob=0.037, odds=31.4, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "04-10",
+        "stake": 1000,
+        "odds": 4.7,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.112, prob=0.237, odds=4.7, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "04-14",
+        "stake": 400,
+        "odds": 35.3,
+        "llm_reason": "Stage B採用 (axis=14, ev=1.306, prob=0.037, odds=35.3, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "10-14",
+        "stake": 600,
+        "odds": 16.8,
+        "llm_reason": "Stage B採用 (axis=14, ev=1.243, prob=0.074, odds=16.8, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 5 件を採用。主軸は 10 番で、中心は wide 10-14(4800円, ev=1.583) / umaren 04-10(1000円, ev=1.112) / umaren 10-14(600円, ev=1.243)。"
+  },
   "result": null
 }
