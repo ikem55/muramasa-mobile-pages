@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202605100810",
     "target_date": "2026-05-10",
-    "generated_at": "2026-05-10T14:46+09:00",
-    "stage": "final",
+    "generated_at": "2026-05-10T15:05+09:00",
+    "stage": "result",
     "version": 1
   },
   "race": {
@@ -450,5 +450,258 @@
     "mode": "llm",
     "comment": "TRICKY / balanced で 4 件を採用。主軸は 4 番で、中心は sanrenpuku 01-04-06(4600円, ev=2.023) / sanrenpuku 01-04-05(1800円, ev=1.300) / umaren 01-04(1600円, ev=1.288)。"
   },
-  "result": null
+  "result": {
+    "horses": [
+      {
+        "rank": 1,
+        "umaban": 4,
+        "horse_name": "タガノアラリア",
+        "time": "1:19.7",
+        "last3f": 33.2,
+        "passing_order": "1-1",
+        "jockey_name": "鮫島克駿"
+      },
+      {
+        "rank": 2,
+        "umaban": 6,
+        "horse_name": "フォーゲル",
+        "time": "1:19.8",
+        "last3f": 33.1,
+        "passing_order": "3-3",
+        "jockey_name": "池添謙一"
+      },
+      {
+        "rank": 3,
+        "umaban": 5,
+        "horse_name": "スペルーチェ",
+        "time": "1:20.1",
+        "last3f": 33.3,
+        "passing_order": "10-5",
+        "jockey_name": "Ｍ．デム"
+      },
+      {
+        "rank": 4,
+        "umaban": 10,
+        "horse_name": "アスミル",
+        "time": "1:20.2",
+        "last3f": 33.7,
+        "passing_order": "2-2",
+        "jockey_name": "太宰啓介"
+      },
+      {
+        "rank": 5,
+        "umaban": 8,
+        "horse_name": "ハンデンドレイク",
+        "time": "1:20.3",
+        "last3f": 33.6,
+        "passing_order": "4-5",
+        "jockey_name": "酒井学"
+      },
+      {
+        "rank": 6,
+        "umaban": 1,
+        "horse_name": "ケールハイム",
+        "time": "1:20.8",
+        "last3f": 33.9,
+        "passing_order": "5-7",
+        "jockey_name": "武豊"
+      },
+      {
+        "rank": 7,
+        "umaban": 9,
+        "horse_name": "アルスマグナ",
+        "time": "1:20.9",
+        "last3f": 34.3,
+        "passing_order": "7-3",
+        "jockey_name": "岩田康誠"
+      },
+      {
+        "rank": 8,
+        "umaban": 7,
+        "horse_name": "ストームサンダー",
+        "time": "1:21.0",
+        "last3f": 34.1,
+        "passing_order": "5-7",
+        "jockey_name": "幸英明"
+      },
+      {
+        "rank": 9,
+        "umaban": 2,
+        "horse_name": "ヨサリ",
+        "time": "1:21.1",
+        "last3f": 33.9,
+        "passing_order": "7-10",
+        "jockey_name": "渡辺竜也"
+      },
+      {
+        "rank": 10,
+        "umaban": 3,
+        "horse_name": "トラスコンガーデン",
+        "time": "1:21.3",
+        "last3f": 34.3,
+        "passing_order": "7-9",
+        "jockey_name": "長岡禎仁"
+      },
+      {
+        "rank": 11,
+        "umaban": 11,
+        "horse_name": "ギガントマキア",
+        "time": "1:21.6",
+        "last3f": 34.0,
+        "passing_order": "11-11",
+        "jockey_name": "城戸義政"
+      }
+    ],
+    "payouts": {
+      "fukusho": [
+        {
+          "combination": "04",
+          "amount": 110,
+          "popularity": 1
+        },
+        {
+          "combination": "05",
+          "amount": 130,
+          "popularity": 2
+        },
+        {
+          "combination": "06",
+          "amount": 140,
+          "popularity": 4
+        }
+      ],
+      "sanrenpuku": [
+        {
+          "combination": "04-05-06",
+          "amount": 450,
+          "popularity": 1
+        }
+      ],
+      "sanrentan": [
+        {
+          "combination": "04-06-05",
+          "amount": 2000,
+          "popularity": 3
+        }
+      ],
+      "tansho": [
+        {
+          "combination": "04",
+          "amount": 180,
+          "popularity": 1
+        }
+      ],
+      "umaren": [
+        {
+          "combination": "04-06",
+          "amount": 570,
+          "popularity": 3
+        }
+      ],
+      "umatan": [
+        {
+          "combination": "04-06",
+          "amount": 830,
+          "popularity": 3
+        }
+      ],
+      "wakuren": [
+        {
+          "combination": "4-6",
+          "amount": 480,
+          "popularity": 2
+        }
+      ],
+      "wide": [
+        {
+          "combination": "04-05",
+          "amount": 170,
+          "popularity": 1
+        },
+        {
+          "combination": "04-06",
+          "amount": 200,
+          "popularity": 3
+        },
+        {
+          "combination": "05-06",
+          "amount": 340,
+          "popularity": 4
+        }
+      ]
+    },
+    "vote_results": [
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-03-04",
+        "stake": 300,
+        "payout": 0,
+        "profit": -300,
+        "is_hit": false,
+        "odds": 29.9,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-04-05",
+        "stake": 1300,
+        "payout": 0,
+        "profit": -1300,
+        "is_hit": false,
+        "odds": 4.8,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "03-04-06",
+        "stake": 200,
+        "payout": 0,
+        "profit": -200,
+        "is_hit": false,
+        "odds": 39.0,
+        "popularity": null
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "04-05-06",
+        "stake": 900,
+        "payout": 4050,
+        "profit": 3150,
+        "is_hit": true,
+        "odds": 7.0,
+        "popularity": 1
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "01-04",
+        "stake": 1600,
+        "payout": 0,
+        "profit": -1600,
+        "is_hit": false,
+        "odds": 5.1,
+        "popularity": null
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "04-06",
+        "stake": 1300,
+        "payout": 7410,
+        "profit": 6110,
+        "is_hit": true,
+        "odds": 6.1,
+        "popularity": 3
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "01-06",
+        "stake": 3500,
+        "payout": 0,
+        "profit": -3500,
+        "is_hit": false,
+        "odds": 4.6,
+        "popularity": null
+      }
+    ],
+    "comment": null
+  }
 }
