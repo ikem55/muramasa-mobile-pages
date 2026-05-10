@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202605100506",
     "target_date": "2026-05-10",
-    "generated_at": "2026-05-10T12:49+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-05-10T12:51+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -416,6 +416,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "umaren",
+        "combination": "06-07",
+        "stake": 300,
+        "odds": 20.9,
+        "llm_reason": "Stage B採用 (axis=6, ev=1.940, prob=0.093, odds=20.9, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "06-07",
+        "stake": 600,
+        "odds": 5.9,
+        "llm_reason": "Stage B採用 (axis=6, ev=1.601, prob=0.271, odds=5.9, source=latest)"
+      },
+      {
+        "ticket_type": "sanrenpuku",
+        "combination": "01-06-10",
+        "stake": 200,
+        "odds": 19.0,
+        "llm_reason": "Stage B採用 (axis=6, ev=1.581, prob=0.083, odds=19.0, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "TRICKY / balanced で 3 件を採用。主軸は 6 番で、中心は wide 06-07(600円, ev=1.601) / umaren 06-07(300円, ev=1.940) / sanrenpuku 01-06-10(200円, ev=1.581)。"
+  },
   "result": null
 }
