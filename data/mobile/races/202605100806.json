@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202605100806",
     "target_date": "2026-05-10",
-    "generated_at": "2026-05-10T12:38+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-05-10T12:41+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -382,6 +382,53 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "03-10",
+        "stake": 300,
+        "odds": 22.3,
+        "llm_reason": "Stage B採用 (axis=3, ev=2.406, prob=0.108, odds=22.3, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "03-05",
+        "stake": 300,
+        "odds": 6.5,
+        "llm_reason": "Stage B採用 (axis=3, ev=1.483, prob=0.228, odds=6.5, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "03-06",
+        "stake": 100,
+        "odds": 19.1,
+        "llm_reason": "Stage B採用 (axis=6, ev=1.543, prob=0.081, odds=19.1, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "03-06",
+        "stake": 100,
+        "odds": 5.1,
+        "llm_reason": "Stage B採用 (axis=6, ev=1.211, prob=0.237, odds=5.1, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "05-10",
+        "stake": 200,
+        "odds": 36.2,
+        "llm_reason": "Stage B採用 (axis=5, ev=2.813, prob=0.078, odds=36.2, source=latest)"
+      },
+      {
+        "ticket_type": "umaren",
+        "combination": "05-06",
+        "stake": 100,
+        "odds": 29.8,
+        "llm_reason": "Stage B採用 (axis=5, ev=1.764, prob=0.059, odds=29.8, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 6 件を採用。主軸は 3 番で、中心は wide 03-10(300円, ev=2.406) / wide 03-05(300円, ev=1.483) / wide 05-10(200円, ev=2.813)。"
+  },
   "result": null
 }
