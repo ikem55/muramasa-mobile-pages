@@ -2,8 +2,8 @@
   "meta": {
     "race_id": "202605100402",
     "target_date": "2026-05-10",
-    "generated_at": "2026-05-10T10:08+09:00",
-    "stage": "chokuzen",
+    "generated_at": "2026-05-10T10:11+09:00",
+    "stage": "final",
     "version": 1
   },
   "race": {
@@ -552,6 +552,32 @@
     "mode": null,
     "comment": null
   },
-  "final": null,
+  "final": {
+    "bets": [
+      {
+        "ticket_type": "wide",
+        "combination": "09-10",
+        "stake": 600,
+        "odds": 16.1,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.856, prob=0.115, odds=16.1, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "02-10",
+        "stake": 500,
+        "odds": 8.5,
+        "llm_reason": "Stage B採用 (axis=10, ev=1.352, prob=0.159, odds=8.5, source=latest)"
+      },
+      {
+        "ticket_type": "wide",
+        "combination": "04-09",
+        "stake": 100,
+        "odds": 16.9,
+        "llm_reason": "Stage B採用 (axis=4, ev=1.126, prob=0.067, odds=16.9, source=latest)"
+      }
+    ],
+    "mode": "llm",
+    "comment": "CHAOS / diversified で 3 件を採用。主軸は 10 番で、中心は wide 09-10(600円, ev=1.856) / wide 02-10(500円, ev=1.352) / wide 04-09(100円, ev=1.126)。"
+  },
   "result": null
 }
