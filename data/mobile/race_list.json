@@ -1,6 +1,6 @@
 {
   "target_date": "2026-05-10",
-  "generated_at": "2026-05-10T15:21+09:00",
+  "generated_at": "2026-05-10T15:33+09:00",
   "races": [
     {
       "race_id": "202605100401",
@@ -463,7 +463,7 @@
         "has_entry": true,
         "has_chokuzen": true,
         "has_final": true,
-        "has_result": false
+        "has_result": true
       },
       "file": "races/202605100411.json"
     },
@@ -491,7 +491,7 @@
       "course": "芝1600",
       "status": {
         "has_entry": true,
-        "has_chokuzen": false,
+        "has_chokuzen": true,
         "has_final": false,
         "has_result": false
       },
